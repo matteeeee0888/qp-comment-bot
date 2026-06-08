@@ -1,0 +1,35 @@
+{
+  "_note": "Claim-free facts for automated comment replies. NEVER add efficacy/safety claims beyond these. Prices are intentionally omitted from public replies (complex multi-pack tiers) — direct pricing to a DM with the buy link.",
+  "shared": {
+    "brand": "QuietProtector",
+    "support_email": "support@quietprotector.com",
+    "guarantee": "120-day money-back guarantee",
+    "pricing_handling": "Pricing comes in multi-packs and can change — do NOT state exact prices in a public reply. Warmly point them to a DM, where you may share the buy link to see current bundles."
+  },
+  "products": {
+    "terrabolt": {
+      "name": "TerraBolt",
+      "what_it_is": "a portable steel-plate lock that braces an inward-opening door from the inside — popular for hotels, Airbnbs, apartments, and dorms.",
+      "buy_url": "https://www.tryterrabolt.com/lead4",
+      "shipping": "Ships within about 24 hours and typically arrives in 7-10 business days (US).",
+      "fits_note": "Fits standard inward-opening doors that have a visible strike plate; it is not for sliding, outward-opening, or double doors.",
+      "keywords": ["terrabolt", "tryterrabolt"]
+    },
+    "terrastryke": {
+      "name": "TerraStryke",
+      "what_it_is": "a keychain-sized car-escape tool with a spring-loaded striker for tempered side windows and a built-in seatbelt cutter.",
+      "buy_url": "https://www.tryterrastrike.com/lead",
+      "shipping": "Ships within about 24 hours and typically arrives in 7-14 business days (US).",
+      "fits_note": "Designed for tempered side windows; it is not for laminated windshields or some newer side windows.",
+      "keywords": ["terrastryke", "terrastrike", "tryterrastrike"]
+    },
+    "terrashell": {
+      "name": "TerraShell",
+      "what_it_is": "a compact emergency thermal bivy (a sleeping-bag-style body enclosure) that packs down to about 4 oz, smaller than a soda can, with a built-in whistle.",
+      "buy_url": "https://www.getterrashell.com",
+      "shipping": "Ships within about 24 hours; ships to the US, UK, Canada, Australia, and New Zealand (typically 10-15 business days). No PO boxes.",
+      "fits_note": "",
+      "keywords": ["terrashell", "getterrashell"]
+    }
+  }
+}

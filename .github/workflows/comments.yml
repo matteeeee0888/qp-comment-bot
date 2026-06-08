@@ -1,0 +1,38 @@
+name: comment-responder
+# Auto-replies to QuietProtector page comments (organic + ad/dark posts) in the cloud.
+# Secrets required: META_ACCESS_TOKEN, and ONE text key: ANTHROPIC_API_KEY (recommended) or OPENAI_API_KEY.
+# Optional: RESEND_API_KEY (emails risky alerts to support@).
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 min (GitHub may delay under load). Raise/lower per budget.
+  workflow_dispatch: {}        # manual "Run workflow" button
+permissions:
+  contents: write              # to commit comment memory (seen-store / cache) back
+concurrency:
+  group: comment-responder
+  cancel-in-progress: false
+jobs:
+  respond:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - name: Respond to comments
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: node bin/comment-run.js --live --hide-risky
+      - name: Persist comment memory
+        if: always()
+        run: |
+          git config user.name "qp-comment-bot"
+          git config user.email "qp-comment-bot@users.noreply.github.com"
+          git add state/comments-seen.json state/ad-stories.json state/risky-alerts.log 2>/dev/null || true
+          git commit -m "state: comment run [skip ci]" || echo "no state changes"
+          git push || echo "push skipped"

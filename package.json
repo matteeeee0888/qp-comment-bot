@@ -1,0 +1,13 @@
+{
+  "name": "pet-page-posts",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "build-map": "node bin/build-map.js",
+    "plan-week": "node bin/plan-week.js",
+    "publish": "node bin/publish.js"
+  },
+  "dependencies": { "gray-matter": "^4.0.3" }
+}

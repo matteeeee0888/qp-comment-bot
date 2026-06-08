@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.quietprotector.pageposts.comments</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/matte/Desktop/ClaudeCode/pet-page-posts-main/launchd/run-comments.sh</string>
+  </array>
+  <key>StartInterval</key>
+  <integer>900</integer>
+  <key>StandardOutPath</key>
+  <string>/Users/matte/Desktop/ClaudeCode/pet-page-posts-main/state/comments.launchd.out</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/matte/Desktop/ClaudeCode/pet-page-posts-main/state/comments.launchd.err</string>
+</dict>
+</plist>

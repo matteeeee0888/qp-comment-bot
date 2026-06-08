@@ -1,0 +1,57 @@
+{
+  "draftsDir": "state/drafts",
+  "tokenEnvPath": "/Users/matte/.claude/credentials/meta.env",
+  "graphVersion": "v21.0",
+  "timezone": "America/New_York",
+  "timeWindow": {
+    "startHour": 8,
+    "endHour": 20
+  },
+  "tiers": {
+    "HIGH": { "minActiveAds": 50, "daysPattern": [1, 1, 1, 1, 1, 1, 1] },
+    "MID": { "minActiveAds": 10, "daysPattern": [1, 1, 1, 1, 1, 1, 1] },
+    "LOW": { "minActiveAds": 1, "daysPattern": [1, 1, 1, 1, 1, 1, 1] },
+    "DORMANT": { "minActiveAds": 0, "daysPattern": [1, 1, 1, 1, 1, 1, 1] }
+  },
+  "alwaysInclude": {
+    "1127031013825481": { "name": "Lauren Gargulio", "tier": "MID" },
+    "1188071991047656": { "name": "Bruna Lorrell", "tier": "MID" },
+    "1112110298653755": { "name": "Sofia Rossi", "tier": "MID" }
+  },
+  "includePageIds": [
+    "1127031013825481",
+    "1188071991047656",
+    "1112110298653755",
+    "1124746537378992",
+    "985048591368725",
+    "1092442657286729",
+    "1055885867606549",
+    "1031788496687467",
+    "968263026380089",
+    "936909452848936",
+    "1050667511458583",
+    "1003918682810439",
+    "962411806966339",
+    "1059660273889438",
+    "911963812004163",
+    "768075889726058",
+    "719343644592338"
+  ],
+  "commentExcludePageIds": ["1127031013825481", "1188071991047656"],
+  "commentMaxActionsPerRun": 25,
+  "weekStartMode": "today",
+  "bufferDays": 7,
+  "maxScaffoldsPerRun": 200,
+  "memeShare": 0,
+  "autoMemes": false,
+  "store": {
+    "dir": "state/posts"
+  },
+  "telegram": {
+    "envPath": "~/.claude/credentials/telegram.env"
+  },
+  "github": {
+    "commitState": false
+  },
+  "imageMissingPolicy": "skip"
+}

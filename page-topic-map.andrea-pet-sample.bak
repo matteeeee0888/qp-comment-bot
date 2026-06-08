@@ -1,0 +1,173 @@
+[
+  {
+    "page_id": "1125598737305596",
+    "page_name": "Barbara Brown",
+    "topic": "cat",
+    "active_ads": 38,
+    "tier": "MID",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1201592776363278",
+    "page_name": "Caroline Stones",
+    "topic": "both",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "default"
+  },
+  {
+    "page_id": "1088327747705669",
+    "page_name": "Sarah Miller",
+    "topic": "both",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "default"
+  },
+  {
+    "page_id": "1149657604892592",
+    "page_name": "Diane C. Roberts",
+    "topic": "cat",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1116441188223203",
+    "page_name": "Linda H. Dye",
+    "topic": "cat",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1048836378316428",
+    "page_name": "Russel Prewitt",
+    "topic": "dog",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1088037781059145",
+    "page_name": "Laurie Bennett",
+    "topic": "dog",
+    "active_ads": 1,
+    "tier": "LOW",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1028852286983547",
+    "page_name": "Janet Harper",
+    "topic": "cat",
+    "active_ads": 0,
+    "tier": "MID",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1055624584301743",
+    "page_name": "Carol Mitchell",
+    "topic": "dog",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "category"
+  },
+  {
+    "page_id": "1057436950790838",
+    "page_name": "Diane Foster",
+    "topic": "dog",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1029190046952177",
+    "page_name": "Susan Miller",
+    "topic": "dog",
+    "active_ads": 150,
+    "tier": "HIGH",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1092554370608037",
+    "page_name": "Margot Malpass",
+    "topic": "dog",
+    "active_ads": 1,
+    "tier": "LOW",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1127112887142637",
+    "page_name": "Angela Truex",
+    "topic": "dog",
+    "active_ads": 1,
+    "tier": "LOW",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1131155456740150",
+    "page_name": "Lori Clay",
+    "topic": "dog",
+    "active_ads": 126,
+    "tier": "HIGH",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "1040285485838757",
+    "page_name": "Caroline Williams",
+    "topic": "dog",
+    "active_ads": 6,
+    "tier": "LOW",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "939630525911349",
+    "page_name": "Nancy Nichols",
+    "topic": "dog",
+    "active_ads": 1,
+    "tier": "LOW",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "975773792282791",
+    "page_name": "Little Person Trains Dogs",
+    "topic": "dog",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "category"
+  },
+  {
+    "page_id": "763864950124903",
+    "page_name": "ShoppingPaw",
+    "topic": "dog",
+    "active_ads": 101,
+    "tier": "HIGH",
+    "eligible": true,
+    "source": "ads"
+  },
+  {
+    "page_id": "539053532629882",
+    "page_name": "The Pawesome",
+    "topic": "both",
+    "active_ads": 0,
+    "tier": "DORMANT",
+    "eligible": true,
+    "source": "default"
+  }
+]
