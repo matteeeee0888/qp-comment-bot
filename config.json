@@ -37,7 +37,7 @@
     "768075889726058",
     "719343644592338"
   ],
-  "commentExcludePageIds": ["1127031013825481", "1188071991047656"],
+  "commentExcludePageIds": [],
   "commentMaxActionsPerRun": 25,
   "weekStartMode": "today",
   "bufferDays": 7,
