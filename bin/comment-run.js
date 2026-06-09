@@ -12,6 +12,7 @@ import { CommentsClient } from "../lib/metaComments.js";
 import { activeAdStoryIds } from "../lib/adPosts.js";
 import { classify, detectProduct } from "../lib/commentBrain.js";
 import { sendAlert } from "../lib/alert.js";
+import { archiveComment } from "../lib/archive.js";
 
 const repoRoot = fileURLToPath(new URL("../", import.meta.url));
 const cfg = await loadConfig();
@@ -103,6 +104,7 @@ for (const pg of pages) {
       let b;
       try { b = await classify(c.message, product); } catch (e) { console.log(`  brain err: ${e.message}`); continue; }
       await act(b, c, pg, product, obj.source);
+      await archiveComment({ comment: c, page: pg, product, brain: b, source: obj.source }).catch(() => {});
       seen.add(c.id);
       handled++;
     }
