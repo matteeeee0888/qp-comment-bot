@@ -95,6 +95,8 @@ for (const pg of pages) {
 
   for (const obj of objects) {
     const product = detectProduct(obj.ctx);
+    const oid = String(obj.id);
+    const postUrl = oid.includes("_") ? `https://www.facebook.com/${oid.split("_")[0]}/posts/${oid.split("_")[1]}` : "";
     let comments = [];
     try { comments = await client.comments(obj.id, pg.page_id); } catch { continue; }
     for (const c of comments) {
@@ -104,7 +106,8 @@ for (const pg of pages) {
       let b;
       try { b = await classify(c.message, product); } catch (e) { console.log(`  brain err: ${e.message}`); continue; }
       await act(b, c, pg, product, obj.source);
-      await archiveComment({ comment: c, page: pg, product, brain: b, source: obj.source }).catch(() => {});
+      const archiveBrain = b.action === "escalate" ? { ...b, reply: `⚠️ NEEDS HUMAN REPLY → ${postUrl} (comment ${c.id})` } : b;
+      await archiveComment({ comment: c, page: pg, product, brain: archiveBrain, source: obj.source }).catch(() => {});
       seen.add(c.id);
       handled++;
     }

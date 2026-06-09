@@ -38,7 +38,7 @@
     "719343644592338"
   ],
   "commentExcludePageIds": [],
-  "commentMaxActionsPerRun": 25,
+  "commentMaxActionsPerRun": 100,
   "weekStartMode": "today",
   "bufferDays": 7,
   "maxScaffoldsPerRun": 200,
