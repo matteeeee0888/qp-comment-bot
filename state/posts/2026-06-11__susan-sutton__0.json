@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "09:51",
-  "message": "",
+  "message": "I've been reading through some solid fire safety fundamentals lately, and honestly, most of it comes down to pretty straightforward habits—things like keeping exits clear and having a way to get out quickly. There's a government resource I've found genuinely helpful for walking through the basics without any of the scary stuff, just practical steps. What's one fire safety habit you've already got dialed in at your place?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "962411806966339_122117605094947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a9faee44f4106ec21c4dde26aaeacd2c52c16a76ea720750757505dbec19c0c7",
+  "image_key": "gen"
 }

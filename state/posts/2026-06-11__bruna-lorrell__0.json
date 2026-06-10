@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "18:03",
-  "message": "",
+  "message": "I stumbled on this really solid guide about home fire prep, and it's honestly less about scary scenarios and more about practical stuff that actually makes a difference—like knowing your escape routes and testing smoke alarms. It's the kind of thing that takes an afternoon but gives you real peace of mind. Have you and your household ever done a quick walkthrough together to talk through what you'd do?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1188071991047656_122106292725350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "be6e5bd2e48d601ab34e2149dc7d61ac8877fa1bf6e4293df380448d2945f988",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "14:56",
-  "message": "",
+  "message": "Last week our power went out for like eight hours—no warning, no fanfare. My first instinct was to panic (as one does), but then I remembered we'd actually *kept* our flashlights in the kitchen drawer where we could find them. Sounds tiny, right? But honestly, it made such a difference. We weren't fumbling around in the dark looking for batteries that expired in 2019. We just... had what we needed, right there.\n\nI realized that half of preparedness isn't about grand gestures—it's just about putting things where future-you can actually find them. Water bottles in an easy spot. A folder with documents. Knowing where the first aid kit lives. Small wins that feel almost boring until the moment you need them.\n\nWhat's one simple thing you've kept accessible that ended up being handy when you needed it most?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1124746537378992_122111314514692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ebb3d32e0eb7f5f25c29046c6d7c7a8c32429c5e29de618ee564654923871f88",
+  "image_key": "gen"
 }

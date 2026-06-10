@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "10:35",
-  "message": "",
+  "message": "So my friend texted me at 11 PM last week totally freaking out because she smelled something burning in her kitchen—and honestly, it turned out to be a forgotten pan on low heat. But here's the thing: instead of me making fun of her (okay, *a little*), I realized I'd never actually walked through my own fire escape plan with my family. Like, we have smoke alarms, sure, but do my kids know to get LOW and go to our meeting spot? No idea.\n\nSometimes the panicky friend is onto something. A little refresh on the basics—escape routes, making sure everyone knows what to do—takes maybe 20 minutes and gives you actual peace of mind that isn't frantic.\n\nHave you walked through your escape plan with your household lately, or is it more of a \"yeah, we should probably do that\" situation? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1127031013825481_122103990705335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "70a39318edf063d900d92b21d2b930365eeca36ad03b14d482912e9b9a8898fc",
+  "image_key": "gen"
 }

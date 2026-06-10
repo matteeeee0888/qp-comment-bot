@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "19:16",
-  "message": "",
+  "message": "Last week my kid's school called during the one moment my phone decided to die—battery at 1%, and of course I didn't have the charger in the car. Cue mild panic while I'm scrambling to find a pay phone (do those even exist anymore?) to call back.\n\nIt got me thinking: how many important numbers or details do we actually keep *outside* our phones? I realized I didn't even know my own backup contact's number without looking it up.\n\nSo I started keeping a simple written list of essentials—emergency contacts, important dates, insurance info—tucked in a drawer at home and a copy in my go-bag. Nothing fancy. Just the stuff that matters when technology takes a coffee break.\n\nMaybe it's old-school, but there's something reassuring about having a backup plan that doesn't need charging.\n\nDo you keep any important info written down the old-fashioned way, or are you all-in on digital?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "985048591368725_122104556426629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e4d1a6accefd45e3af7b4036a3f5d149b2a846c47a9a6f54aa8b8932b1b870db",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "16:06",
-  "message": "",
+  "message": "I've been reading through the Red Cross guide on hurricane prep, and honestly, it's such a straightforward breakdown of what actually matters—no fluff, just practical steps you can take at your own pace. The nice part is realizing that a lot of this prep stuff overlaps with other emergencies too, so you're not starting from scratch. What's one area of storm readiness you've already tackled, or are you just getting started?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "968263026380089_122114379422914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "8121b0a628fdad1b4534896e31e87c887416242e663780eb84fa6eff5f502421",
+  "image_key": "gen"
 }

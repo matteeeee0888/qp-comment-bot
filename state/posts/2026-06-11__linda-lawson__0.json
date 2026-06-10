@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "09:47",
-  "message": "",
+  "message": "I was poking around Ready.gov the other day and found their home fire resource—it's genuinely helpful for thinking through the basics without any doom-and-gloom vibes. Turns out a lot of fire safety comes down to simple habits and a quick conversation with your household, which feels totally doable. What's one fire safety thing you've already got locked in at home?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "936909452848936_122116290122955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "297cf41fba88b29079e0ba527e6ad2b0210c37b6c07c0589de9756854c851540",
+  "image_key": "gen"
 }

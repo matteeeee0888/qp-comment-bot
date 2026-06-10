@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "17:37",
-  "message": "",
+  "message": "I've been reading through the Red Cross's power outage prep guide, and honestly, it's way less overwhelming than I expected—just practical stuff like where to keep flashlights and how to handle your fridge. Turns out a little planning ahead means you can handle an outage without it turning into a whole thing. What's your go-to move when the lights go out—do you have a spot where everyone knows to meet, or is it more of a \"figure it out as we go\" situation?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1050667511458583_122116769432950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f7dd06a0d35090794b20b580e3654b4ef5184e7d38a2d2811c171899334a7620",
+  "image_key": "gen"
 }

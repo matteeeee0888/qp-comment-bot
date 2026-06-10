@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "11:33",
-  "message": "",
+  "message": "I stumbled on this solid Red Cross guide about power outages, and honestly, it's the kind of practical stuff that actually sticks with you—less scary, more \"here's what to think about.\" The nice part is knowing ahead of time makes the whole thing way less stressful when the lights actually go out. What's the longest blackout you've dealt with, and did you learn anything from it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1003918682810439_122118597099072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c405052d7ea5470edfa506671691b9673cfbd035838e79a203a99175c0d590ad",
+  "image_key": "gen"
 }

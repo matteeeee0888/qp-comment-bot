@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "10:52",
-  "message": "",
+  "message": "My friend Jake calls me at 2 a.m. during a storm warning—not because he's scared, but because he *suddenly realizes* he has no idea where his documents are, his kids don't know where to meet if they get separated, and he's pretty sure his go-bag is just a gym duffel from 2015.\n\nI get it. Most of us aren't \"preparedness people\" until we're in a moment. But here's what I've learned: a little calm planning now means *way* less panic later. It doesn't have to be fancy—just the basics: knowing where important papers live, making sure everyone has a flashlight and water nearby, and actually talking through \"what if\" as a family (without making it scary).\n\nJake texted me the next morning: \"I'm embarrassed this freaked me out so much.\" But that's the thing—once you've thought it through even once, that weight lifts. You're not *ready for the apocalypse*; you're just ready for Tuesday.\n\nDoes your family have a loose plan, or is that still on the to-do list? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1092442657286729_122115099860693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c10c340a5372a697c3182abd860a1549ad942e3f96b61751f0f687924548e488",
+  "image_key": "gen"
 }

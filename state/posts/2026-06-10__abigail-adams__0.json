@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "posted",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "09:41",
-  "message": "",
+  "message": "Last summer the power went out around 8 PM, and my kids treated it like Christmas morning. Suddenly flashlights weren't 'boring safety stuff'—they were lightsaber props, treasure-hunt tools, and the coolest thing ever. My oldest was disappointed when I said we had to *actually* use them to see, not just play shadow puppets on the wall.\n\nBut here's what actually stuck with me: when I pulled out the power bank to charge their tablets so they'd have *something* to do if the outage lasted hours, they were genuinely relieved. And I realized how much easier the whole evening was because I'd just... done the thing. No scrambling. No stress. Just \"okay, here's the plan.\"\n\nI think a lot of us wait for an emergency to figure out what we actually need. But honestly? Having a few simple things ready—a couple of good flashlights, a charged power bank, maybe a battery radio—takes the edge off everything. Even just knowing it's there helps.\n\nWhat's your family's go-to during a blackout? Do your kids have a secret weapon for staying entertained?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "911963812004163_122130775443187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ea934e58c5e28688cb28cedbe9a1e7f82e9916a19bc626d5c4e87be5c9ab5aae",
+  "image_key": "gen"
 }

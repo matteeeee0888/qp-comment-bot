@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "17:41",
-  "message": "",
+  "message": "Last month our power went out for about 6 hours, and I learned something humbling: my kids were WAY more prepared than I was. \n\nWhile I was shuffling around looking for a flashlight (which I couldn't find), my 9-year-old had already gathered blankets, pulled out a battery-powered lantern from her emergency kit, AND made sure everyone's phones were on low-power mode. My teenager? Already thinking about snacks that don't need the fridge.\n\nI was the adult supposedly \"in charge,\" and I felt like I was playing catch-up to their calm logic. Turns out, when you actually talk through what happens during a blackout—and maybe even do a little practice run together—kids totally get it. They're not scared; they're just... ready.\n\nIt made me realize: emergency prep isn't about being paranoid. It's about being the person your family can actually lean on, not the one frantically searching for a working flashlight in the dark.\n\nDo your kids know where your flashlights are? (And more importantly, do *you*? 😄)",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1112110298653755_122107943661340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a824705fb4d7398e3c40fe48169c6f3c39dae3c4663b00e989de3cc7ffc58361",
+  "image_key": "gen"
 }

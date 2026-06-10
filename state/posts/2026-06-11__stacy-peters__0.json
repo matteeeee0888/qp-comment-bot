@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "14:57",
-  "message": "",
+  "message": "So my neighbor Mike showed up at our door during last week's outage with a rolling suitcase—literally a suitcase—packed with lanterns, battery packs, a hand-crank radio, backup batteries in three sizes, and what I'm pretty sure was a decade's supply of AA cells. I laughed at him for maybe thirty seconds before our Wi-Fi died and my phone hit 40%. Suddenly Mike looked like a genius.\n\nHe wasn't smug about it either. Just quietly handed me a USB power bank and asked if we wanted to charge our phones in shifts. Kid you know what? I felt genuinely grateful, and a little sheepish for all the times I'd teased him about being \"that guy.\"\n\nTurns out there's something really nice about knowing a few basic things will work when the power doesn't. Nothing extreme—just a flashlight or two that actually has batteries in it, maybe a portable charger tucked in a drawer, knowing where the manual can opener is. Mike's level of prep might be overkill for most of us, but his *vibe*—just matter-of-fact readiness—that's actually worth stealing.\n\nI dug out my old lantern this week. It's still in one piece.\n\nDo you keep a flashlight somewhere you'd actually find it in the dark?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "1055885867606549_122116317086848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "87f79b6291d4c36971495f69d4360bb108b6e961895aade8fabe4937fe6736e6",
+  "image_key": "gen"
 }

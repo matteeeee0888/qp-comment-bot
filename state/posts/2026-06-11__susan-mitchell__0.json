@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "I've been reading up on power outages lately—turns out there's a lot of small, doable stuff we can think through *before* the lights go out, which honestly takes a lot of the stress out of it. The Red Cross has a really straightforward guide that walks through the basics without being heavy-handed about it. What's one thing in your home that would be trickiest to deal with during an outage—the fridge, staying warm, or something else?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "719343644592338_122186635706926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d98263f64992a1697cb42659f32cdfb957f507d228cc48f40caf834086bd5ea5",
+  "image_key": "gen"
 }

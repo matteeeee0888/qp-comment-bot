@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "13:42",
-  "message": "",
+  "message": "Last spring my neighbor Karen had a *detailed* binder about severe weather. I mean color-coded tabs, laminated checklists, the works. I remember thinking, 'Karen, you're in suburban Ohio, not a hurricane zone.'\n\nThen we got three days of heavy rain, some localized flooding, and a nasty wind event all in one week. Know who had fresh batteries, a working flashlight, extra water, and actual peace of mind? Karen.\n\nI'm not saying you need a binder (though honestly, no judgment if you do). But I *am* saying there's something kind of beautiful about being the person who's thought things through ahead of time. No panic. No scrambling. Just a quiet \"oh yeah, I've got this.\"\n\nFeels good, honestly.\n\nWhat's one small thing you've already prepped for that actually made a difference when you needed it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "911963812004163_122130775455187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f2d23b4356a54eabb5057bef25d9af3f6bad0914dd229d59120553ae0bfd4146",
+  "image_key": "gen"
 }
