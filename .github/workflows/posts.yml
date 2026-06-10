@@ -1,0 +1,43 @@
+name: daily-posts
+# Generates and schedules one link-post per page per day (stories + news, no images —
+# Facebook renders the link-preview card). Text via ANTHROPIC_API_KEY.
+on:
+  schedule:
+    - cron: "0 10 * * *"   # daily ~10:00 UTC (≈06:00 ET, before the 8-20 ET posting window)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: daily-posts
+  cancel-in-progress: false
+jobs:
+  generate-and-schedule:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - name: Refresh page map
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+        run: node bin/build-map.js
+      - name: Generate today's posts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node bin/generate-day.js
+      - name: Schedule on Facebook
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+        run: node bin/publish.js
+      - name: Persist post state
+        if: always()
+        run: |
+          git config user.name "qp-post-bot"
+          git config user.email "qp-post-bot@users.noreply.github.com"
+          git add -A state page-topic-map.json || true
+          git commit -m "state: post run [skip ci]" || echo "no state changes"
+          git pull --rebase origin main || true
+          git push || echo "push skipped"
