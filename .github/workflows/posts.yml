@@ -4,6 +4,7 @@ name: daily-posts
 on:
   schedule:
     - cron: "0 10 * * *"   # daily ~10:00 UTC (≈06:00 ET, before the 8-20 ET posting window)
+    - cron: "0 15 * * *"   # catch-up: retries anything unpublished (e.g. after a Meta rate-limit)
   workflow_dispatch: {}
 permissions:
   contents: write
@@ -20,10 +21,10 @@ jobs:
         with:
           node-version: "20"
       - run: npm install --no-audit --no-fund
-      - name: Refresh page map
+      - name: Refresh page map (non-fatal — falls back to the committed map on rate limits)
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
-        run: node bin/build-map.js
+        run: node bin/build-map.js || echo "map refresh skipped — using committed page-topic-map.json"
       - name: Generate today's posts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
