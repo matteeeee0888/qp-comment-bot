@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "10:56",
-  "message": "",
+  "message": "I've been spending some time thinking about what actually helps when life gets unpredictable—and honestly, having even a loose plan makes such a difference in how calm I feel. There's this great resource that walks through the basics of planning for your family in a really straightforward way, no drama required. Sometimes the best prep is just knowing what you'd do and where you'd go.\n\nDo you already have some kind of plan in your house, or is that something you're thinking about starting?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122116294778848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a7f9c7b572d92f191cfd4135edfa75e86f1df98f75aeb8de4aee7c05e4d1c32d",
+  "image_key": "gen"
 }

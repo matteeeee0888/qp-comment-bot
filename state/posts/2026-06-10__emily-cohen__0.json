@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "15:15",
-  "message": "",
+  "message": "So there I was at 11 p.m., phone at 2%, trying to film my kids practicing our family fire escape plan. Of course the battery died mid-video. 🙃\n\nBut you know what? We'd already walked through it twice that week, so they knew the route, the meeting spot, everything. The phone thing didn't matter because the *actual* plan was already in their heads.\n\nThat's when it hit me: all the prep in the world doesn't help if it lives only on a screen. Whether it's a dead phone, a power outage, or just a moment of panic—your family needs to *know* the plan, not just have it saved somewhere.\n\nWorking smoke alarms, a practiced exit route, a spot to meet outside... none of that requires WiFi or batteries.\n\nHave you and your family talked through your escape plan out loud? What's your meeting spot?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104545470629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7ffd235a93a16a7b9d39272aee9dd040860a243c3cdfa28759cdf83718bbcc35",
+  "image_key": "gen"
 }

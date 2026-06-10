@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "10:55",
-  "message": "",
+  "message": "So my partner rolled his eyes when I insisted we test our smoke alarms last month. \"They're fine,\" he said. \"We just changed the batteries.\"\n\nThen last week, I burned toast. Not just a little char—I mean *smoke everywhere*. And guess what? Three of our four alarms went off instantly. He actually said, \"Okay, okay, you were right\" while waving a dish towel at the ceiling.\n\nI didn't even gloat. (Okay, maybe a little.) But honestly? That moment made me realize why testing them actually matters—it's not about being prepared for some far-off disaster. It's about knowing your home will *actually alert you* when you need it to, whether it's burnt toast or something serious.\n\nI found this little refresher on home fire safety that breaks down the stuff that's easy to forget about, and it genuinely made testing feel like less of a chore.\n\nWhen's the last time you tested yours? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122111294372692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7a2a435444263d8b1bf8c2cf458ea0bb83f6baeb218c9df20327463550cd9e49",
+  "image_key": "gen"
 }

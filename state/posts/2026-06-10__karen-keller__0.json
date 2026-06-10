@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "19:32",
-  "message": "",
+  "message": "So the other night, WiFi went out for like two hours, and I watched my kids actually *panic* — not about the internet, but because they didn't know what to do without screens. We ended up playing board games by flashlight, and honestly? It was kind of magical. No rushing, no notifications, just us.\n\nIt got me thinking: being ready for anything isn't just about stockpiling stuff. It's also about knowing how to have fun, stay calm, and entertain your family when the usual distractions aren't there. Board games, card games, books, puzzles — they're genuinely life-savers in a pinch, *and* they're perfect for right now.\n\nPlus, when you've got those low-tech backups ready, you're not scrambling or stressed. You're just... settled.\n\nWhat's your family's favorite no-screen activity? I'm always looking for new ideas!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1003918682810439_122118580317072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1e8fa6dfea4a9834800ca3240b5405463404667ad8267272599e589c637c9168",
+  "image_key": "gen"
 }

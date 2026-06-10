@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "14:02",
-  "message": "",
+  "message": "So my friend texted me at 2 AM last week—full panic mode—because our city issued a heat advisory. Like, *tomorrow* we were gonna hit 98°F and she was already spiraling about \"what if the power goes out for DAYS.\"\n\nI get it, weather can feel scary. But instead of matching her energy, I just reminded her: we've actually got this. A full fridge (even if it goes out briefly), some frozen water bottles, a couple of fans, sunscreen, electrolytes. Nothing exotic. Just… the stuff that actually helps when it's hot.\n\nShe calmed down. Literally just talking through \"what do we actually need?\" instead of \"what if EVERYTHING goes wrong?\" changed the whole vibe.\n\nTurns out that's the sweet spot with any severe weather—storms, floods, heat waves, you name it. Not paranoia. Just honest, practical prep so you're not caught off guard.\n\nWhat's your go-to move when the forecast gets a little wild? Do you prep, or do you do the waiting-and-hoping thing?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1188071991047656_122106168591350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "693709b36fa524a2942dfe96f1e1f32ba23d0a8b892b437c06a62f3aa1afe6c2",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "19:40",
-  "message": "",
+  "message": "I've been thinking about what actually goes into a solid emergency kit, and it's way less complicated than I used to think. I found this really practical breakdown that walks through the essentials without any of the overwhelming stuff—it's more about having what you already use on hand, just gathered in one spot. What's the one thing you'd definitely want within arm's reach if things got disrupted?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "719343644592338_122186610224926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5f6af2d2e240d73ee970fd81a1c5c74ca3be8796fb6078d9e139e1de6de5f121",
+  "image_key": "gen"
 }

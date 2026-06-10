@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "17:50",
-  "message": "",
+  "message": "I've never been the \"prepared\" friend. Seriously—I'm the one who shows up to potlucks with store-bought brownies and forgets her umbrella. But last spring when a nasty storm knocked out power for three days, I actually had batteries, a hand-crank radio, and enough shelf-stable snacks to feel almost... capable? It sounds small, but standing there knowing I could handle it without panicking felt *really* good.\n\nTurns out that's kind of the whole point of getting ready for storms—it's not about being perfect or paranoid. It's just about having your basics lined up so when something wild happens, you're not scrambling at midnight.\n\nHave you ever had a moment where being just a little bit prepped made a real difference for you?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "962411806966339_122117583008947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d41450c875f12c0c791e5ea18bd92add198000ffa427fa3bbc71d3d860bd06d6",
+  "image_key": "gen"
 }

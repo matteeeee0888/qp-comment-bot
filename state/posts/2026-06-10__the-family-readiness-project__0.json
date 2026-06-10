@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "11:44",
-  "message": "",
+  "message": "So there I was, trying to look up our pediatrician's number during a minor household incident, and—of course—my phone was at 3%. Cue the panic spiral while it's also dying mid-Google search. My partner was asking questions, my kid needed reassurance, and I'm standing there like 'um, does anyone remember our doctor's actual phone number?' 🤦‍♀️\n\nTurns out we couldn't even find it written down anywhere. That's when it hit me: I was *completely* dependent on a device that was literally seconds from becoming a brick.\n\nNow I keep a little printed list tucked in a folder with our important info—doctor, dentist, poison control, the works. Doesn't have to be fancy. Just *there*, waiting for the moment my phone decides to nope out.\n\nHave you ever been caught off guard without a crucial number or bit of info when you really needed it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122130767283281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "dc18698546fb4a741540933b60372294a418caeb8fda6ff92437d2ddd091e306",
+  "image_key": "gen"
 }

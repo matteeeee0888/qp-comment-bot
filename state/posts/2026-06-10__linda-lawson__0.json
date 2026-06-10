@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "17:46",
-  "message": "",
+  "message": "Every time a storm warning pops up, my friend texts me in all caps: 'THIS IS IT. THIS IS THE ONE.' She's been saying that for like five years 😄 \n\nBut you know what? I've actually started appreciating her panic energy. Not the panic itself—but the fact that she *always* thinks ahead means she's usually the one who actually has batteries, water, and a plan. Meanwhile, I'm the one scrambling.\n\nI've learned that staying calm about severe weather doesn't mean ignoring it. It just means getting your head in the game *before* the warning sirens go off. A little prep now = way less stress later (and way fewer panicked group texts).\n\nDo you prep differently depending on the season where you live, or is your setup pretty much the same year-round?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "936909452848936_122116275998955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "33ac24f4c2af07da4735129b4d06d57cf2591d407a264a1b9aaae956170a0899",
+  "image_key": "gen"
 }

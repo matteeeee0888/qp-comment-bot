@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "15:34",
-  "message": "",
+  "message": "I've been reading through some solid hurricane prep resources lately, and honestly, having a plan *before* storm season hits makes such a difference in how calm you feel when one's actually heading your way. The Red Cross has a straightforward guide that walks through the basics without any of the panic—it's the kind of thing I like to bookmark and actually look at when there's no weather emergency looming. What's your go-to source when you're getting ready for severe weather?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1031788496687467_122114503328849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "409d87829a59812dc40ff9f5679dd93498827eb54f91c3c146c856cdbfc5c3dc",
+  "image_key": "gen"
 }

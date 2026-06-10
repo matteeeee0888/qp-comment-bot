@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "13:40",
-  "message": "",
+  "message": "So last week we had that sudden weather thing roll through, and I watched our family group chat go absolutely unhinged for like 20 minutes. My sister was like \"where's the flashlight?\" My mom replied \"I HAVE NO IDEA\" and my brother just sent three 🚨 emojis. Meanwhile I'm sitting there like... okay, we literally talked about this. We have stuff. But nobody *knew* where it was.\n\nTurned out our go-bag was in the garage (where I put it) but nobody else even knew it existed. The documents were \"somewhere in the office.\" The water was... okay, we actually had water, thank goodness.\n\nIt was kind of a wake-up call that preparedness isn't just about *having* things—it's about making sure the people you love actually know where they are. A quick family conversation about who grabs what and where everything lives would've saved us from the chaos emoji situation.\n\nDo you keep your family in the loop about where your emergency stuff is, or is that something you're thinking about tackling?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1112110298653755_122107893171340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9ca2e5b4e652e7233bb286ea0ef045de9110a5ffb82126622d9ec18368ff777e",
+  "image_key": "gen"
 }

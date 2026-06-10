@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "18:51",
-  "message": "",
+  "message": "So my kid left the toaster oven on while making an after-school snack yesterday, and I walked in to find it smoking like a tiny campfire. Not a disaster—just a moment—but it sent me straight to the family group chat.\n\nI was texting \"EVERYONE needs to know where to go if there's actually a fire\" and my teenager replied \"mom we literally practiced this in 3rd grade\" (fair). But then my partner asked \"wait, do we actually know WHERE the second exit is from upstairs?\" …and suddenly nobody had a real answer.\n\nTurns out we'd never actually *talked* through it as adults. We had the smoke alarms, we had the vague idea of \"get out fast,\" but no actual plan that everyone could picture.\n\nWe spent like 20 minutes that night mapping it out—which window, which route, where to meet outside. My kid even took it seriously because it was *their* question that stumped us.\n\nThe toaster oven didn't cause anything real, but it lit a pretty useful fuse (sorry). If your family hasn't done this yet, it's one of those things that feels small until it matters.\n\nDo you have an exit plan your whole family actually *knows*, or is it more of a vague idea?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122115080066693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "cdb411787c3de1c9e3e5e01b9133ffdeff789931caeefd5fef1fd8dffb21a23a",
+  "image_key": "gen"
 }

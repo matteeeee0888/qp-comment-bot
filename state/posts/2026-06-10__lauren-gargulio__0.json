@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "18:34",
-  "message": "",
+  "message": "Last winter, we lost power for three days. I was bracing for chaos—no screens, no heating, no hot water. But something weird happened: my family actually *enjoyed* it.\n\nWe played board games by flashlight, made hot chocolate on the camp stove, told stories. My kid actually put their phone down without complaining. We laughed more than we had in weeks.\n\nIt totally changed how I think about storm prep. Now I stock games, books, cards—stuff that's genuinely fun, not just survival gear. Turns out getting ready for rough weather doesn't have to feel grim. It can actually be an excuse to slow down together.\n\nHave you ever discovered something unexpectedly enjoyable while weathering a storm? I'm curious what brought your family together.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1127031013825481_122103963057335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "92f99d9b1e3ebd149d936b2ffc32a4857147b74b7f71e7d2dfb2e9d13e51e05d",
+  "image_key": "gen"
 }

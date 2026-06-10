@@ -1,6 +1,6 @@
 {
   "id": "2026-06-10__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-10",
   "scheduled_time": "12:05",
-  "message": "",
+  "message": "Last week we had a surprise outage—no warning, just gone. I was genuinely bummed about losing my shows, but then my kid pulled out a deck of cards and suddenly we're playing gin rummy by flashlight like it's the most normal thing ever. My phone battery was dying anyway, so I just... left it alone.\n\nTurns out unplugged time hits different when it's not by choice, but once you settle into it? We laughed harder than we have in weeks. No screens, no notifications, just people and cards and a lantern in the middle of the table.\n\nI'm not saying I want outages (please, no), but I'm definitely keeping games and a good lantern more accessible now. And maybe a battery pack charged, just in case. Life's too short to be bored AND in the dark.\n\nWhat's the low-tech activity you'd actually want to do if your power went out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "968263026380089_122114357906914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f4a3795e241cf8d003ab1132330eec3c9988c0b0c83e81b2b881face582f4c3e",
+  "image_key": "gen"
 }
