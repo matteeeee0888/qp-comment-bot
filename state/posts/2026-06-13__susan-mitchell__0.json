@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "So last week my mom texted our family group chat at 11 PM: 'Just tested all the smoke alarms. Three need batteries.' Three! And suddenly my siblings and I are all awake, joking about how she's become our emergency preparedness queen, but also... she was right to do it. I realized I couldn't actually remember the last time I'd checked mine. We ended up having this whole thing where everyone agreed to do a quick walk-through of their places. Nothing dramatic—just opening cabinets, looking at batteries, sketching out who goes where if something happens. My brother sent back a selfie with a smoke detector and a thumbs up, which made me laugh, but honestly? That little check-in probably matters more than any of us want to admit. Do you have a smoke alarm buddy in your life—someone who keeps you honest about this stuff?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "719343644592338_122186784962926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ad928cbb881208300f24b2b3bb58418489d0fbbc4f886ab9bffd0840b43f7630",
+  "image_key": "gen"
 }

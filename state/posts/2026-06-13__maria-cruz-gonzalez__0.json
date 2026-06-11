@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "12:08",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to prep when you have a solid checklist to work from—less second-guessing, more actual progress. Found this really helpful resource that walks through what actually makes sense to have on hand for different situations, and honestly it takes a lot of the guesswork out of it. The calm part? You don't have to do it all at once.\n\nWhat's one thing you already have at home that you'd feel good about having in an emergency kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "968263026380089_122114494898914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a17e46f5e859787d89caa70e618fa6e6118bf6b8ca91103837e44c642afff0cc",
+  "image_key": "gen"
 }

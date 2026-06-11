@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "13:43",
-  "message": "",
+  "message": "Last week I found my 7-year-old \"testing\" our smoke alarm by pulling a chair over to it. Not ideal. But honestly? I was kind of proud she remembered where it was.\n\nTurned into this whole thing where we actually walked through our escape plan together — and let me tell you, kids have *opinions*. \"But Mom, what if the door is hot?\" \"Why can't we take the cat AND the hamster?\" \"Does this count as going outside without asking?\"\n\nIt was messy and chaotic and exactly what we needed. Turns out when you involve them in the thinking instead of just telling them \"in case of fire, go here,\" they actually *remember* it. Plus they stopped seeing it as scary and more like... a plan. A thing we're doing together.\n\nI don't know about you, but getting my kids' buy-in on safety stuff hits different when they feel like they had a say. This little refresher actually helped us talk through it.\n\nHave you ever caught your kids doing something prep-related that completely surprised you?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1112110298653755_122108208429340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "56784c6eefab91d1ffc993d1e7b747d993e957c62e01c458540854320021b8b1",
+  "image_key": "gen"
 }

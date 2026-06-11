@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "14:05",
-  "message": "",
+  "message": "Last month our power went out for about six hours on a random Tuesday afternoon, and honestly? My kids thought it was the best thing ever.\n\nInstead of screen time, we set up our battery-powered lanterns in the living room like we were camping indoors, played card games, and I actually *talked* to my family without notifications pinging every thirty seconds. We kept our phones charged with a power bank I'd honestly forgotten we owned, and I made sure the fridge stayed mostly closed so our food would be okay.\n\nThe funny part is, nobody was stressed. We'd done a tiny bit of prep beforehand—nothing extreme, just keeping some basics on hand—so there was zero scrambling. It turned what could've been a frustrating situation into something kind of... nice?\n\nI'm not saying I *want* power outages (please, no), but that day made me realize that being a little bit ready doesn't have to feel like doom-and-gloom planning. It just means you get to stay calm and maybe even enjoy your people instead of panicking.\n\nHave you ever had a \"silver lining\" moment during something inconvenient like that?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "1188071991047656_122107088559350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5e258212ef97d047ca387decf26a94093d2d71badc8aed48eed87f33ca6c59d0",
+  "image_key": "gen"
 }

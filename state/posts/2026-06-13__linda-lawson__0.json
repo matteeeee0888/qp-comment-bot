@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "17:49",
-  "message": "",
+  "message": "I stumbled on this Red Cross guide about power outages and found it genuinely helpful—not scary, just practical. It walks through the basics of what to actually *do* before, during, and after an outage so you're not scrambling in the dark (literally). Turns out a little planning makes these situations way less stressful. What's the longest outage you've experienced, and what did you wish you'd had on hand?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "936909452848936_122116498184955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3cda3b58216f6ec546bc77e939bc8326598b62f0697d7b3605c0679a39a9debb",
+  "image_key": "gen"
 }

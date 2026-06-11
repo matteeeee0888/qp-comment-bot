@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "18:37",
-  "message": "",
+  "message": "I've been thinking about how a power outage isn't really a *disaster* moment—it's more of a \"oh, right, I should have a plan\" moment. I found this straightforward guide that walks through the basics without any drama, and honestly it's kind of reassuring to know what actually matters. Have you ever had to deal with an outage, and did you learn anything that stuck with you?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "1127031013825481_122104161939335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d685e7b6a0ed4c5a54a32608360ab9b1b9356591c430e7b4f7c423652d09ed25",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "10:58",
-  "message": "",
+  "message": "I've been thinking about how heat waves can sneak up on us—they're one of those things that feels distant until suddenly it's here. I found this solid resource from Ready.gov that walks through practical ways to stay safe and comfortable when temperatures climb, and honestly, it's nice to have a plan before things get toasty. What's your go-to strategy for keeping your family cool during the really hot months?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1124746537378992_122111427284692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f94106cefd9b6ee6e969268245b1aa01c45186a73e41fed0ce1f0881cdf4e669",
+  "image_key": "gen"
 }

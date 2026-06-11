@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "18:54",
-  "message": "",
+  "message": "I've been thinking about how heat waves sneak up on us—one day it's warm, the next you're wondering if your home setup is ready. I found this solid government resource that walks through practical heat prep in a straightforward way, and honestly it's the kind of thing that feels good to have looked at before you need it. Have you thought about what your family's heat-safety plan looks like, or is that one you're still figuring out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1092442657286729_122115221084693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "bbb2883374799104195d5f005d447f307b08025d38b1147e25d11549c69c7c35",
+  "image_key": "gen"
 }

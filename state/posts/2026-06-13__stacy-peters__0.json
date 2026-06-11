@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "10:59",
-  "message": "",
+  "message": "So last week I'm making dinner and my 8-year-old pipes up: \"Mom, why do you always make us practice the fire thing?\" And honestly? I had to pause and think about how to explain it in a way that didn't sound like I was being paranoid.\n\nTurned out she was genuinely curious, not complaining. We ended up talking about our escape plan like it was a fun challenge instead of a scary drill. My kids actually got excited about knowing where to meet outside—suddenly it felt less like \"emergency prep\" and more like \"we've got this.\"\n\nI think that's when it clicked for me: the best fire safety conversations aren't the scary ones. They're the ones where everyone in the house actually understands the plan and feels like they're part of the team.\n\nHow do your kids respond when you talk about home safety stuff? Are they the curious type or do they tune you out? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1055885867606549_122116434626848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "789b2265384f58c06f8eb9c3fad5472989491d9e3a61ebf5b7a59e98eea377d2",
+  "image_key": "gen"
 }

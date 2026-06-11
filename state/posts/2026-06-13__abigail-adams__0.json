@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "09:44",
-  "message": "",
+  "message": "I've been slowly building up my emergency kit over the past few months, and honestly? Having a solid checklist takes so much of the guesswork out of it. I stumbled on this really straightforward resource that walks you through what actually makes sense to have on hand—nothing fancy, just practical stuff that covers the basics. The nice thing is you don't have to do it all at once; you can grab a few items each time you're at the store and suddenly you're ready. What's the one item you already have that you'd never think to grab in a pinch?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "911963812004163_122130881805187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a22b8468f473e6d55fe961d2e5e6556c19ba8d10bd8b55363bff7153a9f2d01d",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "09:34",
-  "message": "",
+  "message": "I've been thinking about hurricane season prep, and honestly, it's less about doom-scrolling and more about having a solid game plan so you can actually relax. The Red Cross breaks down what you actually need to know—the practical stuff that actually matters. Knowing what to expect and what to do takes so much of the anxiety out of it.\n\nWhat's one thing you've already got covered for severe weather at your place?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "768075889726058_122138968305028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7e43925d0a30a64518e453973f1ef46196dd0c5dd7d075f92642c8da0223038a",
+  "image_key": "gen"
 }

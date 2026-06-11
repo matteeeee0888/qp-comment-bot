@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "19:46",
-  "message": "",
+  "message": "So last spring we had a surprise thunderstorm roll through, and I realized our flashlights were in three different places, one had dead batteries, and the other was that tiny keychain thing my kid got from a birthday party. I'm standing there in the dark going \"why am I like this?\" while my partner is laughing and holding up their phone as a light source.\n\nThat's when it hit me—we don't have to be *perfect* at this stuff. Just a little more ready than we were at 11 p.m. when the power cut out.\n\nNow I keep a couple working flashlights in an actual *intentional* spot, fresh batteries nearby, and honestly? It takes like 20 minutes of \"future me\" thinking to dodge that particular comedy show.\n\nWhat's the storm prep thing you keep meaning to do but haven't gotten around to yet? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1059660273889438_122130969231281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3d7a33b9abef78fddaa2671ac1d6d16568121b0b24a700bbeb78cda52a030326",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "15:18",
-  "message": "",
+  "message": "I'll be honest — when I heard the winter storm warning last year, my first instinct was to panic-scroll through supplies I didn't have. Then my partner said, 'Why don't we just... make it a thing?' So we did. We pulled out board games, made a cozy corner with blankets, charged everything that needed charging (phones, laptop, that weird battery pack we never use), filled some water jugs, and basically turned a potentially stressful day into what felt like a snow day from childhood. Sounds small, but it totally changed how I approached storm prep. Now I actually *want* to get ready instead of dreading it. It's less \"bracing for impact\" and more \"let's make sure we're comfortable together.\" And honestly? That mindset shift made the actual prep stick — we do it before every season now. Have you found a way to make your storm prep feel less like a chore and more like... well, something that doesn't feel like a chore?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "985048591368725_122104614746629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "105e14ebfc742d19148fd8e3167ea9ff2dc56f0f779a6ac747fafb8dba2fccdd",
+  "image_key": "gen"
 }

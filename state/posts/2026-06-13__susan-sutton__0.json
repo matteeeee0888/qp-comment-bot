@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "17:53",
-  "message": "",
+  "message": "Last month our power went out for about six hours—middle of the afternoon, totally unexpected. My first instinct was to panic about the fridge, but then my kid asked if we could have an \"indoor picnic\" instead.\n\nSo we did. Pulled some shelf-stable snacks, grabbed the battery-powered lantern from the hall closet (honestly forgot we even had it), and set up a blanket fort in the living room. No screens, no humming appliances—just us, good light, and time to actually talk.\n\nIt sounds cheesy, but it totally shifted my mindset. Instead of white-knuckling through an inconvenience, we kind of... enjoyed it? And I realized how much easier the whole thing was because we'd actually kept a few things on hand: working flashlights, a power bank that still had charge, some non-perishable snacks.\n\nNow when I think about outages, I don't picture panic—I picture that weird, cozy afternoon. Turns out a little basic prep doesn't just help you survive; it helps you actually be okay when things go sideways.\n\nHave you ever accidentally made something nice out of a blackout? Would love to hear your story!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "962411806966339_122117740532947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "998570edd2f969e7cce53cab623808e82581d3be79bea04516c9ccd052ff376f",
+  "image_key": "gen"
 }
