@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "13:48",
-  "message": "",
+  "message": "I was digging through a closet yesterday looking for extra batteries, and I found a stack of old board games from my kids' childhood. We hadn't touched them in years—everyone's usually glued to their phones.\n\nSo we played one that night. No wifi needed. No charging required. Just dice, cards, and way too much laughing.\n\nIt got me thinking: some of the best \"emergency prep\" isn't fancy gear at all. It's knowing you have activities that don't depend on power or internet. Card games, books, a deck of cards, puzzles—stuff that keeps your family entertained and connected when everything else goes quiet.\n\nI'm not saying board games are a survival skill (though they *do* keep the peace!). Just that a little low-tech fun tucked away somewhere takes zero maintenance and pays dividends on boring Tuesdays *and* unexpected situations alike.\n\nWhat's a screen-free activity your family actually enjoys together?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "936909452848936_122116434656955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c4448ea6677e88bcb233e96df07bf8fa75b15e33ee925fc872287ef4844de3d7",
+  "image_key": "gen"
 }

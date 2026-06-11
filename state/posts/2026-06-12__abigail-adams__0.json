@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "17:43",
-  "message": "",
+  "message": "I've been digging into home fire prep lately, and honestly, it's less about catastrophizing and more about having a solid plan that actually fits your life. Found a really helpful resource from Ready.gov that breaks down the practical stuff—escape routes, smoke alarms, what to grab on the way out—in a way that doesn't feel overwhelming. Turns out a little planning beforehand means way less stress if something actually happens. What's one fire-safety thing you've already got handled at your place?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "911963812004163_122130864195187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5f32b5c1b8f681297f9933d2ea39e16ea2b805a64f5bde792b91fec779324f8d",
+  "image_key": "gen"
 }

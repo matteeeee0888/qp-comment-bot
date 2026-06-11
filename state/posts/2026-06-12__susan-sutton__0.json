@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "13:52",
-  "message": "",
+  "message": "I've been thinking about how much easier it feels to handle the unexpected when you've actually talked through a plan with your family first—like, where would everyone go, who'd you call, what's the one thing you'd grab. Ready.gov has a straightforward planning tool that walks you through it without being overwhelming, and honestly, just doing this once gives you a weird sense of calm. What's one thing your family already knows to do in an emergency, or is that something you'd like to figure out together?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "962411806966339_122117687180947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b49b4a4a2592edde677ff3cf8916a690f5a8900d4d5751e00a634f45e611546d",
+  "image_key": "gen"
 }

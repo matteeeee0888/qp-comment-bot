@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "10:04",
-  "message": "",
+  "message": "I've been thinking about emergency kits lately, and honestly, it's kind of nice to have a straightforward checklist instead of wondering if I'm forgetting something obvious. Ready.gov has a solid breakdown of what actually makes sense to have on hand—nothing fancy, just practical stuff that covers most situations. What's the one item you always seem to forget when you're putting together an emergency kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1188071991047656_122106932721350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5337263b2f5ad2550fa33f7a794ce8bd3bda76e1625429ba9d5b3642158f593e",
+  "image_key": "gen"
 }

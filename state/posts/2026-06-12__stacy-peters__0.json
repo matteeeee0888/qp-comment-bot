@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "18:58",
-  "message": "",
+  "message": "I've been reading through some solid hurricane prep info lately, and honestly, it's less about doom-and-gloom and more about feeling actually ready—like knowing where your important docs are or having a simple communication plan with family. The peace of mind that comes with a little planning really does change how you feel when storm season rolls around. What's one small thing you've already done to feel more prepared for severe weather?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1055885867606549_122116411022848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3c1e7616bd21ae7e4ae1801b3d78db419df4035f4adf044e8817d5b2be6bb069",
+  "image_key": "gen"
 }

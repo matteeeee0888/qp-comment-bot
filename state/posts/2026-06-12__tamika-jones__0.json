@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "11:36",
-  "message": "",
+  "message": "I've been building my family's emergency kit gradually—adding a few things here and there—and honestly it's way less overwhelming than I thought it'd be. Found this solid resource that breaks down what actually makes sense to have on hand, depending on your situation. Nice thing is you don't need to do it all at once or spend a fortune.\n\nWhat's the first thing you usually think of when you're putting together an emergency kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1031788496687467_122114614010849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a2cfd5cf3071eba5d45e9208cf9ba45fec591764ad2872c0d668582e91504db7",
+  "image_key": "gen"
 }

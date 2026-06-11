@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "08:07",
-  "message": "",
+  "message": "Last week I asked my 9-year-old to show me her escape route from her bedroom in case of fire. She looked at me like I'd grown a second head.\n\nThen—I swear this actually happened—she said, \"Mom, I'm faster than fire. I'll just run.\"\n\nI had to bite my tongue not to laugh, but it was actually the perfect opening for a real conversation. We walked through the house together, figured out two ways out of each room, and talked about why *planning* beats *speed* when it comes to emergencies. (Spoiler: she gets it now.)\n\nTurned out my kids had never seen our smoke alarms or thought about what they'd grab in an actual emergency. Sometimes the best family conversation starts with a kid's totally confident wrong answer.\n\nDo your kids know the escape plan, or are they Team \"I'm Faster Than Fire\" too? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "968263026380089_122114473520914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f02b3794e258e6fe29ba011a5e134daabe584cb37091dc9975fefc89e743b3be",
+  "image_key": "gen"
 }

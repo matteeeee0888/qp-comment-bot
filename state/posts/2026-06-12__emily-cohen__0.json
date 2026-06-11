@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "11:17",
-  "message": "",
+  "message": "So last month the power went out for like six hours, and my partner kept saying 'I wish we had more flashlights.' I *may* have given them the gentle smile of someone who'd already stashed three in the junk drawer months earlier. Not gonna lie—the smugness was real. 😏\n\nBut here's the thing: it wasn't about being right. It was just... nice to not scramble. We had light, phones stayed charged because I'd topped up a power bank the day before, and the fridge stayed mostly cool because we kept it closed. Nobody panicked. Nobody was bored.\n\nBlackouts happen. They're annoying but not scary when you're ready. No need to go full prepper mode—just a couple of flashlights, maybe a power bank, and a charged mindset.\n\nHave you had a power outage catch you unprepared, or did you nail it? 💡",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "985048591368725_122104604018629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e0a688467f5438a2a1e75e94c0f7b6a2ee3c3ee39158556da6dcbf0549f461b1",
+  "image_key": "gen"
 }

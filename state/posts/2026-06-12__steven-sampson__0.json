@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "18:57",
-  "message": "",
+  "message": "I've been thinking about how blackouts are one of those things that catch a lot of us off guard—not because they're dramatic, but because we just don't think about them until the lights actually go out. I found this solid resource from Ready.gov that walks through the practical stuff: what to do before, during, and after, plus how to keep your household running smoothly when the power's down. The nice thing is realizing most of it is pretty straightforward once you've thought it through once. What's your biggest question when it comes to handling a blackout—is it keeping food safe, staying entertained, or something else?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "1124746537378992_122111406698692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1405f894443500cfa71238036275ee814bf5222fe3a6c301fce6ca239f54854f",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-11__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-11",
   "scheduled_time": "15:45",
-  "message": "",
+  "message": "So there I was last Tuesday, sitting in the dark at 7 p.m., phone at 12%, trying to remember if I'd ever actually opened that flashlight I bought three months ago. Spoiler: I had not. \n\nI found it eventually—wedged behind the Christmas decorations, still in the box, batteries sold separately (of course). Meanwhile I'm shuffling around like I'm auditioning for a zombie movie, bumping into furniture, while my partner is reading their phone like nothing's wrong because—plot twist—they'd actually charged their power bank.\n\nThe whole thing took maybe 20 minutes to sort out, but wow, did it feel silly. Like, I know better! I *know* this stuff matters. And yet here I was, playing hide-and-seek with my own emergency kit.\n\nTurns out the best prep isn't fancy—it's just... doing the thing. A flashlight that's actually accessible. Batteries that live somewhere you'll remember. A charged power bank within arm's reach. Nothing complicated, just stuff that's ready to go when you're not.\n\nWhat's your blackout prep look like—do you actually have it together, or are you a fellow \"found it behind the Christmas stuff\" person?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1059660273889438_122130948981281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "8a17ef7a579d1b566a0748bb6e3ee109eb7a0541aebd0971bc05882901057cc8",
+  "image_key": "gen"
 }

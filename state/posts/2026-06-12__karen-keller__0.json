@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "15:34",
-  "message": "",
+  "message": "I've always been the friend who shows up to a potluck with store-bought cookies and a sheepish grin. So when a nasty winter storm rolled through last month, I fully expected to be the one calling neighbors asking if anyone had extra flashlights or batteries.\n\nExcept... I didn't have to. Because earlier in the fall, I'd finally sat down and actually *made* a weather-ready kit. Nothing fancy—just the basics tucked in a closet. When the power went out for 6 hours, I had light, water, a way to charge my phone, and snacks. I felt *prepared* for maybe the first time in my adult life, and honestly? It felt weirdly good.\n\nMy neighbor across the street? She was texting the group chat asking for supplies. And I *had them*.\n\nIf you're anything like me—someone who's always been more reactive than proactive—that little shift in feeling ready when bad weather hits is worth the 30 minutes of setup.\n\nWhat kind of weather worries you most where you live?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1003918682810439_122118680127072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d6f4d56caa12f66fc72922aafebd7bc9fa2a23931bf175d4d630b545127d682f",
+  "image_key": "gen"
 }

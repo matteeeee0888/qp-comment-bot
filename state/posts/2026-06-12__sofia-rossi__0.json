@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "09:42",
-  "message": "",
+  "message": "I have a friend who keeps a laminated storm checklist in her kitchen drawer. Her kids used to roll their eyes about it. Then a surprise ice storm hit last winter, and while the rest of us were scrambling at the last minute, she calmly made sure everyone had what they needed—flashlights with fresh batteries, a way to stay warm, snacks that didn't need electricity. Her kids stopped eye-rolling real fast.\n\nI realized that being \"over-prepared\" isn't about anxiety or paranoia—it's actually pretty freeing. You get to relax *because* you've thought things through ahead of time. No white-knuckle panic at 11 p.m. when the forecast changes.\n\nI'm not suggesting you need a laminated checklist (though honestly, kind of clever), just that a little seasonal weather prep is kind of like bringing an umbrella—it's not stressful, it just makes you feel more ready.\n\nWhat's your go-to storm-readiness move? Are you a planner or more of a \"we'll figure it out\" person?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1112110298653755_122108165967340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "51e034eddaf6fe4602afa761fd6c70ed40a25909c6a2e2dcf80a606d539df83a",
+  "image_key": "gen"
 }

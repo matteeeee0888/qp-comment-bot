@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "14:36",
-  "message": "",
+  "message": "Last weekend my 10-year-old asked why we keep a bag packed by the door. Instead of launching into 'just in case' talk, I said, 'Want to help me do a fun check-in?' We spread everything out on the blanket, swapped out old snacks for her favorite ones, she drew labels for the flashlights, and we made it this little inside thing—like we were setting up a cozy fort kit. By the end she was actually *invested* in it, asking questions about what else we might need.\n\nTurned out the whole family conversation started from there. Sometimes the best prep moments aren't stressful drills—they're just... together time with a purpose.\n\nHave you found ways to make readiness stuff feel natural with your crew instead of heavy?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1127031013825481_122104137309335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2bdb42393630009fcef9340cbc8eaf88fe86add54757e80c7dbf8fa3856e99e8",
+  "image_key": "gen"
 }

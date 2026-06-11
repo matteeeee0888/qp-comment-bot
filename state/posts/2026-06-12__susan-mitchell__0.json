@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "15:42",
-  "message": "",
+  "message": "So last winter, my neighbor kept rolling his eyes whenever I'd mention checking our sump pump and clearing gutters before the heavy rains. Fast-forward to that first nasty storm, and I'm standing in his driveway while he's frantically bailing water from his basement. The look on his face when he asked if *I* was dealing with flooding too? I could've had my \"I told you so\" moment, but honestly, I just felt relieved. Turns out a little quiet prep means no drama—not because you're paranoid, but because you can actually just... live. No stress, no basement pools, no midnight panic calls.\n\nHave you found that doing a few simple checks actually just lets you sleep better when storms roll in?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "719343644592338_122186752418926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c04af685411d0cbe385023c13296113dcec104eb93d52a08d13a8b7797d81857",
+  "image_key": "gen"
 }

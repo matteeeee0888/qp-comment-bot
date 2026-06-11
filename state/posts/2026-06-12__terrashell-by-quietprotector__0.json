@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "09:38",
-  "message": "",
+  "message": "I've been reading through some solid hurricane prep info from the Red Cross, and I have to say—knowing what to expect actually makes the whole thing feel way less overwhelming. Turns out a lot of it is just being organized and thinking ahead, which is totally doable. What's one storm prep thing you've already tackled, or are you just getting started?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1050667511458583_122116880216950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "930c9197677d6847c15fe26af807ac342f5030d7c36e1aaea89856b6e1a32f37",
+  "image_key": "gen"
 }

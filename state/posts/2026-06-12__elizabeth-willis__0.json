@@ -1,6 +1,6 @@
 {
   "id": "2026-06-12__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-12",
   "scheduled_time": "14:53",
-  "message": "",
+  "message": "I stumbled on this really practical guide about power outages from Ready.gov, and it's got me thinking about how much simpler life gets when you've got a basic plan. Nothing dramatic—just the kind of stuff that makes a blackout inconvenient instead of stressful. What's one thing in your home that you'd most want to have a backup plan for?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "1092442657286729_122115191588693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d66705cd3d3ea78d405691c61ece5feded5a098d5c54d8f51708c2161d0a9b31",
+  "image_key": "gen"
 }
