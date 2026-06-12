@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "13:37",
-  "message": "",
+  "message": "Last weekend my kid asked, 'Mom, why are we making a list of important papers and putting them in a folder?' and I realized I'd been treating prep like a chore instead of... actually talking about it.\n\nSo we turned it into a little kitchen-table project. Made some hot chocolate, grabbed the documents, and I just explained things naturally—like, 'Here's why we keep copies of this stuff,' and 'This is where we'd find everything if we had to leave quickly.' No drama, just... real talk over cocoa.\n\nTurned out it wasn't boring at all. My kid actually *got it*, and honestly, I felt better having done it too.\n\nI think that's the secret nobody tells you: preparedness doesn't have to feel heavy. Sometimes it's just making room for it in a normal moment.\n\nDo you have a go-to way you make these conversations feel natural in your house?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1112110298653755_122108408775340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7c6001ee5fd456c2dccdbc0efbddaf476a2cf586e484da49e0abc8d240fc5c3f",
+  "image_key": "gen"
 }

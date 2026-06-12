@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "15:31",
-  "message": "",
+  "message": "I've been thinking about how heat waves can sneak up on us, and I found myself digging into some solid info on how to keep my family comfortable and safe when things get hot. Turns out there are some really practical steps that don't require much fussing—just a little planning ahead. What's one thing you always make sure to have on hand when the temperature climbs?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1031788496687467_122114732078849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d5ec3c24d718217e905aa7c84daa11663e3fa24237944d043e393f9eff0e54a0",
+  "image_key": "gen"
 }

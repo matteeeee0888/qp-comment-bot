@@ -1,6 +1,6 @@
 {
   "id": "2026-06-13__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-13",
   "scheduled_time": "11:47",
-  "message": "",
+  "message": "I was making pasta last week when the oil in my pan got way hotter than I intended. Flames shot up faster than I expected, and my first instinct was to panic—but then muscle memory kicked in. I'd actually practiced what to do months ago during one of those rare \"let's talk about home safety\" dinners with my family. Turned off the heat, slid a lid over the pan, and stepped back. Crisis averted in about ten seconds flat.\n\nIt made me realize: the small stuff we do when nothing's happening—like practicing escape routes, keeping fire extinguishers where we can actually reach them, or just *knowing* what to do in a pinch—genuinely matters. I wasn't a firefighter or a prepper. I just happened to have thought it through once before I needed to.\n\nHave you and your household ever practiced a \"just in case\" scenario together? Even a quick five-minute runthrough can stick with you more than you'd think.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1059660273889438_122131049103281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1d371ed12bdb73ca60a90b90c9e0559941566438810956699d79294efb9ea8d5",
+  "image_key": "gen"
 }

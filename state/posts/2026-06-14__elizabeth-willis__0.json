@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "18:48",
-  "message": "",
+  "message": "I've been reading through some solid resources on home fire readiness, and honestly? A lot of it comes down to the simple stuff—like knowing your exits and having a plan. Found a really helpful guide from Ready.gov that walks through the basics without making it feel overwhelming. What's one fire safety thing you've already got in place at home, or are you thinking about starting with?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122115344396693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ad55ffaf79d3591834605d9cdbe240903cda89d33ae73adabb5067c4738e5379",
+  "image_key": "gen"
 }

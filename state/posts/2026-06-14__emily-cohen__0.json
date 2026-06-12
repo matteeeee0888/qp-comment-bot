@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "15:12",
-  "message": "",
+  "message": "So last week I realized our smoke alarms were due for their annual battery swap, and honestly? I turned it into a tiny family event instead of a chore. We gathered in the kitchen with fresh cookies (yes, really), I showed my kids how to test each alarm, and we actually talked through our escape plan while munching. My partner even laughed when I made a terrible joke about \"smoke detectors detecting smoke\" — which, okay, was bad, but the point is it didn't feel like doom prep. It felt like... caring for our home together?\n\nI think that's the secret, isn't it? These things don't have to be scary or stressful. A quick refresh of your smoke alarms, knowing two ways out of each room, keeping the kitchen clear of clutter — it's all just normal home maintenance wrapped in a little intentionality. This little refresher actually helped me remember that.\n\nHave you done your smoke alarm check recently, or is it on the to-do pile? 🏡",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104658546629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6c5440596b018a2511e794b73e27c43a2d4f74328688bcc67f77e1fc1be91eee",
+  "image_key": "gen"
 }

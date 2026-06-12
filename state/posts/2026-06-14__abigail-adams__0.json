@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "09:38",
-  "message": "",
+  "message": "So last month our power went out for about 4 hours, and I'll admit—I felt *just a tiny bit smug* when my family automatically came looking for the flashlights I'd stashed in the kitchen drawer. No scrambling. No panic. Just \"oh yeah, Mom has this covered.\"\n\nTurns out my kid had even remembered we keep a power bank charged in the hall closet, so everyone's phones made it through just fine. And because we'd grabbed those battery-powered lanterns for the living room, we actually had kind of a cozy evening instead of sitting in the dark feeling helpless.\n\nI'm not saying I'm a preparedness superhero or anything—I just got tired of feeling stressed during outages. A little forethought (and maybe some mild gloating when it pays off) makes these situations so much less of a scramble.\n\nWhat's the one thing you'd grab first if the lights went out right now?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "911963812004163_122130952293187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "851865943a47dc9b64ea76171722955cab66f31d12c5c7f8e04faada5d9db626",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "19:37",
-  "message": "",
+  "message": "I've been thinking about how having a solid plan takes a lot of the mental weight out of 'what if' scenarios—and that's exactly what a good preparedness kit does. I found this really helpful resource that walks through the basics of what actually makes sense to have on hand, and honestly, it's way less overwhelming than I expected. What's one thing you already keep around that makes you feel a little more ready for whatever comes?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "719343644592338_122186898308926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b2f48819aab3371ae00633f2274d60d320539499591cb2be6f2f4852899c2bd4",
+  "image_key": "gen"
 }

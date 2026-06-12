@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "13:33",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to actually *start* when you have a simple checklist in front of you—turns out there's a whole resource from Ready.gov that breaks down the essentials without making it feel overwhelming. It's a solid reference for putting together a basic kit, whether you're prepping for the first time or just refreshing what you've got. What's one item you always seem to forget about until you really need it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1050667511458583_122117004998950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9a4acc93b76994b46960f0a79906ad85b28160e5fa236054f3e68ab24e76e65e",
+  "image_key": "gen"
 }

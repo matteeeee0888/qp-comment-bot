@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "17:43",
-  "message": "",
+  "message": "Last winter, when that big freeze warning hit, I'll admit—I panicked a little. Then my partner said, 'Why don't we make it cozy?' Suddenly we weren't stressed about the power maybe going out; we were building a blanket fort in the living room, digging out board games, and planning a no-cook dinner by candlelight.\n\nIt sounds silly, but it totally shifted my mindset. The prep work (charging devices, stocking snacks, knowing where our flashlights were) still happened—but it felt less like dread and more like we were just... ready for an adventure.\n\nI've realized that's the sweet spot for me: taking storms seriously without letting them take over my whole mood. A little planning + a little coziness = way less anxiety.\n\nDo you have a go-to way you and yours stay calm when bad weather's on the way?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "936909452848936_122116596224955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "03578fbdb92783aace45dd7e5546f6402403e6c80ae7fff4584f54259cff0a79",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "10:52",
-  "message": "",
+  "message": "Last month my mom called to say she'd burned toast. Not a big deal, right? Except our family group chat absolutely *erupted*. My brother: 'Did the smoke alarm go off?' My sister: 'Check the batteries!' My dad: 'What's your escape route?' 😅\n\nI realized in that moment—we'd actually *talked* about this stuff. We knew where our alarms were, when we'd last changed batteries, what door we'd use. It wasn't because we're paranoid. It's because when something real happens (even burnt toast), you don't want to be figuring it out in the moment.\n\nSmoke alarms, a quick escape plan, keeping the stove clear—these feel small until they matter. Anyway, the toast was fine, and our family's new running joke is 'Remember Toast-Gate?' 😄\n\nDo you have working smoke alarms on each level of your home? I'd love to hear what got *you* thinking about this.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122111513276692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3aaa03d8d7a47d2c3e6835710f21e1a3f48c6f61fa934953217cf19ca2377ae7",
+  "image_key": "gen"
 }

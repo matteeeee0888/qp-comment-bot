@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "12:02",
-  "message": "",
+  "message": "So last week we had a surprise outage—no warning, just darkness at 6 p.m. My first thought was panic. My second thought was \"well, we're doing this anyway.\"\n\nI grabbed our lanterns and flashlights, my partner fired up the power bank to keep phones topped off, and honestly? We ended up having the coziest dinner we'd had in months. No screens, no rush, just us playing cards by lantern light while the food stayed cool in the fridge thanks to keeping the door shut.\n\nTurned out it was only three hours, but it completely shifted how I think about blackouts. Instead of bracing for disaster, I started thinking of it as an unplanned cozy night—one that's way less stressful if you know you've got a couple basics covered.\n\nNow we actually keep our flashlights and lanterns in an easy spot, not buried in the garage. Game changer.\n\nHave you ever accidentally discovered the upside to losing power?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122114575430914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9888c4eeb020e18eee82b023235c596d6d26fea1d3cc5b750bf812319b707932",
+  "image_key": "gen"
 }

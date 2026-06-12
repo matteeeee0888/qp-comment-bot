@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "18:31",
-  "message": "",
+  "message": "I've been browsing through Ready.gov's hurricane prep section, and I really appreciate how they break down the practical stuff—like what to actually do before, during, and after a storm hits. It's way less scary when you've got a concrete plan instead of just... vibes and worry. What's your go-to resource when you're trying to figure out storm readiness?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1127031013825481_122104271421335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1320c0482d5cb916ba33a727bc07900ded6614fecaafc2f42a1aa63577df5ee6",
+  "image_key": "gen"
 }

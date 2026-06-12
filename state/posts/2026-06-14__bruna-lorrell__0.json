@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "13:59",
-  "message": "",
+  "message": "Last winter, we had a surprise ice storm knock out power for about 18 hours. My first instinct was panic—but then my 7-year-old asked if we could have a \"blanket fort night\" in the living room instead. So we gathered every flashlight, some board games, made hot cocoa on the camp stove, and honestly? It turned into one of my favorite family memories.\n\nI'm not saying you want a storm to hit, but I learned that prepping doesn't have to feel like dread. When you've got a few basics ready—flashlights, batteries, a way to cook or heat water, some activities—a tough situation becomes something you can actually *handle* without stress. It lets you focus on what matters: staying safe and maybe even finding a little cozy in the chaos.\n\nDo you have a \"go-to\" activity or comfort item you'd want nearby if the lights went out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1188071991047656_122107699911350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e86bef7f364d2a4c94833a825b41c7f67d39810c6f2b094c774ccc2a7244cd48",
+  "image_key": "gen"
 }

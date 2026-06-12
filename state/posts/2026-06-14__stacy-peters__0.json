@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "10:53",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to handle an emergency when you've actually talked it through with your family beforehand—like, where would we meet, what's our backup plan, who calls whom. Turns out there's a whole resource from Ready.gov dedicated to helping you do exactly that, and it's genuinely straightforward to work through. It's one of those things that feels good to do, not scary.\n\nWhat kind of emergency prep conversation have you had with your family that actually stuck around—or is that something you're thinking about starting?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122116535624848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "fcecb55283e9e4c27757e533f8bd05788cd32d7e409b8ce417fa804fca685335",
+  "image_key": "gen"
 }

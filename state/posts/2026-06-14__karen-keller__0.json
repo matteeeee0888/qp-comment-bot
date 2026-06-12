@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "19:29",
-  "message": "",
+  "message": "My 7-year-old asked me last week why we have a 'boring box' under the stairs with flashlights and first-aid stuff. I started explaining emergency preparedness, and her eyes glazed over until I said, 'It's like a superhero starter kit—just in case.' Now she wants to help check it every month and add glow sticks 'for nighttime missions.' 😄 Honestly? Her excitement made me actually *do* the thing I'd been putting off. Sometimes the best motivation is a kid asking 'Can I help?' It turned what felt like a chore into something we do together. Plus, now she's not scared of storms—she's just ready. A little refresher on what actually belongs in that kit didn't hurt either. What's one prep task you've been meaning to tackle that a family member could help with?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1003918682810439_122118790137072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c7c29496468d1e780d5869f3824907c3845390cf24f8834a2e8567c846e9bd65",
+  "image_key": "gen"
 }

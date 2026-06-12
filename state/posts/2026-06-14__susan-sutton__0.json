@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "17:47",
-  "message": "",
+  "message": "I've been digging into hurricane prep resources, and honestly, having a solid game plan before storm season hits makes such a difference in how calm you feel. Ready.gov has a straightforward guide that breaks down the essentials without the overwhelm—from knowing your evacuation zone to prepping your supplies. What's one storm-prep thing you've already tackled, or are you just getting started with yours?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "962411806966339_122117821022947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d874d4c64aa9334ffc259c4ec3f89ff4ec755cf62ba472df0c0fefaf1be22c6e",
+  "image_key": "gen"
 }
