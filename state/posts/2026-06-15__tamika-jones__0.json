@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "19:32",
-  "message": "",
+  "message": "Last week, a water main broke two streets over and suddenly our neighborhood was without water for like 8 hours. The *actual* chaos wasn't the broken main—it was my family group chat.\n\nMom: \"Do we have any water??\"\nMe: \"Um... some?\"\nSister: \"I'm filling the bathtub. Is that smart?\"\nKid: \"Can we still flush?\"\n\nTurns out we had maybe 3 days' worth stored (pure luck, honestly), but we were *scrambling* to figure out what we actually had and where. If it had lasted longer, we'd have been in real trouble.\n\nHere's the thing though—it wasn't stressful in a scary way. It was more like, \"Oh, we should probably know this stuff about our own house.\" So we did a little inventory together, talked about our actual needs, and now everyone knows where things are.\n\nPreparedness doesn't have to mean doom-scrolling or feeling overwhelmed. Sometimes it's just... knowing you've got water. Having a quick family chat about \"what if.\" Making a simple plan so future-us doesn't panic.\n\nWhat's one thing in your home right now that you *know* where to find if you needed it in a hurry?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1031788496687467_122114752520849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ff31051e8f3a7a24ddd7cd3b10282d1e74ea401fd3a67ddd951d3705920467a0",
+  "image_key": "gen"
 }

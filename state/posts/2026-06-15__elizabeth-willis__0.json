@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "10:49",
-  "message": "",
+  "message": "I've been reading up on power outages lately, and honestly, most of what stressed me out was just not knowing what to expect. Turns out there are some really straightforward things you can do *right now* to make one way less of a headache—and the Red Cross has a solid breakdown of exactly what those are. What's one thing in your home you'd want to make sure works during a blackout?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1092442657286729_122115364178693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "239afaddbbbd3cf581d9055ed3a2c3a54dcb8919693e128f70b22477cc12f6df",
+  "image_key": "gen"
 }

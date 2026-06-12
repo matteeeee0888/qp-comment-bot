@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "18:00",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to handle the unexpected when you've already thought through the basics—like where everyone would meet, what documents matter most, or how to stay in touch if cell service goes down. Ready.gov has a solid planning guide that walks through exactly that kind of practical stuff without any of the doom-and-gloom. Honestly, just having *some* kind of plan feels way better than having none at all. What's one thing you'd want to make sure your family knows about in case of an emergency?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1188071991047656_122107888437350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c41e469e92292009f640eb79b464cc1ec77a3b8fd283058701c6557bc6e92385",
+  "image_key": "gen"
 }

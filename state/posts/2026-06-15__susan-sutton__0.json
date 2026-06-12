@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "09:48",
-  "message": "",
+  "message": "Last weekend my kid asked why we had that 'boring box' of supplies in the hall closet. Instead of launching into a prep lecture, I thought—why not make it fun? We dumped everything out on the living room floor, checked expiration dates together, and let them help refill the water bottles. Turned it into this low-key treasure hunt vibe, they felt useful, and honestly? It was kind of cozy. Now they actually *want* to help with the next check-in.\n\nI think that's the secret nobody talks about—prepping doesn't have to feel heavy or stressful. Sometimes it's just about making it part of your normal, maybe even making it a little fun with the people you care about. That little refresher on keeping things organized helped shake off my overthinking too.\n\nDo you have a way you've made prep feel less like a chore and more like something your family actually gets into?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "962411806966339_122117839316947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1b187cb2ce5cf38487a4f46e3e4b5024ea540e366ab1cb88812f1498c5529921",
+  "image_key": "gen"
 }

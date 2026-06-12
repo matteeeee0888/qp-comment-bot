@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "11:38",
-  "message": "",
+  "message": "I've been thinking about how heat waves are becoming more of a regular thing, and honestly, a little planning makes them way less stressful. I found this solid government resource that walks through the basics—from staying cool at home to checking on neighbors—in a really straightforward way. What's one thing you've already got down for staying safe when the heat cranks up?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "719343644592338_122186921024926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9eec5a09cb6056aff136ec969f52da5e9e2c04cdee6e29e705337a691c4a1f9c",
+  "image_key": "gen"
 }

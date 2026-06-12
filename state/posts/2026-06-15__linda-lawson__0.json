@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "09:44",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to handle emergencies when you've actually thought through the basics ahead of time—like where to meet the family or what to grab on the way out. There's a really solid (and free) resource from Ready.gov that walks you through making a simple plan that actually fits your life, no overwhelming checklists required. Have you and your household talked through what you'd do in different situations, or is that still on your someday list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "936909452848936_122116613396955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6495b7ff930623c62fff861c0a31b4071bc2efee0a100e580b29f2516aa69b97",
+  "image_key": "gen"
 }

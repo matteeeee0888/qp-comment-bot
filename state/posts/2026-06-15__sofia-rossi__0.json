@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "17:38",
-  "message": "",
+  "message": "So I have this friend who texts me every time there's a storm watch—full panic mode, ALL CAPS, \"WHAT DO WE DO?!\" I used to find it kind of funny (okay, I still do a little), but I realized last year that underneath the drama, she was genuinely stressed because she actually *didn't know* where to start.\n\nWe spent like 20 minutes one afternoon just talking through the basics: where to keep supplies, how to check her phone for alerts, what \"preparedness\" actually looks like (spoiler: it's not glamorous, mostly just having stuff in your house). Now when a storm comes, she still texts me—but it's more like \"I'm good, got my flashlights\" instead of full meltdown.\n\nThe thing is, a little prep *really does* quiet that background panic. Not because you're obsessed with worst-case scenarios, but because you just... know what you'd do. No chaos, no last-minute scrambling.\n\nDoes anyone else have a friend (or are you the friend 😄) who gets in a tizzy when weather turns sketchy?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1112110298653755_122108450415340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7772f80848f4717d55ce6cd1fd8b0830296db8880a5a60644a26b509687019d2",
+  "image_key": "gen"
 }

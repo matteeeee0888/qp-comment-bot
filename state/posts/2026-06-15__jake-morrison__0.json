@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "13:29",
-  "message": "",
+  "message": "Last summer, our power went out during a heat wave—no AC, no fans, nothing. I was already stressed until I remembered I'd tossed a battery-powered fan into a drawer months ago after reading something about blackout basics. That little thing became our best friend for the next six hours. Kept us from overheating, kept the mood lighter. It was such a small prep, but it made such a real difference when we actually needed it.\n\nI think the best preparedness wins are the ones you almost forget about until the moment they actually save your day. No drama, no fuss—just \"oh, hey, I'm glad that's here.\"\n\nDo you have a \"forgotten prep\" that's come in handy when you least expected it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "768075889726058_122139088779028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "67b1e5e340b232be5c39df3f3bb61f125cea3b7b48881e3234c0024df10b5cf6",
+  "image_key": "gen"
 }

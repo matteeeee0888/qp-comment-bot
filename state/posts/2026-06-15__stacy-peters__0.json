@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "14:54",
-  "message": "",
+  "message": "Last winter, my kid asked why we had that flashlight in the kitchen junk drawer. I almost threw it out—then an ice storm knocked out power for 18 hours. That one flashlight (plus the batteries I'd tossed in there 'just in case') meant we weren't fumbling around in the dark, and honestly, it kept everyone calmer. Didn't need anything fancy or expensive—just that one small thing we'd already forgotten about.\n\nI've realized prep doesn't have to be overwhelming. Sometimes it's just about keeping *one* useful item where you'll actually find it when you need it. A flashlight. A battery pack. A list of important numbers. Those tiny wins add up.\n\nWhat's one small thing you already have at home that you'd want to grab first in a storm? ⚡",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1055885867606549_122116567622848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6f96ba7658985bae78db5423be88d6846d247d5f6c6381d03f00a87355064c9e",
+  "image_key": "gen"
 }

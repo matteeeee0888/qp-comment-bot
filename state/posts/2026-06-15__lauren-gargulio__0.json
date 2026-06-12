@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "10:32",
-  "message": "",
+  "message": "I was putting together a family emergency kit and realized I kept second-guessing myself on the basics—water amounts, first aid essentials, that kind of thing. Turns out there's a straightforward checklist from Ready.gov that takes the guesswork out of it. It's honestly nice to have a reference that covers the essentials without being overwhelming.\n\nWhat's the one item you always forget to include in yours?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1127031013825481_122104297737335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e7a23e772dae973275287748d75f4874378469cae4ac20b9a10130c27b834d4a",
+  "image_key": "gen"
 }

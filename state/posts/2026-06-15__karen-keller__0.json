@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "11:30",
-  "message": "",
+  "message": "I've been thinking about storm season and realized I actually don't know the difference between *preparing* for a hurricane versus just... hoping for the best. Turns out there's a whole practical middle ground—stuff you can do now that genuinely helps. The Red Cross has a solid guide I'm working through, and honestly it's less overwhelming than I expected.\n\nWhat part of storm prep do you usually tackle first—supplies, or getting your space actually ready?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1003918682810439_122118804519072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5f5f14d558f24b18e21af8efa8062a9693b624eab5b224141b65d6e6dec55eaa",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "19:13",
-  "message": "",
+  "message": "I stumbled on this solid government resource about power outages—it's got practical stuff like what to do before, during, and after, plus a helpful checklist for your home. Nothing scary, just straightforward prep so you're not scrambling if the power goes out. What's one thing you'd want to have on hand if you lost power for a few hours?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "985048591368725_122104673246629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1e778dee78f4ba03cad9c41d1e15129ea520aa77b56334ee57eb81379ff32de7",
+  "image_key": "gen"
 }

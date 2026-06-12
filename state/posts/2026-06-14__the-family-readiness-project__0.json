@@ -1,6 +1,6 @@
 {
   "id": "2026-06-14__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-14",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "Last week my sister called in a mild panic—her family needed to evacuate for a few hours due to a gas leak, and she had no idea where important documents were or what to grab. So I got to be *that person* for once, the one with an actual plan. Felt kind of amazing, not gonna lie.\n\nTurns out all those little steps I'd taken—keeping copies of IDs in one spot, a quick bag by the door, knowing where the important stuff lives—actually mattered when it counted. Nothing fancy or complicated, just... ready.\n\nIf you've been meaning to get your household squared away but didn't know where to start, this little refresher might be just the nudge.\n\nHave you got a go-bag situation happening at your place, or is that still on the to-do list? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122131095765281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "23e83c5f3c7a70ce5ce58089cb0f299d5d586f615666aa4587cefbf4b08404de",
+  "image_key": "gen"
 }

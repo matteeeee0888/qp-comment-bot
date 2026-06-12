@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "16:03",
-  "message": "",
+  "message": "I've been thinking a lot about how fires spread so fast through homes, which is honestly kind of a wake-up call to have a plan. I found this really solid resource from Ready.gov that walks through the basics—like escape routes, practice drills, and what actually matters to grab (spoiler: it's not your stuff). Have you and your household ever actually talked through what you'd do if you had to leave in a hurry?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "968263026380089_122114597048914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5d7611c9946bf4b88bb08208d96c57a7257bb6f87ebfbc175db6c4392bbaa776",
+  "image_key": "gen"
 }

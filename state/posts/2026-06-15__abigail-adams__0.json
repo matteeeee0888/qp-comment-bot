@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "13:39",
-  "message": "",
+  "message": "So I'm making grilled cheese at like 10 p.m. last week—exhausted, not paying attention—and suddenly the smoke detector goes off. Not a gentle beep. A full *screaming* alarm that made me jump three feet. My first thought? 'Thank goodness that thing actually works.' I'd replaced the batteries six months ago on a lazy Sunday, and honestly forgot about it until that moment. Turned out the pan wasn't actually on fire, just way too hot. Crisis averted. But it hit me: that small habit—the one I'd almost skipped—was exactly what mattered. The little wins add up. A working alarm. An escape plan written down. A family chat about where to meet outside. None of it's dramatic, but together they're the difference between 'we handled it' and wishing we had. What's one small fire-safety thing you've done lately that made you feel a bit more solid?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "911963812004163_122130972765187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3b69a8a3021377836c981877d6568593fd1fe42a04ccc49c34db2c402abc289c",
+  "image_key": "gen"
 }
