@@ -1,0 +1,44 @@
+name: news-newsjack
+# Once a day: discover preparedness news (free Google News RSS), let Claude filter out anything
+# non-compliant, score the rest, tag the best-fit product, and write the shortlist (with a ready
+# ad angle) to the "News" tab of the same Google Sheet the comment archive uses.
+# Secrets required: ANTHROPIC_API_KEY, SHEET_WEBHOOK_URL, SHEET_WEBHOOK_TOKEN.
+on:
+  schedule:
+    - cron: "0 12 * * *"   # daily ~12:00 UTC (≈08:00 ET) — fresh angles waiting for the US team
+  workflow_dispatch:        # manual "Run workflow" button
+    inputs:
+      dry:
+        description: "Dry run — score & print only, do NOT write to the sheet"
+        type: boolean
+        default: false
+permissions:
+  contents: write           # to commit the news seen-store back
+concurrency:
+  group: news-newsjack
+  cancel-in-progress: false
+jobs:
+  newsjack:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - name: Discover, score & write the news shortlist
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SHEET_WEBHOOK_URL: ${{ secrets.SHEET_WEBHOOK_URL }}
+          SHEET_WEBHOOK_TOKEN: ${{ secrets.SHEET_WEBHOOK_TOKEN }}
+        run: node bin/news-run.js ${{ github.event.inputs.dry == 'true' && '--dry' || '' }}
+      - name: Persist news seen-store
+        if: always()
+        run: |
+          git config user.name "qp-news-bot"
+          git config user.email "qp-news-bot@users.noreply.github.com"
+          git add -A state || true
+          git commit -m "state: news run [skip ci]" || echo "no state changes"
+          git pull --rebase origin main || true
+          git push || echo "push skipped"
