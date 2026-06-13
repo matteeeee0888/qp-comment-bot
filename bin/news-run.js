@@ -43,6 +43,21 @@ function ageDays(pubDate) {
 
 console.log(`news-run: text=${TEXT_ENGINE} top=${TOP} maxAge=${MAX_AGE_DAYS}d${DRY ? " DRY" : ""}${NO_LLM ? " NO-LLM" : ""}`);
 
+// --probe: write ONE labeled test row to the News tab and report the webhook's BODY.
+// Used to verify the Apps Script deploy/URL/token without depending on fresh news.
+if (argv.includes("--probe")) {
+  const today = new Date().toISOString().slice(0, 10);
+  const probe = {
+    captured_at: today, brand: "general", headline: "PROBE — deploy check, delete this row",
+    source: "diagnostic", url: "", score: "", t: "", e: "", b: "", u: "", m: "",
+    angle: "(probe)", why_now: "(probe)", status: "probe",
+  };
+  const res = await archiveNews([probe]);
+  console.log(`PROBE result: ${JSON.stringify(res)}`);
+  console.log(res.ok ? "PROBE OK — News tab reachable." : "PROBE FAILED — see body above (stale deploy / wrong URL / bad token).");
+  process.exit(res.ok ? 0 : 1);
+}
+
 // 1. discover (feeds fetched sequentially — polite, and 15 feeds is fast enough)
 const raw = [];
 for (const q of QUERIES) raw.push(...(await fetchFeed(q)));
