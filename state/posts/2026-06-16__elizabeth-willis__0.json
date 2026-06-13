@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "14:50",
-  "message": "",
+  "message": "I've been browsing through the Red Cross's hurricane prep guide, and I'm kind of amazed how much of it is just practical common sense—stuff that honestly makes you feel way more ready without being overwhelming. If a big storm is on the horizon where you are, it's actually a good time to think through a few basics: water, important documents, a battery-powered radio, that kind of thing. What's one prep task you've already tackled, or what's been on your to-do list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1092442657286729_122115437066693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "911d29cbd1369f7ec03d25f5707fae5bd5a5d84f68d36884c50bd28760b35c5d",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "18:55",
-  "message": "",
+  "message": "I've been slowly working through my home's fire safety, and I realized I was missing some basics—like where my family would actually meet outside, or what escape routes make sense from each room. Found this solid resource that walks through the practical stuff (escape plans, smoke alarms, that kind of thing) without being preachy about it. The takeaway for me: a little planning ahead takes the panic out of the \"what if.\" What's one fire safety thing you've already got sorted at your place?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1055885867606549_122116683896848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "614a824d54be3c156bb9b287f8b89ae4030dd74b7688b603bb2e62174493816f",
+  "image_key": "gen"
 }

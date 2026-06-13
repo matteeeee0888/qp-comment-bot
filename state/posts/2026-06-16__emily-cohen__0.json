@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "11:14",
-  "message": "",
+  "message": "I've been digging through Ready.gov's hurricane resources, and honestly, it's nice to have everything in one place—from preparation checklists to what actually matters during and after a storm. The calm, straightforward approach helps me think through things without the usual panic-inducing stuff. Have you found any hurricane prep resources that actually stuck with you, or are you starting to think through yours?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "985048591368725_122104717442629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "27f714f4cf21f5aca819bbd8a510f2c08add158730b33682a0f9d1b9cae3cbf4",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "10:01",
-  "message": "",
+  "message": "I found this helpful guide on power outages that walks through practical stuff—like keeping your fridge closed during an outage, having some battery backups on hand, and thinking through what matters most to your family when the lights go out. It's one of those things that's easier to think through now than in the moment. What's one thing in your home you'd most want to keep running if the power went out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "1188071991047656_122108511765350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "625ea6b52c03f84d13b4aa64a0ca22f8387f48e8b9dff2297b3aef345ac631e0",
+  "image_key": "gen"
 }

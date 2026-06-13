@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "13:49",
-  "message": "",
+  "message": "I've been thinking about what I'd actually *do* if the power went out for a few hours (or longer), and I realized I had way more questions than answers. Found this super straightforward guide from the Red Cross that walks through the practical stuff—what to do before it happens, what to have on hand, how to stay safe if it does. Nothing scary, just genuinely helpful. What's the one thing you'd want to figure out *before* your lights go out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "962411806966339_122117908394947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "58c48dc077060c5976e797ed9ffb55be89fe1e91db8578867082c8ecea1e8a05",
+  "image_key": "gen"
 }

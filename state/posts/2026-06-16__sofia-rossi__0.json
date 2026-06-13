@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "09:39",
-  "message": "",
+  "message": "I've never been the person who has it all together. My car registration? Always two months expired. My pantry? A mystery. But last month I actually sat down and mapped out a fire escape plan for our place—and tested our smoke alarms—and honestly? I felt weirdly *competent* for once. 😄\n\nThen my neighbor asked me about theirs, and I didn't have to say \"I have no idea.\" I just... knew some stuff. It was such a small thing, but it stuck with me—being on the prepared side of a conversation felt really good.\n\nIf you've been meaning to get around to this kind of thing, that little nudge of \"hey, I could actually do this\" is real. You don't need to be a prepper personality to get it done.\n\nHave you ever tackled something on your preparedness list and been surprised how manageable it was?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1112110298653755_122108638089340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "13138e8159d9321892b0abd76246b0b1d1997fbd707aead7b6847a5ad018ee75",
+  "image_key": "gen"
 }

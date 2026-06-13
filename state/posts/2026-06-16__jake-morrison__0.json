@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "17:30",
-  "message": "",
+  "message": "I've been reading up on how to help my family stay safe when heat waves hit, and honestly it's less complicated than I thought. The folks at Ready.gov put together some straightforward tips that actually feel doable—nothing fancy, just practical stuff like knowing where to cool off and staying hydrated. What's one thing you've found actually works when it gets really hot where you live?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "768075889726058_122139158367028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ee0eed8365eae7220cc6347692d16b8ab4d9db891900effafffac56806915c6a",
+  "image_key": "gen"
 }

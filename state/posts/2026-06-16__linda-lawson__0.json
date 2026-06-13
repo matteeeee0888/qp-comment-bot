@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "13:45",
-  "message": "",
+  "message": "So my friend texted me at 6 PM last week in an absolute panic: 'THE POWER'S OUT IN MY NEIGHBORHOOD.' Followed by like five more increasingly frantic messages. I called him and he was genuinely spiraling—phone at 12%, no flashlight, convinced he'd be eating warm ice cream by candlelight all night.\n\nTurns out the outage lasted two hours. But it got me thinking: most of us aren't actually *afraid* of the dark—we're just... unprepared. And then unprepared feels like panic.\n\nI told him about keeping a couple of decent flashlights and a power bank in an easy-to-reach spot. Nothing fancy. He looked at me like I'd suggested he buy a bunker, but honestly? Just knowing \"oh, I have that\" takes away like 80% of the stress.\n\nHave you got a spot where you keep your backup power stuff, or is that still on the someday list? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "936909452848936_122116724006955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c377f4d22bcc73701bc88406b35d6c37d67255396c8fdc126a559cdf11005e7e",
+  "image_key": "gen"
 }

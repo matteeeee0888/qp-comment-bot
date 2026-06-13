@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "14:33",
-  "message": "",
+  "message": "I'm realizing that power outages are way more common than I used to think—and honestly, they're easier to prepare for than most emergencies. The Red Cross has a solid breakdown of what actually matters when the lights go out, and it's reassuring how straightforward it all is once you know what to focus on. What's your household's biggest concern when you lose power—keeping food safe, staying warm, or something else entirely?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1127031013825481_122104417917335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ed6c9629bc16e893f996d3604728e3b3c86eb7b71d5feca6a4a04c28699831ed",
+  "image_key": "gen"
 }

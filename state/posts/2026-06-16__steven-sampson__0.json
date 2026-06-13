@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "18:54",
-  "message": "",
+  "message": "I've been reading through some solid hurricane prep info, and honestly, it's nice to have everything in one spot—from understanding storm surge to figuring out your evacuation route way ahead of time. The kind of stuff that's way less stressful to sort out on a calm afternoon than when you're watching the forecast get serious. What part of storm prep do you find yourself wanting to understand better?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1124746537378992_122111627150692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "24e0128fb5b874cd922183b005718bac4792ebbd94b3629ef84f861b78e9d9d3",
+  "image_key": "gen"
 }

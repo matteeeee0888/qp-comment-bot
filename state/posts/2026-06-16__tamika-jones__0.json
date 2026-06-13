@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "11:33",
-  "message": "",
+  "message": "I've been thinking about power outages lately — not in a doom way, just the practical kind of thinking. I found this solid resource from Ready.gov that walks through the actual basics (like how long food stays good in your fridge, what to do with medications, that kind of thing). Turns out a lot of it is just plain common sense once you see it laid out. Have you ever had to deal with an outage, and what surprised you most about it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "1031788496687467_122114829338849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "bdc1da57ddf79d2b939faa97fe265d8392bc58440fe00b4d3ea19f45a16821ff",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "17:40",
-  "message": "",
+  "message": "I've been slowly working through my family's emergency plan, and honestly? It's way less overwhelming when you break it into bite-sized pieces instead of trying to do it all at once. There's a solid resource out there that walks you through the basics—talking with your people, knowing how to reconnect, figuring out where to go if you need to leave home. Nothing scary, just practical.\n\nWhat's one thing about your household that you'd feel better having a plan for?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "911963812004163_122131072191187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "bd0b77c4afb6dad3d4eec59d53a9c6dfd5bd7b36bf9790890c122047c262a452",
+  "image_key": "gen"
 }

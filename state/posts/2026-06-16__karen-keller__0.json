@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "15:31",
-  "message": "",
+  "message": "I was making dinner last week when smoke started pouring out of the oven. Grabbed my phone to call my husband for advice and—dead battery. Of all the moments, right? Thankfully we got it sorted (burnt casserole, lesson learned), but it got me thinking: what if that had been something more serious and I couldn't get help?\n\nTurns out a lot of fire safety hinges on those little things we don't think about until we need them. Charged phone nearby, clear exit routes you actually know by heart, working smoke alarms you've tested—not because life is scary, but because life *happens*. A quick refresher on the basics actually made me feel way more grounded about the whole thing.\n\nDo you keep your phone charged during cooking, or is that just my new paranoia? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1003918682810439_122118897609072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9b6fec6ebdb74f543b5e9c2f7ce0bc5409bd0cc9d58f45f371db3fe75d57cd7e",
+  "image_key": "gen"
 }

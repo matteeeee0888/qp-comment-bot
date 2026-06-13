@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "15:39",
-  "message": "",
+  "message": "So last month my partner laughed at me for testing our smoke alarms. Like, *actually laughed*. \"They're fine,\" he said. \"You just replaced them last year.\"\n\nThen our neighbor's kitchen caught fire two blocks over. Everyone was okay, thank goodness—but suddenly he was asking me *exactly* how often we should be testing ours.\n\nI didn't even say \"I told you so.\" I just smiled and handed him the battery tester. 😏\n\nHonestly, I get why people skip this stuff. It feels paranoid until the moment it doesn't. But smoke alarms only work if they actually *work*, you know? And escape routes are only useful if everyone in your house has actually *walked them*.\n\nThe good news? It takes like 20 minutes total. Test the alarms, talk through your exits, check the kitchen habits. Done. Then you can go back to your life without that little nagging feeling.\n\nHave you tested yours lately, or are you due? 🏡",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "719343644592338_122187018260926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5321a8c192cf1b53caa8772ad46e7857a383e815cff1903faab51274d966693e",
+  "image_key": "gen"
 }

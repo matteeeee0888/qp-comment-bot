@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "08:04",
-  "message": "",
+  "message": "I've been thinking about how having a basic family plan—like knowing where everyone is during the day and how you'd get in touch—actually makes everyday life less stressful, not more. Turns out there's a whole resource from Ready.gov that walks you through this stuff in a really approachable way, and it's free. What's one thing you'd want to make sure your household knows about each other, just in case?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "968263026380089_122114687654914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "48d2010c6381b24761dc11f713c0b2e336e1c3f48ff5ccb058cf71d43a76e251",
+  "image_key": "gen"
 }

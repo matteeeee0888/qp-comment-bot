@@ -1,6 +1,6 @@
 {
   "id": "2026-06-15__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-15",
   "scheduled_time": "15:42",
-  "message": "",
+  "message": "So last winter, a surprise ice storm rolled in overnight, and I realized—at 6 a.m., in my pajamas—that I had NO idea where our flashlights were. Found one in the garage (dead batteries), another in a kitchen junk drawer (also dead), and what I'm *pretty sure* was a glow stick from 2019 under the couch.\n\nTurns out \"I'll figure it out when it happens\" is not actually a plan. 😅\n\nNow I keep a little weather-readiness checklist where I can actually *find* it. Nothing fancy—just knowing we have working flashlights, water, a way to charge phones, and blankets that aren't buried in storage. Sounds basic, but that peace of mind? Game-changer.\n\nHave you ever been caught off-guard by a storm and had to do the panic-search dance?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1059660273889438_122131246119281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9c056045d0be9e4bceee681edae45f55dfceae5a846bcbe667d13c4bd7ed658d",
+  "image_key": "gen"
 }

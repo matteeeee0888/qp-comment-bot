@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "09:35",
-  "message": "",
+  "message": "I stumbled on this really solid resource from Ready.gov about home fire safety—it walks through practical steps like planning escape routes and keeping important documents safe, stuff that actually makes a difference. The nice part is it doesn't stress you out; it just gives you a clear framework so you and your family feel more prepared. What's one room in your home where you'd want to make sure everyone knows the escape route?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1050667511458583_122117113478950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6add48739a8a43d148e8eda2da8ff6c0c43f8b2f99eed4be9be566aba51343db",
+  "image_key": "gen"
 }
