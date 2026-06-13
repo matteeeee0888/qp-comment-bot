@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "10:56",
-  "message": "",
+  "message": "My friend texted me at 2 AM last week in a total panic because his power went out. I'm talking full-on 'what do I do??' energy. And honestly? I got it—darkness is unsettling. But then I remembered: I'd actually walked him through a simple prep checklist like two months ago, and he'd laughed it off. Next morning (power back on), he admitted he'd found that old list on his phone and it *completely* calmed him down. Just knowing where his flashlights were, that he had some water and snacks stashed, made the whole thing feel manageable instead of scary.\n\nI'm not saying prep turns you into an ice-cold emergency robot. But I *am* saying it's weirdly soothing to know you've got a plan, even a simple one. Especially for the panickers among us (we're everywhere, right?). This little refresher helped me think through what actually matters to keep handy.\n\nDo you have one friend who *always* spirals in a crisis, or is that just my crew? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1055885867606549_122116717490848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b334d2aeb24b684f4cbfbb1046faf8102851e881d1c92e09a7ed72abc3a4386c",
+  "image_key": "gen"
 }

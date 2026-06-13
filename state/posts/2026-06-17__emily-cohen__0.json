@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "15:15",
-  "message": "",
+  "message": "I've been reading through some solid fire safety basics lately, and I'm realizing there's a lot of practical stuff I never thought about—like why certain escape routes matter more than others, or how to actually *practice* a plan so it feels natural in a stressful moment. Found a really helpful resource from Ready.gov that walks through the essentials without being preachy. What's one fire safety thing you've already done at home that actually made you feel better?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104733078629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1ebbb15dc2eca1ad96f616df32814116c21815db5fa15d3371d8e368f7b88d28",
+  "image_key": "gen"
 }

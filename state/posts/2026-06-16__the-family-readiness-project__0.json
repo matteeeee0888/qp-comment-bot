@@ -1,6 +1,6 @@
 {
   "id": "2026-06-16__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-16",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "I was digging through a closet last week looking for board games—you know, actually sitting down with the family instead of screens—and I found this old photo of us playing Uno by candlelight during a power outage maybe eight years ago. Everyone looked genuinely happy. No one was bored.\n\nIt got me thinking: we spend so much time making sure we *have* electricity and internet that we forget how to be okay without it. And then I realized—that's actually part of being prepared, isn't it? Having a plan for when things go sideways *and* knowing how to stay calm about it.\n\nI checked our smoke alarms that same day (because apparently nostalgia makes me responsible 😄). Also dusted off the escape plan we made ages ago and showed the kids where we'd meet outside.\n\nSomehow it all felt less like \"doom prep\" and more like \"let's make sure we're ready so we can keep having fun together.\"\n\nDo you have a go-to low-tech activity that actually brings your household together?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1059660273889438_122131268445281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ec34cc47fc508d540591d0ab4e7ce46c187f308b90ae7663aa89b9fe95792818",
+  "image_key": "gen"
 }

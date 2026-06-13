@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "10:55",
-  "message": "",
+  "message": "So my partner always rolled their eyes when I'd mention checking our smoke alarms. 'They're fine, we're fine, you're being paranoid,' the whole deal.\n\nThen last month our kitchen got a little too adventurous with a forgotten pan, and honestly? The alarm went off *immediately*. Like, the second things got smoky. We got it handled fast, no drama.\n\nAnd yes, I got my 'I told you so' moment. But the real win was just... knowing it worked. Knowing those batteries were good. Knowing we'd actually talked through where to go if we needed to leave quick.\n\nIt's not glamorous stuff, but man, it's the kind of thing that lets you sleep better.\n\nWhen's the last time you tested yours?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122111657636692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c0745f1ba388b027f8011313ff52bb3de91e2a9f8da823375d880858f5633ac6",
+  "image_key": "gen"
 }

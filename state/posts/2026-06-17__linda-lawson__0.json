@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "17:46",
-  "message": "",
+  "message": "I've been reading through the Red Cross hurricane prep guide, and honestly, it's refreshing how straightforward and practical it is—no drama, just solid steps you can actually take. Turns out a lot of storm readiness overlaps with general emergency prep, so if you've already started thinking about having supplies on hand or a communication plan, you're already part way there. What's one storm-season task you've been meaning to tackle but haven't gotten around to yet?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "936909452848936_122116746974955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "60f9e5ff2ff1a6dbadaad6de52bf0e7c7b6cfe99b8b14038e840640edbf57c89",
+  "image_key": "gen"
 }

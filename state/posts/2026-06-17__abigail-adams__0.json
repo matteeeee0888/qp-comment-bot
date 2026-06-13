@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "09:41",
-  "message": "",
+  "message": "So last week our power went out for like four hours, and I learned something hilarious about myself: I'd somehow convinced myself I was *totally* prepared. Spoiler alert—I wasn't.\n\nI had a flashlight. Singular. In a junk drawer. The battery was corroded. My phone was at 12%. And I stood in my kitchen genuinely shocked that I couldn't just… magic up light and cold food.\n\nThe funny part? I kept saying \"I should really get one of those lanterns.\" Like I was waiting for permission or something.\n\nTurns out being ready doesn't have to be complicated—just a couple of flashlights that actually work, maybe a power bank charging somewhere, and knowing where your blankets are. That's it. Not doomsday stuff. Just \"oh, I thought of this, so it's fine\" stuff.\n\nAnyway, this little refresher helped me actually *do* something about it instead of just thinking about it.\n\nWhat's one prep thing you've been meaning to grab but keep putting off? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "911963812004163_122131094409187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3da425824036c37adf3e462d3d10745ea4f536036d0f15d4890499f18b6522bb",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "19:32",
-  "message": "",
+  "message": "I've been working through my family's emergency plan this week, and I realized how much clearer everything feels when it's actually written down. There's a free government resource that walks you through the basics—no overwhelm, just straightforward planning that actually fits real life. The peace of mind from knowing everyone's on the same page? That's the real win.\n\nWhat's one thing you'd want to make sure your household knows about, just in case?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1003918682810439_122118914793072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "51c0f110f200998de242d8661a50b1dde3a34b3799b9751afc294a3c2a047aca",
+  "image_key": "gen"
 }

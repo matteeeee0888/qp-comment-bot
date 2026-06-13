@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "15:34",
-  "message": "",
+  "message": "Last winter, we lost power for two days during a freak ice storm, and honestly? It was kind of a reset I didn't know we needed.\n\nNo screens, no notifications—just my family actually *talking* at the dinner table by candlelight. My kids actually beat me at board games without checking YouTube between turns. We played cards. We read aloud. It sounds corny, but it felt kind of... nice?\n\nNow when storm season rolls around, I'm not stressed about being \"unprepared\"—I'm actually a little excited about having those low-tech games and books on hand. Feels like we're ready *and* we'll genuinely enjoy it if we need to.\n\nI grabbed a little refresher on what actually matters in a storm kit, and it reminded me: half of being ready is just having a few intentional things close by.\n\nDo you have a favorite low-tech thing you'd actually *want* to have on hand during a weather event?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1031788496687467_122114860766849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6701ab392dd9d0fa08cc4f2f0cf606227927758cb2295b654de1dd85eab48aac",
+  "image_key": "gen"
 }

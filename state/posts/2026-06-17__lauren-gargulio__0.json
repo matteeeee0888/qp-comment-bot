@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "18:34",
-  "message": "",
+  "message": "Last week I texted my friend Sarah about the storm warning coming through, and within five minutes she'd called me three times asking if she should board up her windows and whether we'd all need to evacuate. Sarah's the kind of person who goes 0–100 in about 2 seconds flat.\n\nSo I invited her over to make a simple storm plan together. Nothing dramatic—just going through the basics: where to shelter, what we'd want on hand, how to stay informed. Honestly, watching her calm down once we had *actual steps* instead of just doom-scrolling was kind of eye-opening. Turns out most of the panic came from not knowing where to start.\n\nI think that's true for a lot of us. A little quiet prep beforehand takes so much of the edge off when bad weather's actually on the way. This refresher on storm readiness helped us both feel way more grounded.\n\nDo you prep more on your own, or do you like planning it with someone else?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1127031013825481_122104459851335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "dc8de3ae052f41f0242e7a80f16ceb735671ddffd9a0dbd967a0b2c1e1747494",
+  "image_key": "gen"
 }

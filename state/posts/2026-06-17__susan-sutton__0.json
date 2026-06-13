@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "17:50",
-  "message": "",
+  "message": "I've never been the 'prepared' friend. My sister always had the emergency kit, the backup plans, the weather alerts on her phone. Me? I was the one texting at 11 p.m. asking to borrow a flashlight.\n\nThen last spring, a bad storm rolled through and our block lost power for almost 24 hours. My neighbor knocked on my door looking panicked—no flashlights, no battery radio, no idea what was happening. And for the first time in my life, I had answers. A working flashlight. A charged portable battery. A simple plan.\n\nI'll be honest, it felt *good* to be the one who had it figured out for once.\n\nThe thing is, I didn't do anything dramatic to get there. I just spent an afternoon thinking through what I'd actually need if the power went out, or water got cut off, or I couldn't leave the house for a day. Nothing complicated. Just... practical.\n\nTurns out being the prepared person isn't about being paranoid or obsessive. It's just about knowing you've got your people covered.\n\nWhat's one thing that would genuinely stress you out if a storm knocked it out—power, water, heat? That's honestly where I'd start.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "962411806966339_122117934008947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ee0613d93334f2cf554804ea6d87f54f95da41fdc60ca884b269ff44923bfba4",
+  "image_key": "gen"
 }

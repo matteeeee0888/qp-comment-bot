@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "13:40",
-  "message": "",
+  "message": "So my 10-year-old found our go-bag in the closet last week and asked, \"Mom, why do we have snacks but no video games in here?\" 😄\n\nI realized I'd never actually *shown* the kids what was in there or *why*. To them, it was just a mysterious backpack. So we sat down together, went through it, and suddenly it clicked for them — they helped me refresh the water, swap out old granola bars, and add a couple of their own comfort items.\n\nTurned out, getting them involved made the whole thing less \"emergency prep\" and more \"we've got a plan.\" Plus now they actually know where it is and what to grab if we ever need it.\n\nDo your kids know where your family's important stuff is, or is it still kind of a grown-up secret? 🤔",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1112110298653755_122108687055340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "883613816e0adc37f6e06272a0b463554653a12efe4651a588beda603508c42d",
+  "image_key": "gen"
 }

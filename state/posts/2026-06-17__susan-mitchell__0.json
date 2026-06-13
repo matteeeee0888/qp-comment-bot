@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "19:40",
-  "message": "",
+  "message": "I made my kids help me gather important documents last weekend, thinking I'd finally get it done. Spoiler: I got distracted three times, they complained twice, and somehow we ended up laughing about the photo on my old passport.\n\nBut here's the thing—by the end, they actually *knew* where stuff was. When I asked my oldest where the birth certificates lived, she just pointed. No hesitation.\n\nI think the real win wasn't checking a box. It was that my family got a tiny bit more familiar with \"the plan\"—and making it feel normal, not scary, made all the difference.\n\nHas anyone else found that getting your family involved actually makes prep feel less like a chore? How do you get kids (or adults!) on board with this stuff?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "719343644592338_122187043730926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "27d31d9f09f727479b14685496eecae5ce2e4de05acc880d5b07c123d1c74979",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "14:02",
-  "message": "",
+  "message": "Last winter, we lost power for three days—and I'll be honest, I was dreading it. But something weird happened: my kids actually *asked* to play board games by flashlight instead of reaching for screens. We laughed way too hard at a terrible game of charades. My partner and I talked more than we had in weeks.\n\nI'm not saying power outages are fun (they're not). But it got me thinking: what if we actually *practiced* some of that low-tech stuff before a storm hits? Card games, books, those old-school toys collecting dust. It's not just a backup plan—it's actually kind of nice.\n\nHave you rediscovered any games or activities you'd forgotten about? Curious what keeps your family sane when the screens go dark.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1188071991047656_122108677401350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4ac4a080ce4e13ead2ff54b188451a46728b2de9b0264c28fbe79e432279941f",
+  "image_key": "gen"
 }

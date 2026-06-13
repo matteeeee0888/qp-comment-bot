@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "12:05",
-  "message": "",
+  "message": "So last week the power went out for like six hours, and I realized I'd become *that person* — the one who talks about being prepared but whose flashlights are... somewhere? In a junk drawer? With dead batteries? 😅\n\nI ended up using my phone's flashlight (battery dying), squinting at the fridge every 10 minutes to see what I could grab, and basically sitting in the dark feeling very smug about how *ready* I am.\n\nTurns out \"ready\" and \"actually set up\" are two different things. Funny how that works.\n\nNow I've got a little system: cheap LED lantern in the kitchen, a basic power bank by my bed, flashlights actually *together* in one spot with fresh batteries labeled with the date. Not fancy. Just... there when I need them.\n\nThe best part? No scrambling in the dark, no dead phone anxiety, no pretending I have it all figured out.\n\nDo you have a go-to light source you keep handy, or are you still in the \"someday I'll organize that\" phase like I was?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122114714726914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a0884418e42b1202a0a828e826db83557090a77fee8b69372a6e8fb2b1ee4881",
+  "image_key": "gen"
 }
