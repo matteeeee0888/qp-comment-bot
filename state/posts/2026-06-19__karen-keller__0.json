@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "15:34",
-  "message": "",
+  "message": "I found this resource that walks through some really practical ways to think about emergency planning with your household. It's broken down into manageable steps, so it doesn't feel overwhelming—just thoughtful prep that gives you peace of mind. What's one area of family preparedness you've been meaning to tackle?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1003918682810439_122119044237072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1777caf97b628348c57c7c00d46641a23343a66220dfeb267223a73d6323d490",
+  "image_key": "gen"
 }

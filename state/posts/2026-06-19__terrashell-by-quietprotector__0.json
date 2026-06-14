@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "09:38",
-  "message": "",
+  "message": "I've been poking around Ready.gov's planning section, and honestly, it's like having a friendly checklist that makes the whole 'getting prepared' thing feel way less overwhelming. The best part? It breaks everything down into actual doable steps instead of a giant scary to-do list. Has anyone else found a planning tool or approach that just clicked for you?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1050667511458583_122117282024950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "859164371615eabee5ddf994b6b37c17e8f8d77724d562e8f926ca9e3b6f08af",
+  "image_key": "gen"
 }

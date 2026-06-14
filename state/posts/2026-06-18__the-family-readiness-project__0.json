@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "15:45",
-  "message": "",
+  "message": "So last week my kid got sick right before a family trip, and I needed his medical records *yesterday*. I just… opened the folder I'd put together six months ago when I was feeling weirdly motivated about \"emergency prep,\" and boom—everything was there. Vaccination records, allergy info, past prescriptions. Took me literally 90 seconds instead of an afternoon of phone calls.\n\nTurns out that small act of putting documents in one place actually *worked* when life got messy. No drama, no crisis—just a regular \"oh thank goodness\" moment.\n\nHave you got your family's important papers in one spot, or is it still the classic \"somewhere in the filing cabinet we'll figure it out later\" situation? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1059660273889438_122131361463281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5d7558c8973afd429037610b70d2596405a97b5cc9538fe0f333fcd1d4d686d2",
+  "image_key": "gen"
 }

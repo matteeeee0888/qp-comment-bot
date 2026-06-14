@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "10:04",
-  "message": "",
+  "message": "I've been digging into what actually helps when storm season rolls around, and the Red Cross has put together a really solid resource on hurricane prep that goes beyond the usual checklist stuff. It's the kind of thing that's genuinely useful whether you're in a high-risk area or just want to feel more grounded about what could happen. The nice thing? Most of this prep helps with other situations too—it's all about having your bases covered without losing sleep over it. What's one thing on your prep list that you've actually already done?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1188071991047656_122109513369350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ed1088e88f93af997154b78fc2f2df6c73c1b83acf3e31f6289cd241721e7371",
+  "image_key": "gen"
 }

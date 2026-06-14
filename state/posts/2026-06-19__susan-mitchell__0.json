@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "15:42",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to handle the unexpected when you've already thought through the basics—like where to meet if you get separated or what matters most to grab quickly. Found this solid resource that walks you through exactly that kind of practical planning without the overwhelm. Nothing fancy, just straightforward stuff that actually makes you feel more ready. What's one thing you've already figured out for your family, or what feels like the trickiest part to nail down?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "719343644592338_122187170432926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d87b9cdafe2b66a2172d2945bd70b3ee4bc569aaa8e34b842618b8abce20f9ab",
+  "image_key": "gen"
 }

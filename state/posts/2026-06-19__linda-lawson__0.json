@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "13:48",
-  "message": "",
+  "message": "So my friend texted me during that last big storm warning and immediately spiraled into full panic mode—suddenly we're talking about boarding up windows and evacuating the cat to high ground. I get it; weather alerts can feel a little overwhelming.\n\nBut here's what I've learned: a little *calm* prep beforehand actually removes most of that panic. Like, if you've already thought through basics—where your supplies are, what your plan looks like for different scenarios—a weather warning just becomes... information. Not a crisis.\n\nIt's kind of like having a go-bag ready instead of throwing stuff in a suitcase at midnight. The peace is in knowing, not in the doing.\n\nDo you have a friend who spirals during storms too, or are *you* that friend? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "936909452848936_122116856750955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "aab21af3a92ac0a350d6afa115c43b04faba5343648a483a814e698598074576",
+  "image_key": "gen"
 }

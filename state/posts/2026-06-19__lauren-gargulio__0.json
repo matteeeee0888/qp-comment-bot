@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "14:36",
-  "message": "",
+  "message": "My 8-year-old asked me yesterday why we have all those flashlights and water jugs in the garage. I started explaining severe weather prep, and she goes, \"Mom, you worry about *everything*.\" Fair point—but then I realized: she's never actually *experienced* losing power for three days, or watching a neighbor deal with a flooded basement. That's not worry; that's just... parenting.\n\nI didn't lecture her. Instead, we made it a little game: \"If a storm knocked out the WiFi, what would we do for fun?\" Suddenly she was *into it*—helping me check the flashlight batteries, picking snacks she actually wanted to stash away.\n\nI think the shift happens when kids see prep as normal care, not anxiety. It's the same as keeping band-aids in the bathroom—you're not *worried* you'll get a paper cut; you're just ready.\n\nDoes your family talk about storms and readiness? How do your kids react?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1127031013825481_122104635813335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a746ee9bc3056d84bceabc8641a22777aeb28eba089b338b54cd67d102c58ab4",
+  "image_key": "gen"
 }

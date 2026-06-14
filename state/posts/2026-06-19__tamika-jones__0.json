@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "11:36",
-  "message": "",
+  "message": "Last winter, our power went out for about 18 hours during an ice storm. I was honestly dreading it — no heat, no lights, no streaming. But my kids dug out an old board game, we got some candles going, and we ended up having the longest conversation we'd had in months. No phones buzzing. No screens. Just us, a lot of laughing, and surprisingly, it didn't feel like a hardship.\n\nIt made me realize that some of our best storm prep isn't about gadgets or gear. It's remembering that low-tech entertainment, good books, card games, or even just a working deck of cards can turn a power outage from \"uh oh\" into \"remember that?\" And having those things on hand — along with a basic plan — somehow makes the whole idea of severe weather feel less overwhelming.\n\nWhat's a low-tech activity that your family actually enjoys together? I'm curious what would make your next storm day feel less stressful.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1031788496687467_122114983718849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a1d5f2293bd059dd3465d1c3d9cb17345a2fb5b4e6b34562d9e6f50da96dbae1",
+  "image_key": "gen"
 }

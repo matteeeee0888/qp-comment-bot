@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "14:53",
-  "message": "",
+  "message": "So last week I was digging through a old board game with the kids—no screens, just us, dice, and a lot of laughing—and I realized how long it's been since we just *hung out* together in the living room like that.\n\nThen I glanced up at our smoke alarm and thought, \"Wait, when was the last time I actually *tested* this thing?\" 🤦‍♀️\n\nTurned out, it had been way too long. And while I was at it, I realized we'd never actually walked through our escape plan as a family—not the \"in case of emergency\" version, just a casual \"here's where we'd go\" conversation.\n\nSomething about putting the phones down and being present made it easier to think clearly about the stuff that matters. We tested the alarm together (loud!), talked about getting outside fast, and then went right back to our game.\n\nFeels like the low-tech approach helps me stay *actually* prepared instead of just worried. What's one thing you've been meaning to check on but kept putting off?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122115583316693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ad49d8dc19f95b238a1d987ecf50186afa02ed9c9de5c6636477c69f763e40c2",
+  "image_key": "gen"
 }

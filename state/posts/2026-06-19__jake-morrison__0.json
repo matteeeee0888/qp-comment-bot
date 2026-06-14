@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "17:33",
-  "message": "",
+  "message": "So my 8-year-old asked me the other day, \"Mom, why do we have that beepy thing on the ceiling?\" I realized I'd never actually *explained* our smoke alarm to her—she just knows it goes off when Dad burns toast.\n\nTurns out, kids are way more likely to take fire safety seriously when they understand the \"why\" instead of just getting told \"don't touch the stove.\" We walked through our escape plan together, and she actually got excited about it (I may have made it sound like a practice mission).\n\nNow she checks in: \"Is everyone's door closed? Do we know where to go?\" I'm honestly impressed—and way less stressed knowing she'd actually *know* what to do.\n\nHave you walked through an escape plan with your family recently? What age did your kids actually start \"getting it\"?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "768075889726058_122139262881028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5eab29a48872480c4e0997a82fa39ad09aa7aac37e935a5f13dfad96e97b4da0",
+  "image_key": "gen"
 }

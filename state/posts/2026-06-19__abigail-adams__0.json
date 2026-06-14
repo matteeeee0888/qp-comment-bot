@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "17:43",
-  "message": "",
+  "message": "I've been thinking about power outages lately—not in a doom-y way, just realistically. Found this solid resource from Ready.gov that walks through the basics: what to do before one happens, during, and after. Honestly, it's mostly just practical stuff that makes you feel a little more settled about it. What's one thing in your home that would be hardest to deal with if the power went out for a day or two?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "911963812004163_122131192641187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e478a94ec0ec8f1a4008fc5e64b7982c5e9c95e1970916ea2d9aa65a0b9d9646",
+  "image_key": "gen"
 }

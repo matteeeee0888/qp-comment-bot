@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "18:58",
-  "message": "",
+  "message": "Last week my kid asked, \"Mom, where's our go-bag?\" and I realized I'd been *thinking* about making one for approximately 18 months. So there I was, frantically stuffing a duffel with snacks, documents, and a flashlight I found in three different places (why do we do that?) while my family watched like I was training for a reality show.\n\nThe funny part? Once I actually *did* it, it took maybe 45 minutes. Forty-five! All that mental delay for less time than a TV episode.\n\nI think we avoid prep stuff because it feels like admitting something bad *might* happen—so our brain just... doesn't. But honestly, putting together basics like a bag, water, important papers, and a simple family plan isn't doom-scrolling. It's just grown-up stuff, like keeping your car maintained.\n\nPlus, there's something oddly satisfying about actually *having* your ducks in a row for once.\n\nHave you got your go-bag sorted, or are you in the \"I've been meaning to\" club like I was? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122116826846848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "144e4ad11a8660b4cbb8ea0630a1bf6b290296c9315b5a07ee5657efefac1a17",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "09:42",
-  "message": "",
+  "message": "Last weekend, my 8-year-old knocked over a water jug while we were reorganizing the garage, and instead of stressing, we just... decided to make it a thing. We pulled out some blankets, made a little \"emergency kit picnic\" on the living room floor, and went through our go-bag together like it was a treasure hunt. She actually *wanted* to help pack stuff. We found some expired granola bars (oops), labeled our documents in a folder she decorated, and somehow it felt cozy instead of heavy.\n\nI think that's when it clicked for me—prepping doesn't have to be this solemn, stressful project. When you frame it as something you're doing *together* with your family, it becomes less \"preparing for disaster\" and more \"making sure we've got each other's backs.\" And honestly, your kids remember the effort way more than the anxiety.\n\nHas anyone else found a way to make preparedness feel less like a chore and more like actual family time?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1112110298653755_122108956269340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "10e968ceb5458c0229ffad141095c4fcbbba415672e215ac6a7af3bb814fb84c",
+  "image_key": "gen"
 }

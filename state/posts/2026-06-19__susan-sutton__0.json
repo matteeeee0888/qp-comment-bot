@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "13:52",
-  "message": "",
+  "message": "So last winter, my neighbor Mike spent the whole fall telling everyone his family was \"totally ready\" for storms. Then an ice event rolled through, and his power went out for three days. He showed up at my door looking sheepish, asking if we had any battery-powered flashlights to spare.\n\nI'm not gonna lie—I had a *tiny* moment of smug satisfaction. But mostly I just felt bad for him, because being caught off guard when you've got kids at home is stressful.\n\nHere's the thing though: having a plan isn't about being the smartest person in the room. It's about taking one afternoon, thinking through what your family actually needs (water, meds, flashlights, blankets—the basics), and then... not thinking about it again until you need it.\n\nNo drama. No doom-scrolling. Just a little peace of mind.\n\nWe actually have a pretty solid starter checklist that's helped us think through the basics for our household—this little refresher helped us stay grounded.\n\nWhat kind of weather hits your area hardest? Are you more of a \"prepared and chill\" person or still working on it? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "962411806966339_122118052274947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a0133c297ab624430491f1c6116f661fa8a5277b32dc194a05070d79656761dd",
+  "image_key": "gen"
 }

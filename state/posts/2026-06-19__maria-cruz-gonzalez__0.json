@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "08:07",
-  "message": "",
+  "message": "Last month the power went out for maybe six hours, and I learned something hilarious about myself: I'd apparently prepared for *everything* except the actual moment it happened. Found my flashlight (batteries dead). Located my camping lantern (in a box labeled 'ask me where this is'). Phone at 12% because I was too lazy to charge it that morning.\n\nI ended up using my car interior light and a phone flashlight app until my neighbor lent me an actual working light. The kicker? I *knew* better. I just hadn't actually *done* it yet.\n\nTurns out preparation isn't about being paranoid—it's about being ready for the weird, ordinary times when the power just... stops. Nothing dramatic. Just inconvenient. Which is probably when you most want to have already handled the basics.\n\nHave you got a 'oops, should've done that already' preparedness story? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122114841500914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "980a50ff5690876495160b95d16b280eae978b854c54b301bf8929405d1f3276",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "11:17",
-  "message": "",
+  "message": "I've been digging into fire safety lately, and I found this solid resource from Ready.gov that breaks down the practical stuff—like making a plan with your household and knowing your exits. Nothing scary, just straightforward tips that actually help you feel more prepared. What's one fire safety thing you've already got sorted in your home?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104813898629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "122c18b8f6878160ab8d8feff3d4ac582e434ce31a127059e65012f56f713aa3",
+  "image_key": "gen"
 }
