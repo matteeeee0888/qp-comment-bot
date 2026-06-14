@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "11:33",
-  "message": "",
+  "message": "I spent 20 minutes last week looking for our important documents. Twenty. Minutes. Turns out they were in three different drawers, a shoebox, and—I'm not making this up—a mason jar in the pantry. My spouse just shook their head and said, \"You know what would be funny? If we actually knew where these were.\"\n\nSo we didn't laugh. We fixed it.\n\nThere's something oddly freeing about getting your household basics in one spot—documents, insurance info, that stuff. Not because doom is around the corner, but because the *not knowing* is kind of chaotic, right? It's like keeping your keys in a random place every single day. You're always a little bit behind.\n\nI'm not saying I'm the world's most organized person now (I definitely found a granola bar from 2019 in our \"emergency kit\"). But knowing where important stuff lives? That actually feels good.\n\nHave you got your important papers rounded up, or are they playing hide-and-seek at your house too?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1003918682810439_122119019451072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7d04d5669250affc9f30bce1d6c6a60afa12d7b40fe73f82dfd246111f1001b6",
+  "image_key": "gen"
 }

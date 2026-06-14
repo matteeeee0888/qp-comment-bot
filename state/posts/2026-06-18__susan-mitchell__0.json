@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "I've been slowly working through my household emergency kit, and honestly, having a solid checklist has made the whole thing feel way less overwhelming. Turns out it's mostly stuff you probably have around anyway—water, first aid, flashlights, that kind of thing. Ready.gov has a pretty straightforward breakdown that walks you through it step by step, which I found really helpful instead of just guessing what I might need. What's the one item you always forget to keep stocked?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "719343644592338_122187139874926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ddc2758e4e3d8be58f1471ccb110c50342f076c51d0f916894bb609ce629a785",
+  "image_key": "gen"
 }

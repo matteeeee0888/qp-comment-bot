@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "17:41",
-  "message": "",
+  "message": "My 8-year-old opened our go-bag last week and asked, \"Why do we have these old granola bars?\" Fair question. Turned out they'd expired two years ago—which somehow made it the perfect teaching moment. We sat down together and went through everything: water bottles, first-aid stuff, documents in a folder, flashlights. She helped me swap out the old snacks, and suddenly it wasn't just \"Mom's emergency thing\"—it was *ours*. She even drew labels for her own little section. Now she checks it with me every few months without being asked. I think kids actually *want* to help protect their home and family; they just need to feel like part of the plan, not passengers in it. What's your go-to way to get your family involved in being ready? This little refresher helped us make it stick.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1112110298653755_122108909193340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "35376e4eae1ac7ff9bdb08036503cdd68665c465c8b5e3c23dd5d2905e9415e5",
+  "image_key": "gen"
 }

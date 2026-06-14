@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "18:03",
-  "message": "",
+  "message": "I've been thinking about how heat waves can really sneak up on us—and how a little prep makes such a difference when the temperature climbs. I found this solid resource that breaks down some practical stuff about staying safe and comfortable when it gets hot, without any of the doom-and-gloom framing. It's one of those things that's actually kind of nice to know before you need it. What's your go-to move when things heat up—do you have a favorite way to keep your place cool, or is it just cranking the AC and hoping for the best?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1188071991047656_122109331101350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3db72dca8f36a9566c3de20d80a35de7ab61f5969289924c9b6e98fdbbe93ee7",
+  "image_key": "gen"
 }

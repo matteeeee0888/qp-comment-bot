@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "14:56",
-  "message": "",
+  "message": "I'll never forget the Tuesday I actually *listened* to my kid ask why our smoke alarm was beeping. Instead of ignoring it (guilty 🙋‍♀️), I grabbed a ladder and swapped out that battery. Felt silly at the time.\n\nFast-forward two weeks: I burned the heck out of some garlic bread. Seriously—*black*. That alarm went off immediately, and I caught it before it became a real problem. No drama, no damage, just a working alarm doing its job.\n\nTurns out that small \"ugh, fine, I'll do it now\" moment actually mattered. It got me thinking about all those little maintenance things we push off—they're not boring, they're kind of like insurance that actually works.\n\nHave you had a small home-safety win that surprised you with good timing?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122111744834692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6b326dee2a1ba9c962c0e62bdd38dc1c191699ac81c3b530e089638dfba617c5",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "09:47",
-  "message": "",
+  "message": "Last spring, I did something I'd been putting off for *months*: I printed out a simple one-page severe weather checklist and stuck it on our fridge. Sounds boring, right?\n\nThen came the afternoon the meteorologist started talking about a derecho. My stomach sank—I *knew* we should have a plan, but my brain was already spinning. I glanced at the fridge, grabbed that little sheet, and suddenly had a north star. Charge the laptops. Fill the tubs. Bring in the porch plants. Nothing revolutionary, but having it written down meant I didn't have to *think* during the panic part.\n\nWe didn't end up needing it that badly, but the peace of mind? Totally real. Turns out a tiny bit of prep work beforehand erases so much of the \"what do I do NOW?\" spiral when things feel chaotic.\n\nDo you keep a plan somewhere handy, or is that something you've been meaning to get around to too?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "936909452848936_122116824470955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2f7e35c9d472fea70638355ebf8e74ec8e58413b8f454bb40c2367166846e0e0",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "13:42",
-  "message": "",
+  "message": "So I'm sitting in my living room during last month's outage—pitch black, phone at 47%—and I'm suddenly *that person*. You know, the one who casually pulls out a recharged power bank from the junk drawer, a working headlamp from the camping bin, and a flashlight that actually *has batteries in it*. My partner just stares like I've unlocked a secret level of adulthood.\n\nHonestly? I'd forgotten I'd even done half this stuff. But there it was—months of little prep moments just... sitting there. Phone stayed charged. We had light. The fridge stayed mostly cold because I'd frozen some water bottles the week before (totally by accident, but hey). No stress, no scrambling, just \"oh good, we're fine.\"\n\nI think there's something really freeing about being the gloriously *boring* over-prepared person. No drama, no white-knuckled problem-solving at 9 p.m. Just... you know... ready.\n\nWhat's the one prep item that's actually saved you when the power went out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "911963812004163_122131171581187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "12120e6e3cb0d5fab0ae5b36731177337047fbc07835128e143c38616a194b44",
+  "image_key": "gen"
 }

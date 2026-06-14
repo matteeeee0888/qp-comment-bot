@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "14:57",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to handle an emergency when you've already thought through the basics—like where to meet up, what to grab, or how to stay in touch. There's a free resource from Ready.gov that walks you through making a simple plan with your household, and honestly, it takes way less time than you'd think. What's one emergency scenario you'd feel more confident about if you had a plan for it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122116802708848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "54e939bde8ed1a80eb3ad06450003e006dca9587fe795766a9e7daed91d9c163",
+  "image_key": "gen"
 }

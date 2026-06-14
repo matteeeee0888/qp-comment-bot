@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "10:52",
-  "message": "",
+  "message": "Last month I realized our smoke alarms hadn't been tested in... honestly, I can't remember how long. So instead of making it a dreaded chore, I turned it into a weird little family thing—we gathered everyone, I pressed the button on each one, and we all winced together at how loud they were. My kid laughed so hard she snorted. Then we actually talked through where we'd go if we needed to get out fast, and I showed them the kitchen stuff I'm trying to be better about (like not leaving the stove unattended—easier said than done on a Tuesday night, right?). It wasn't scary or serious-feeling; it was just... normal. A quick refresh that ended with hot chocolate. A little reminder helped us all feel more settled in our own space. Have you done a smoke alarm check lately, or is that one of those things that's been on the mental to-do list? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122115556796693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "0350c7c3387f80c35e88851191310d6bc203704ff2d98ad272f8c1e2b4f7615b",
+  "image_key": "gen"
 }

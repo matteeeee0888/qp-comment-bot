@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "19:16",
-  "message": "",
+  "message": "I've been reading through some solid fire safety basics lately, and honestly, it's one of those topics that feels way less overwhelming once you have an actual plan in place. Found a straightforward resource that walks through the practical stuff—like knowing your escape routes and testing detectors—without making you feel like you need to live in a bunker. The nice thing about getting ahead of this is you can just work through it at your own pace, maybe even chat about it over dinner. What's one fire safety thing you'd feel good about tackling this month?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104794410629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "64c7c27dacd4a436265d3db013364076bf04819098e76fb8bfbe366ad6aeeb49",
+  "image_key": "gen"
 }

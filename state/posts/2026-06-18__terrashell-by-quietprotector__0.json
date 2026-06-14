@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "17:37",
-  "message": "",
+  "message": "I've been gradually building up my family's emergency kit over time, and honestly? Having a checklist makes it so much less overwhelming. I found this helpful breakdown of the basics—it's nice to see what actually matters and skip the stuff you don't need. Really takes the guesswork out of it.\n\nWhat's one item you already have at home that you hadn't thought of as part of your prep?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1050667511458583_122117257316950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "dc7e7b8305bbaa9fdc542e49752cfbb028cfc524b164dab14350e880f6911caf",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "13:32",
-  "message": "",
+  "message": "I'm the person who has a fire escape plan taped inside every kitchen cabinet, color-coded for which kid grabs what. My partner calls me \"the gloriously over-prepared one.\" And honestly? Last week when I accidentally left a dish towel too close to the stove burner, I didn't panic—I just grabbed it, stepped back, and calmly moved on. Because I'd already thought through what to do.\n\nThat's the thing nobody tells you: being *a little* over-prepared doesn't make you anxious. It actually does the opposite. You just… know. No second-guessing, no frozen \"what if.\"\n\nSo I'm not saying you need laminated charts in every room (though hey, no judgment). But knowing where your smoke alarms are, keeping flammable stuff away from your stove, and having a basic \"if something catches fire\" moment planned? That's the sweet spot between prepared and peaceful.\n\nWhat's one small fire-safety thing you've done that actually made you feel *calmer* at home?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "768075889726058_122139243915028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f9233226f69c094d3953fd059591a6e8406dae09e28e0c8fb657046059a77477",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "09:51",
-  "message": "",
+  "message": "I've been digging into hurricane prep resources and honestly, having a game plan *before* storm season hits makes the whole thing feel way less overwhelming. The Red Cross has this solid guide that walks through the basics—nothing scary, just practical stuff that actually helps. What's one thing you'd want to know more about when it comes to getting ready for severe weather?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "962411806966339_122118018848947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "94598b9b11f83287914dfe7783158064fa528d945f6258c10fd1916aa6140a27",
+  "image_key": "gen"
 }

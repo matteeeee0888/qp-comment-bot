@@ -1,6 +1,6 @@
 {
   "id": "2026-06-17__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-17",
   "scheduled_time": "11:44",
-  "message": "",
+  "message": "Last winter, my kid asked why we were pulling out the emergency kit. Instead of making it sound serious, I said, 'Let's do a supplies inventory party!' We spread everything out on the kitchen floor, made a snack run to replace what we'd used, and honestly? Turned what could've been a chore into this weirdly cozy afternoon together.\n\nI think that's the secret nobody talks about — prep doesn't have to feel heavy or scary. It can just be... taking care of things, maybe with someone you love. Go-bags, water rotation, keeping copies of important documents somewhere safe — they're all just love in action, really.\n\nDo you have a prep task you've been putting off? What would make it feel a little lighter?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1059660273889438_122131340967281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2776d6792cab951b7d5730692a99a257d1e89336eacd21ecbc3b1b79daff87b7",
+  "image_key": "gen"
 }

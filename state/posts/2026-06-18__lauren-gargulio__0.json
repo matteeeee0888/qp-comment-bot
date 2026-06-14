@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "10:35",
-  "message": "",
+  "message": "Last winter we got that surprise ice storm, and I swear our family group chat became comedy gold. My brother sent a blurry photo of his driveway saying 'send help,' my mom was asking if we had enough bread (we always do??), and my sister kept posting memes about being trapped at home like it was a vacation.\n\nBut here's the thing—buried in all the chaos, we actually *had* what we needed. Flashlights worked. We had water. Nobody panicked because we'd talked through basics months before.\n\nThat's kind of the sweet spot with weather prep, I've found. Not stressful, not constant—just *knowing* your people are set so when something wild happens, your group chat can be funny instead of frantic.\n\nWhat's your go-to move when a big storm's coming—hunker down with supplies, or are you one of the folks who suddenly forgets everything matters? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1127031013825481_122104602207335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "87e8ff5afed499fcb749643b0f7b8fec8bde8d2a28dcb1cca6fc641b2abc36a7",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-18__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-18",
   "scheduled_time": "16:06",
-  "message": "",
+  "message": "I've been thinking about how a blackout can mess with your routine in ways you don't always expect—like when your fridge goes quiet or you realize you have no idea where the flashlights ended up. I found this solid resource from the Red Cross that walks through the practical stuff: what to do during an outage, how to prepare beforehand, and what to think about with things like medications or backup power. Nothing scary, just sensible planning. Do you keep your important supplies in one easy-to-grab spot, or are they kind of scattered around the house like mine always seem to be?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122114813120914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e5af70f3b2456af68763d7ecaa992af1c77ea8e04745c540203faa373106531e",
+  "image_key": "gen"
 }
