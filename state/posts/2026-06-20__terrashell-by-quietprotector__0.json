@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "13:39",
-  "message": "",
+  "message": "I've been thinking about how much easier it feels to handle unexpected situations when you've actually talked through the basics with your household first. Ready.gov has a really solid planning tool that walks you through creating a simple family communication plan—nothing fancy, just practical stuff like meeting spots and contact info. It's one of those things that takes an afternoon but genuinely gives you peace of mind.\n\nHave you and your people ever sat down to map out a basic plan together, or is that still on your mental to-do list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1050667511458583_122117397158950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "77e9d2fd1cda2cac92cd0126260f047d737813ca73cda660d0238bb16144fcec",
+  "image_key": "gen"
 }

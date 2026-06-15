@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "13:43",
-  "message": "",
+  "message": "I've been thinking a lot lately about the difference between *worrying* about emergencies and *planning* for them—and honestly, planning feels so much better. I found this resource that walks you through making an actual family plan in a straightforward way, and it honestly took less time than I expected. The whole point is just knowing who you'd contact and where you'd meet, so everyone's on the same page if something happens. Have you and your family talked through a plan together, or is that something you're thinking about tackling soon?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1112110298653755_122109264171340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "787f6db91494ec9c561280adc201231f307b5caa1a1e0a4b7a082c2443bdac97",
+  "image_key": "gen"
 }

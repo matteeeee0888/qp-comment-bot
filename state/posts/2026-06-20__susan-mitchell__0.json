@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "I've been digging into some solid guidance on emergency planning, and I really appreciate how it breaks things down into manageable steps—nothing overwhelming, just practical thinking ahead. Turns out a little planning can actually ease a lot of that background anxiety we all carry. What's one area of preparedness you've been meaning to tackle but haven't gotten to yet?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "719343644592338_122187302450926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "14e7e717f178c43aee30758ba46aa61a37b40937deb020d26ad9a11905d4b111",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "19:35",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to handle emergencies when you've actually sat down and thought through the basics ahead of time—no panic, just a plan. Ready.gov has this solid resource for walking through what matters for your household, and it's honestly pretty straightforward stuff. The best part? You don't need fancy gear or months of prep—just a little clarity about what you'd do.\n\nWhat's one thing in your home you'd want to make sure your family knows about in an emergency?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1003918682810439_122119187289072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "84456b83bf2e69a8c5a606caa0754f8c231d2f69a9e4648b1f39219ce479b93d",
+  "image_key": "gen"
 }

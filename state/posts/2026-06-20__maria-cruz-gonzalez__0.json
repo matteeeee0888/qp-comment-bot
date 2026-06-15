@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "12:08",
-  "message": "",
+  "message": "So there was a storm last Tuesday, power went out for about six hours, and I got to experience that *delicious* moment of my partner saying, \"Wait, you actually kept those flashlights in the junk drawer?\" Yes. Yes I did. And suddenly I was the hero of the household instead of the person with \"weird emergency stuff.\" 😄\n\nHonestly, the best part wasn't even the smug glow (pun intended)—it was how *easy* everything felt because we weren't scrambling. Phone still had juice from the power bank I'd tucked away. We had actual snacks that didn't need cooking. The kids thought the lantern on the kitchen table was basically a camping adventure.\n\nI'm definitely not saying I'm some prep genius. I just... kept a few things around. And apparently that's all it takes to go from \"uh oh\" to \"this is fine.\"\n\nDo you have a go-to light source for outages, or is that still on your \"I'll get to it\" list? (No judgment—we've all been there.)",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "968263026380089_122114947094914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b31c769259570663fd300f31129131d15a218d4122dee3852d572280a864cece",
+  "image_key": "gen"
 }

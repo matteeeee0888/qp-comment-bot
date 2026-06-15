@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "10:59",
-  "message": "",
+  "message": "So last week we had a water main break two streets over, and suddenly our neighborhood group chat went absolutely wild. My sister texted 'Do we have water??' and my mom replied with a photo of our emergency supply like it was a trophy 😅\n\nTurns out we were fine, but it got me thinking — how many of us actually know what's in our own homes? I realized I couldn't tell you off the top of my head where our documents are stored or how much water we keep on hand. (Spoiler: I fixed that.)\n\nThe funny part? Once I actually sat down and made a simple list of what we had and what we needed, I felt SO much calmer. No drama, no spending spree — just... real.\n\nDo you and your family ever actually talk about this stuff, or is it one of those things everyone assumes someone else is handling? 🙂",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122116953074848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5529e0f714a036dfc6592cf8b81c76913e4de516449c37b55fcfce506353f234",
+  "image_key": "gen"
 }

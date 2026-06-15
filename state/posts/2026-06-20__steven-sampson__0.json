@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "10:58",
-  "message": "",
+  "message": "My mom has THREE escape route maps taped inside our kitchen cabinets. Three. I used to laugh about it—until last month when I actually *needed* to grab one during a small grease fire to show my kids where to go. Turns out, being the person who thinks through \"what if\" scenarios isn't annoying; it's kind of the opposite.\n\nI've started doing the same thing now—nothing fancy, just a simple route marked on a paper tucked in an easy-to-find spot. And honestly? Checking that the smoke alarms actually work (yes, I push the button) takes like two minutes and feels weirdly good.\n\nDo you have an escape plan written down, or is it mostly in your head right now?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122111864696692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "133c7bf4ebba3d514bfabe0ce1a8c1f5f1f32b7701ca850b0f9a71488c7566dd",
+  "image_key": "gen"
 }

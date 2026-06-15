@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "18:37",
-  "message": "",
+  "message": "Last winter, my family got caught off guard by a surprise ice storm. Nothing dramatic—but I spent 45 minutes hunting for flashlights while my 8-year-old asked \"Mom, why is everything dark?\" and I realized one flashlight was in the car, another lost its batteries somewhere in 2019, and a third... well, let's just say it was optimistic to think it still worked.\n\nTurns out the comedy of NOT being ready is that it's never actually funny when it's happening. 😅\n\nNow we keep a little ready-to-go bag for the season—batteries that are actually fresh, a real flashlight, water, snacks. Nothing fancy. Just enough that next time a storm rolls through, I can actually *be there* with my family instead of stress-scrambling in the dark.\n\nWhat's the weirdest place you've ever found a dead battery when you really needed it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1127031013825481_122104859769335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "0d4f4be00939d056d2f6703265071c1c77f22c57180973ca92793ff5af7a3cc1",
+  "image_key": "gen"
 }

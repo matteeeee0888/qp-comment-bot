@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "09:34",
-  "message": "",
+  "message": "I've been digging into fire safety basics lately, and honestly, it's way less overwhelming than I expected—mostly just practical stuff like knowing two ways out and keeping a fire extinguisher handy. Found a solid resource that breaks down the essentials without all the scary stuff, and I'm realizing a lot of it is just common sense once you walk through it. What's one fire safety thing you've already got down in your home, or what's on your mental to-do list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "768075889726058_122139348741028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3db8a2f01ac7ba2989f6fc07b3940254342422107ca639fc350a7610a9689b0f",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "17:49",
-  "message": "",
+  "message": "I've been looking at the Red Cross hurricane prep guide, and honestly, it's such a straightforward breakdown of what actually helps—nothing scary, just clear steps you can take now so you're not scrambling later. Knowing what to do ahead of time makes the whole thing feel way more manageable.\n\nWhat's one thing you're already doing to prepare, or what feels like the hardest part to think through?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "936909452848936_122116965668955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a2a44e83a51cc3121bcb1fdbbb6f974aefd6443f82380e9fd0475a68a17d2e47",
+  "image_key": "gen"
 }

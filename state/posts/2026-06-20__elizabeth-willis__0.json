@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "18:54",
-  "message": "",
+  "message": "So I was showing my friend around my place the other day, and when I mentioned I'd just replaced the batteries in my smoke alarms, she immediately went into full panic mode: \"Wait—you only have ONE alarm? What if that one fails? What if—\" \n\nI had to laugh because, honestly, she's *always* like this. But this time she actually made a good point buried in all the worry. One alarm is better than none, sure—but placement matters way more than I'd thought. \n\nTurns out having alarms in the right spots (like outside bedrooms and on every level) is what actually keeps you and your family safer when seconds count. Plus, thinking through a quick escape route with everyone in your house isn't *that* dramatic once you do it—it's kind of... reassuring?\n\nI dug into this a little more and felt genuinely better after. Not panicked. Just ready.\n\nDoes your crew have a loose escape plan, or is that still on the \"someday\" list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122115689066693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "add479d9e74a0af60200d2d2d57fe0a29ae4d9941cc75aec1878ea1e9881f31c",
+  "image_key": "gen"
 }

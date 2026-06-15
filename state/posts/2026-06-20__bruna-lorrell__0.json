@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "14:05",
-  "message": "",
+  "message": "I've been brushing up on hurricane prep lately, and I found this resource super helpful for understanding what actually matters before storm season hits. It covers the practical stuff—like knowing your evacuation zone and keeping supplies together—without being overwhelming about it. What's one thing you always make sure you have ready when storms roll around?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1188071991047656_122110573665350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "cbaba5a1a7cb0adbaac07b8a490089514713deec9e6fb642c46ca1ea790eb0fb",
+  "image_key": "gen"
 }

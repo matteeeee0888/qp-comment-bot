@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "17:53",
-  "message": "",
+  "message": "So last spring I got a weather alert for a potential ice storm and thought, *nah, I've got this.* Spoiler: I did not have this. Found myself at 10 p.m. frantically searching my garage for flashlights I was *sure* I'd bought, while my partner was melting ice cubes in a bowl because we had no idea where the manual can opener was. (Apparently we've had an electric opener for five years.) The kicker? We found three half-dead flashlights and a working can opener... in the *back* of the pantry behind some expired applesauce.\n\nNow I laugh about it, but mostly I just keep a tiny list in my phone of the basics we actually use — nothing fancy, just stuff that takes 20 minutes to think through when the sun is shining. Turns out a little calm prep means way less scrambling when things get real.\n\nHave you got a \"I should've been ready\" story that made you finally take action?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "962411806966339_122118157052947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "75400415e57d7e0d9fcccbb65da4c09447b8676805a895ff587c90547fe91191",
+  "image_key": "gen"
 }

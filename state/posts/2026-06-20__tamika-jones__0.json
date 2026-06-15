@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "15:37",
-  "message": "",
+  "message": "Last winter, I realized mid-forecast that a big storm was rolling in way sooner than I'd prepped for. My first instinct? Panic spiral. My second? I decided to flip it: instead of stressing alone, I made it a thing.\n\nI grabbed the kids, we threw blankets and pillows in the living room, lit a candle, made hot chocolate, and actually *planned* together—flashlights in the kitchen drawer, snacks in the pantry, our phones charged. Suddenly it felt less like \"oh no\" and more like \"we've got this.\"\n\nTurned out the power didn't even flicker. But what stuck with me was how much easier prepping felt when I stopped white-knuckling it and just... made it a quiet, intentional moment with the people I care about.\n\nHas anyone else found that reframing helps? Like, what's your go-to way to make prep feel less heavy?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1031788496687467_122115112544849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c212bd4a28c913ad290938d5e714b7ce901b3388314143701b5dae43d907fdd9",
+  "image_key": "gen"
 }

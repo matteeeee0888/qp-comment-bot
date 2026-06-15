@@ -1,6 +1,6 @@
 {
   "id": "2026-06-19__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-19",
   "scheduled_time": "19:46",
-  "message": "",
+  "message": "So last week we had a pretty wild weather alert roll through, and my phone started *blowing up* with messages from my family group chat. My mom: 'Do we have water?' My brother: 'Where's the flashlight?' My sister: 'Did anyone charge their phone?' And I'm sitting there realizing we were all scrambling for the same basic stuff we'd talked about having \"someday.\"\n\nTurned out we were fine—just caught me off guard how much easier it would've been if we'd actually *done* the thing instead of just agreed it was a good idea.\n\nNow we're actually getting our act together. Nothing fancy, just making sure we each know where to find water, a light, important papers, and yeah—phone chargers. It's kind of nice knowing if something pops up, we're not all texting \"DOES ANYONE HAVE A FLASHLIGHT\" at 10 p.m.\n\nHas your family ever had that chaotic moment where you realized you needed to actually *prep*? What made you finally take the leap?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1059660273889438_122131487139281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4a18bc71bd023a0831101d6868b2357cce5af84300e50eee50c59f624a10bbbd",
+  "image_key": "gen"
 }

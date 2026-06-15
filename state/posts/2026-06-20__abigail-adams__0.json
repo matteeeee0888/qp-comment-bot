@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "09:44",
-  "message": "",
+  "message": "I've been thinking about power outages lately — not in a doom way, just realizing how handy it is to actually *know* what to do if the lights go out. I found this solid breakdown of the basics (keeping food safe, staying warm, that sort of thing) that takes the guesswork out of it. Have you thought through what your household would need if you lost power for a day or two?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "911963812004163_122131304031187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c87267b7e35ca8a9861aab98fcbc81aae4e594d2c98aaafbbfb989b3a66e4c48",
+  "image_key": "gen"
 }

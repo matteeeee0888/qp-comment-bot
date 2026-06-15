@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "15:18",
-  "message": "",
+  "message": "I've been diving into how to think about home fire safety in a way that actually feels manageable—not overwhelming—and found some solid, practical guidance that walks through the real basics without the doom. Turns out a lot of it comes down to small habits and conversations with the people you live with, which feels way less daunting than I expected. What's one fire safety thing you've already got down in your home, or something you've been meaning to look into?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104878578629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7809b19771a3157fd096c16423b61a335d1dc1b58f498b80a3a6a1804c7a2768",
+  "image_key": "gen"
 }
