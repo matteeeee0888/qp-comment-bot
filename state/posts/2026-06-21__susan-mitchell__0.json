@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "19:37",
-  "message": "",
+  "message": "I've been slowly building my emergency kit over time, and honestly, having it ready gives me so much peace of mind—it's one of those things that lets you actually relax instead of worry. If you're wondering what actually belongs in a kit or just want to organize what you've already got, there's a solid resource that breaks it down really clearly. What's one item you already have on hand that you'd definitely want in an emergency?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "719343644592338_122187319640926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "81e3956cf796d9c5bc66c4db406963d173238f3214e364c66af3c57dafe01c4f",
+  "image_key": "gen"
 }

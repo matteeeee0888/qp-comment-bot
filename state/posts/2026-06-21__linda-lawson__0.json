@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "17:43",
-  "message": "",
+  "message": "Last winter, my 7-year-old asked me *out of the blue* if we had flashlights that actually worked. I laughed—and then realized I had no idea. Grabbed a couple from the garage, tested them, and found dead batteries in both.\n\nSo we replaced them together (she was very official about it), and when an ice storm knocked out power three weeks later, she was the one calmly handing me a working flashlight. That tiny \"prep win\" made her feel ready, and honestly, it made me feel like I had my act together for once.\n\nSometimes the best part of getting ready for storms isn't the big stuff—it's those small moments where you realize *oh, this actually matters*, and you and your family feel a little steadier.\n\nWhat's one small thing you've checked lately that surprised you? 💙",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "936909452848936_122116987850955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2da3125a085838888c23c138b10204cfcc9ae267420f7d6deee27ffd5d1cc243",
+  "image_key": "gen"
 }

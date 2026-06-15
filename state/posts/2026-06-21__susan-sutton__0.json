@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "17:47",
-  "message": "",
+  "message": "I've been thinking about how much clearer I feel when I've actually looked through solid storm prep info instead of just worrying about it. Ready.gov has this whole section on hurricanes that walks through the practical stuff—before, during, after—in a way that doesn't feel overwhelming. Knowing what to expect and what to do with your household is honestly half the battle. What's one storm-prep thing you've already got sorted, or are you just getting started?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "962411806966339_122118173786947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b6cf702a5903fbc88b9f162fd795c9c41b6744ae21f6a5ebb3056694eacef377",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "12:02",
-  "message": "",
+  "message": "I just bookmarked this Red Cross guide on power outages—not because I'm doom-scrolling, but because it's genuinely practical stuff like what to keep in your fridge when the lights go out and how to stay safe if it happens. Knowing a few basics makes the whole thing way less stressful. What's the longest power outage you've dealt with, and what did you wish you'd had on hand?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122114962844914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a7840ec29020b9f6f90889ab15add5be7c5e327b8b67522e80e3c2f3b61dcb53",
+  "image_key": "gen"
 }

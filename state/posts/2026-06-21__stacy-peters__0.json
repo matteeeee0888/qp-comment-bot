@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "10:53",
-  "message": "",
+  "message": "I've been thinking about how much easier it is to handle an emergency when you've already thought through the basics—like where you'd go, what you'd grab, and how you'd stay in touch. Ready.gov has this solid planning guide that walks you through exactly that kind of practical thinking, no overwhelm required. It's the kind of thing that takes an afternoon but honestly gives you real peace of mind.\n\nWhat's one thing you've already got a plan for—and what's one you've been meaning to figure out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122116994186848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e36bc306f63516c80c18d4aa5230b831a5db917bf9095b3f337578d0a6fc4492",
+  "image_key": "gen"
 }

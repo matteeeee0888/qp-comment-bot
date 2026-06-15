@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "13:37",
-  "message": "",
+  "message": "I've been slowly building up my emergency kit over time, and honestly, having a solid checklist somewhere trusted makes the whole thing less overwhelming. Ready.gov has a straightforward breakdown of what actually makes sense to have on hand—nothing fancy, just practical stuff. What's the one item you always seem to forget to replace in your supplies?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1112110298653755_122109297285340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "daa5eaa62ddcf8148e3c1a4345d4e3b3861a1a20e1f2d4a66679ac3506f59368",
+  "image_key": "gen"
 }

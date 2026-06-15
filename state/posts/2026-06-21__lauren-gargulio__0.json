@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "18:31",
-  "message": "",
+  "message": "Last winter, my kid asked why I kept a battery-powered radio in the hall closet. 'Just in case,' I said — pretty vague, right? Then an ice storm knocked out power for two days. That little radio became our news source, weather updates, and honestly, a morale booster. We huddled around it like people used to do, and suddenly it didn't feel like a crisis; it felt almost cozy. The batteries I'd stashed away 'just because' actually mattered. Sometimes the smallest prep decision is the one that saves your afternoon (or your sanity). Have you got a 'random thing you prepped for' that actually came through when you needed it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1127031013825481_122104879383335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9ced84f3bfaa024f0685194e444956d24bc57dece68120ab46fcf516f256f280",
+  "image_key": "gen"
 }

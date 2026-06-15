@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "13:33",
-  "message": "",
+  "message": "I've been thinking lately about how much easier it is to prep when you have a solid checklist to work from—turns out Ready.gov has a really straightforward one that covers the basics without making your head spin. The nice thing about having a kit ready is that it takes the guesswork out of \"what do I actually need\" when you're not in a panic. Have you found a checklist or resource that's made prepping feel less overwhelming for your family?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1050667511458583_122117414024950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a1e4163b424c6edd1b37ebf635a6e4f28ccd421c22c686c0459cba33cbbca413",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "15:31",
-  "message": "",
+  "message": "I've been thinking about how heat waves can sneak up on us—one day it's warm, the next we're dealing with something more serious. I found this solid resource from Ready.gov that walks through the basics of staying safe and comfortable when temperatures climb, and honestly it's the kind of thing that deserves a bookmark. What's your go-to way to stay cool during the really hot months?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1031788496687467_122115129146849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3d1955c808a4d72429a865397b238feddf0e06f3009bff34e18d8bc833748362",
+  "image_key": "gen"
 }

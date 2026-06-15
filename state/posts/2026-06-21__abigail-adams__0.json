@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "09:38",
-  "message": "",
+  "message": "Last summer we lost power for about 8 hours, and honestly? My kids forgot all about their tablets after the first 20 minutes. We grabbed some flashlights, broke out the board games, and I made it through an entire Uno tournament without checking my phone once (okay, maybe twice to keep the power bank topped up for actual emergencies, but still).\n\nTurns out when the WiFi goes down, card games become *surprisingly* entertaining. We laughed harder than we had in weeks. And yeah, I was grateful we had those flashlights and a few charged power banks tucked away — because keeping a charged phone isn't just about fun, it's about staying connected if you need help.\n\nBut the silver lining? Sometimes losing power reminds us that some of the best family moments don't need electricity at all.\n\nDo you have a go-to low-tech activity that keeps your crew entertained when the lights go out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "911963812004163_122131318575187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "62fd6bc7cbebf7459cbf96db4798aa59382e403e4ba37181cc8979e7f5b7d6c9",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "19:29",
-  "message": "",
+  "message": "I've never been the person with a plan. My friends joke that I show up late with no snacks and a dead phone battery. But last month when a water main broke in our neighborhood, I actually *had* water stored. I found my old documents folder. My kids knew where to meet if we couldn't reach each other. I felt like a superhero, except the superpower was just... being a little bit ready.\n\nIt was such a weird, good feeling—not anxious, just steady. Like I'd finally done something for my family instead of always playing catch-up.\n\nHas anyone else had that moment where being prepared actually paid off in a totally normal, non-dramatic way?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1003918682810439_122119200033072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "02a899e0f0be6f27756ea5d312315cb55e08aabc5d653aa381d4eec072081b07",
+  "image_key": "gen"
 }

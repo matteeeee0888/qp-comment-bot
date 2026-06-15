@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "15:12",
-  "message": "",
+  "message": "I've never been the 'prepared' friend. I'm usually the one showing up five minutes late with half a plan. But last month I actually tested our smoke alarms (yes, all of them) and walked my kids through our escape plan, and I gotta say — it felt kind of good? Like, *responsible* good.\n\nThen my neighbor had a small kitchen fire. Everyone got out fine, but watching the fire trucks roll up made me so grateful we'd already had that conversation at home. My daughter knew exactly where to meet us outside. No confusion, no panic in the moment.\n\nIt's funny how the smallest steps — fresh batteries, a family meeting, knowing two ways out — can actually make you feel ready instead of worried.\n\nHave you and your family talked about what you'd do in a fire, or is that still on the \"someday\" list? 🔥",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104888178629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d377dc04796fbd870af2490eee282409c7d2833c35539f03a8934be2d0bb5cad",
+  "image_key": "gen"
 }

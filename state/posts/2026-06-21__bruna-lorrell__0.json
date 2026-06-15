@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "13:59",
-  "message": "",
+  "message": "Last spring my neighbor spent an entire Saturday organizing her garage storm supplies — labeled bins, fresh batteries, a whole color-coded system. I walked by thinking, 'That seems like... a lot.' Fast forward to this week: a surprise severe thunderstorm rolls through, power flickers out for six hours, and guess who had working flashlights, water, and actual snacks ready to go? Yep. Meanwhile I'm over here squinting at my phone trying to remember where I put the one flashlight I *think* I own.\n\nThere's something kind of beautiful about being that person who gets their weather basics sorted ahead of time. No panic, no midnight runs to the store, just a quiet \"oh, I've got this.\"\n\nWhat's one small storm-prep thing you've actually done that made you feel better?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1188071991047656_122110717965350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2f3befe60f3f5942032069064d9ab2104581e106408096eba63e907ad5eaeb5d",
+  "image_key": "gen"
 }

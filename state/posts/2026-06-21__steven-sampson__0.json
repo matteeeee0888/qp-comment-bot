@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "10:52",
-  "message": "",
+  "message": "So my 8-year-old asked me yesterday why we have smoke alarms in every room, and I realized I'd never actually *explained* it to her. I just told her \"don't touch them\" and moved on. Classic parent move.\n\nTurns out, she thought they were just... decorations? We ended up having this surprisingly good conversation about why they matter and what that beeping sound actually means. Then my 11-year-old chimed in with about seventeen follow-up questions I absolutely did not expect.\n\nIt got me thinking—we prep for emergencies, but sometimes we forget to actually *talk* to our kids about why. Not in a scary way, just... matter-of-fact. Like, \"Here's what we do if the alarm goes off. Here's where we go.\" Turns out kids are way more reassured by knowing the plan than by us quietly worrying alone.\n\nHas anyone else found that talking through your home safety stuff with your family actually makes *you* feel more ready, too? I'm curious what sparked those conversations for you.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122111884436692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "67456187927f519d78c05d4a14bdf997d602d518fcbb141a6b3404279fd90e42",
+  "image_key": "gen"
 }

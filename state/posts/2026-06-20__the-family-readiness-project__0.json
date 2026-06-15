@@ -1,6 +1,6 @@
 {
   "id": "2026-06-20__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-20",
   "scheduled_time": "11:47",
-  "message": "",
+  "message": "I was stuffing a go-bag last week and my 7-year-old watched me like I'd lost my mind. 'Mom, why are you putting *my* favorite snacks in a backpack?' When I explained it was just in case we ever needed to leave in a hurry, she got very serious and said, 'Oh. Like when you can't find your keys?' 😄\n\nKids have this funny way of making you realize that emergency prep doesn't have to feel heavy or scary—it's just... being ready. Like keeping snacks in the car or knowing where your shoes are. It's a lot less dramatic than it sounds.\n\nWe ended up making it kind of a game: she picked one comfort item, some water, a change of clothes. Now she feels included instead of worried, and honestly? That's when prep actually sticks in a family.\n\nDo your kids know where important stuff is kept, or have you found a way to talk about it without freaking anyone out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122131502835281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "cce9a2d5e08f15f0f31ed5f1af9084794c7dfcfe08e5cfe12234684c32930223",
+  "image_key": "gen"
 }
