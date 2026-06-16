@@ -17,12 +17,14 @@ import { TEXT_ENGINE } from "../lib/text.js";
 import { buildSpec } from "../lib/imageBrain.js";
 import { specToPNG } from "../lib/newsImage.js";
 import { uploadPNG, supabaseReady } from "../lib/supabase.js";
+import { generateBackground, geminiReady } from "../lib/gemini.js";
 
 const argv = process.argv.slice(2);
 const getArg = (k, d) => { const i = argv.indexOf(k); return i >= 0 ? argv[i + 1] : d; };
 const DRY = argv.includes("--dry");
 const NO_LLM = argv.includes("--no-llm");
 const NO_IMAGES = argv.includes("--no-images");
+const NO_GEMINI = argv.includes("--no-gemini");
 const TOP = parseInt(getArg("--top", "8"), 10) || 8;
 const MAX_AGE_DAYS = parseInt(getArg("--max-age", "3"), 10) || 3;
 const POOL_CAP = 40; // most candidates sent to the model in one run (cost ceiling)
@@ -108,15 +110,24 @@ if (DRY) { console.log("\n(dry — not writing to the sheet, not seeding the see
 
 const todayISO = new Date().toISOString().slice(0, 10);
 
-// 3b. broadcast image per story → Supabase (aggressive mode: every image flagged "REVIEW")
+// 3b. broadcast image per story → Supabase (aggressive mode: every image flagged "REVIEW").
+// Hybrid: if GEMINI_API_KEY is set, Gemini paints a photoreal background and the code overlays the
+// alert chrome on top; if Gemini fails or is absent, it falls back to the code-only render. Never breaks.
 if (!NO_IMAGES && (await supabaseReady())) {
+  const useGemini = !NO_GEMINI && (await geminiReady());
+  console.log(`images: on (background = ${useGemini ? "Gemini hybrid" : "code-only"})`);
   for (const s of top) {
     try {
       const spec = await buildSpec(s);
+      let mode = "code";
+      if (useGemini && spec.scenePrompt) {
+        const bgPng = await generateBackground(spec.scenePrompt);
+        if (bgPng) { spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`; mode = "gemini"; }
+      }
       const png = await specToPNG(spec);
       const slug = `${s.brand}-${titleKey(s.title).replace(/\s+/g, "-").slice(0, 40)}`;
       const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, png);
-      if (upl.ok) { s.image_url = upl.url; s.review = "REVIEW"; console.log(`IMG  ${s.brand} ${spec.layout}/${spec.hazard} → ${slug}.png`); }
+      if (upl.ok) { s.image_url = upl.url; s.review = "REVIEW"; console.log(`IMG  ${s.brand} ${spec.layout}/${spec.hazard} bg=${mode} → ${slug}.png`); }
       else { console.log(`IMG upload fail ${s.brand}: ${upl.status || upl.error || upl.reason}`); }
     } catch (e) { console.log(`IMG err ${s.brand}: ${e.message || e}`); }
   }
