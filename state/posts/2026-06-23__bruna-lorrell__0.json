@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "10:01",
-  "message": "",
+  "message": "I've been thinking about how storms hit different depending on where you live, and honestly, it helps me sleep better at night when I know what to actually *do* if one's coming. The Red Cross has a really solid breakdown of storm prep that cuts through the noise—no drama, just practical steps. What kind of weather keeps you up at night, or do you feel pretty ready if something pops up?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1188071991047656_122111770491350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6adcd763acc097a1536c3fd259f560f73bafce617a37df66d9c3e9fbbf6757cf",
+  "image_key": "gen"
 }

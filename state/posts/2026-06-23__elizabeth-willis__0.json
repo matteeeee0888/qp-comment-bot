@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "14:50",
-  "message": "",
+  "message": "I'm the person who labeled the fire extinguisher with a laminated card and made my kids practice our escape route... twice. My husband laughed. Until the day our oven decided to get creative, and suddenly everyone knew exactly where to go and how to get there. No drama, no panic—just muscle memory doing its job.\n\nI'm not saying you need to be *that* prepared, but there's something really grounding about knowing your way out in the dark, having working smoke alarms you've actually tested, and a quick kitchen game plan. It takes maybe an hour total, and then you can relax knowing you've got this.\n\nAre you and your family clear on your exit route, or is that something you've been meaning to circle back to?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122115812444693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a27280b7cb995e8eb23323391fb09b0dfb94d88bd6107609b5da1743c8d84ff2",
+  "image_key": "gen"
 }

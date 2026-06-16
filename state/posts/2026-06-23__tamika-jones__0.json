@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "11:33",
-  "message": "",
+  "message": "I've been digging through Ready.gov's hurricane guidance, and honestly? It's such a practical resource for figuring out what actually matters when you're prepping. The nice part is it breaks everything down into real, doable steps instead of overwhelming you with worst-case scenarios. Have you found any prep resources that actually felt helpful instead of stressful?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1031788496687467_122115240092849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2e8d4ec48da82f3f4270167089f88b9c5be8d5e5bbf52039079842666e77caef",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "14:33",
-  "message": "",
+  "message": "I've been going through the Red Cross prep guides, and honestly, their hurricane info is so straightforward—nothing panicky, just practical steps you can take now before storm season really ramps up. The whole thing's built around that idea of 'know before it happens,' which takes a lot of the stress out of last-minute scrambling.\n\nWhat part of storm prep do you usually tackle first—the supplies, or mapping out your plan?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1127031013825481_122105026617335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "54964ed950cfaa0a202bac6b0c041327fbb12f61627d690aba8ff69b72ccea0c",
+  "image_key": "gen"
 }

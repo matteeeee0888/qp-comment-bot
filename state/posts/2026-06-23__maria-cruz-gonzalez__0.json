@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "08:04",
-  "message": "",
+  "message": "I've been reading through some solid prep info on power outages lately—stuff like how to keep your fridge food safe and what to do with those battery-powered flashlights you've been meaning to organize. Turns out a little planning ahead takes a lot of the stress out of when the lights actually go out. What's one thing in your home you'd want to make sure works during a blackout?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122115060284914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "99fb9a84e75d42ce2f81d89bb1427ae845467dcbc5a5b227373c50bd73b12b50",
+  "image_key": "gen"
 }

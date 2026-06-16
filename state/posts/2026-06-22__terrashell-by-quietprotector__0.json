@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "17:34",
-  "message": "",
+  "message": "You know that one friend who starts sweating the second a storm rolls in? Yeah, I'm realizing I might be that friend now—except instead of panicking, I'm actually *doing* something about it.\n\nLast week my sister asked if I had copies of important documents anywhere besides my filing cabinet (which, let's be honest, I'd probably forget in a real pinch). And I froze. Like, I have my whole life in there, but if I had to grab and go? Nope. So I spent an afternoon gathering copies—nothing fancy, just the essentials—and stuck them in an envelope I keep accessible.\n\nTurns out that's all it takes to shift from \"oh no, what if\" to \"okay, I've got a plan.\" Not panic mode. Just... ready mode. And it actually feels weirdly calm?\n\nDoes your family have important documents in one spot, or is yours scattered across three different junk drawers like mine was?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1050667511458583_122117544842950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ddafbfdf3390903ad823290af5e0f2fdd7a4d0e3f87e3af68d635c0244aeb05d",
+  "image_key": "gen"
 }

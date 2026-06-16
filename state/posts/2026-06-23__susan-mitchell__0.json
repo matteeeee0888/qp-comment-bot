@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "15:39",
-  "message": "",
+  "message": "So there I was last month, kid sick at 2 a.m., and I needed to call the pediatrician. Naturally, my phone was at 3% battery—*of course* it was. Cue the mini panic as I'm fumbling for a charger in the dark while also trying to remember if we had one within arm's reach.\n\nIt got me thinking: how many times do we rely on our phones to handle an actual emergency? Not just for the call itself, but for looking up symptoms, finding the nearest urgent care, or reaching family.\n\nI finally found a charger (buried in a junk drawer, naturally), but it was a good nudge to get real about having one accessible places that matter—the car, a go-bag, bedside. Dead phone + actual problem = unnecessary stress we can actually prevent.\n\nDo you keep backup chargers stashed in your most-needed spots, or is that still on your to-do list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "719343644592338_122187449618926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "772a13130ddc16a0525ed194bdcca7cb7d90d827c72a6627ff3cbe7f541411db",
+  "image_key": "gen"
 }

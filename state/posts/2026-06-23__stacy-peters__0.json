@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "18:55",
-  "message": "",
+  "message": "I've been thinking about how much easier it feels when I actually sit down and map out a plan with my family—like, where we'd meet, what we'd grab, who calls whom. Turns out there's a genuinely solid free resource from Ready.gov that walks you through it without being overwhelming. Sometimes the best prep is just knowing what you'd do.\n\nWhat's one thing you'd want to make sure your household knows or has figured out ahead of time?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122117120642848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3877b32415eaef0dcfa259198f13fd959aea82271b9b6372d46d0e091f40a3d1",
+  "image_key": "gen"
 }

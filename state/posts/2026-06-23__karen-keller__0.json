@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "15:31",
-  "message": "",
+  "message": "I found myself at the store last week buying bottled water for the third time that month because I'd *meant* to stockpile some but kept forgetting. My partner just laughed and said, 'You know what's expensive? Buying water at convenience store prices every time you panic remember we don't have any.'\n\nTurned out she was right—and it got me thinking about all the tiny ways being *just a little* prepared actually makes life easier and cheaper, not harder. I'm not talking about bunkers or anything dramatic. Just... having a few basics on hand so you're not scrambling or overpaying when life gets weird.\n\nThe funny part? Once I finally sat down and handled it, it took like 20 minutes. Not the big production my brain had made it out to be.\n\nWhat's the one thing you keep *meaning* to sort out but haven't gotten around to yet?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1003918682810439_122119315293072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "47a60fb661df5c4afb73710fa5a26392e65326ff296ad70fa4fc8d7da93dc5f1",
+  "image_key": "gen"
 }

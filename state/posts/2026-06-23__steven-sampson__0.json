@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "18:54",
-  "message": "",
+  "message": "I've been thinking about fire safety lately, and I found this really solid resource that breaks down the practical stuff—like planning escape routes and knowing what to do in those first few seconds. It's actually less overwhelming than I expected, and honestly, having a simple plan just makes you feel more grounded about the whole thing. What's one fire safety thing you've already got figured out at your place?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122112009614692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b3cc177cae726c8511668a2aad7661e1e9928d1f61e94e030a53e4f3a4cd98a2",
+  "image_key": "gen"
 }

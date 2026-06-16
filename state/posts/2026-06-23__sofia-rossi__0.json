@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "09:39",
-  "message": "",
+  "message": "I've been slowly building my household's emergency kit over time, and honestly, having a checklist has made it way less overwhelming. Turns out there's a pretty solid government resource that walks you through what actually makes sense to keep on hand—no drama, just practical stuff. What's the one item you already have at home that you'd definitely want in an emergency kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1112110298653755_122109546411340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e2f84b0feeaa1d62fad2763de3b495aed794c235a85ceb99eb9aa30b96e01bf4",
+  "image_key": "gen"
 }

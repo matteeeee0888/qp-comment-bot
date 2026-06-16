@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "13:45",
-  "message": "",
+  "message": "So last winter, my mom texted me a photo of her basement during a flash flood warning—and I realized she had NO idea where her important papers were. We spent an hour frantically searching while rain pounded the windows. Found them in three different closets. 😅\n\nTurned out the comedy of *not* being ready is way more stressful than just... being ready. The actual prep? Honestly pretty straightforward once you sit down for 20 minutes.\n\nI've been slowly helping her build a simple system—knowing where the essentials live, keeping a basic kit in the garage—and honestly she seems so much calmer now. Because when a storm rolls in, you're not frantically doing origami with soggy documents.\n\nHave you ever had that \"oh no, where IS that thing\" moment during an actual emergency? What finally got you to organize it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "936909452848936_122117209856955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2a9db6024e4c606fa4e755581d639387cdb163a7648f1fa4fcdb6bf287b94a69",
+  "image_key": "gen"
 }

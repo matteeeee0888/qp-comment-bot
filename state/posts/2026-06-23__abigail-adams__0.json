@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "17:40",
-  "message": "",
+  "message": "I've been thinking about how much we rely on power until it's gone — and how a little planning beforehand makes everything so much calmer if it happens. The Red Cross has this solid guide on what actually matters when the lights go out, and honestly, it's way less complicated than you'd think. What's the one thing in your home you'd miss most during a blackout?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "911963812004163_122131430373187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "fdb80474baf578938244a8e5b38c9e843527f35e0c2cb63dd21f030ad17f7957",
+  "image_key": "gen"
 }

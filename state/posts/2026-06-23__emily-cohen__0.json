@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "11:14",
-  "message": "",
+  "message": "So last week my 8-year-old asked me why we have smoke alarms in every room, and I realized I'd never actually *explained* it to her. I just told her \"they're important\" and moved on—you know, the classic parent move.\n\nTurns out when kids understand the *why*, they actually care. We talked through what they do, where she'd go if one went off, and suddenly she felt like part of the plan instead of just living under random house rules.\n\nNow she checks them with me. It's kind of adorable.\n\nI think a lot of us skip the conversation part because it feels heavy, but kids handle it way better when we keep it calm and factual. Plus, honestly? It made *me* more motivated to stay on top of things.\n\nHave you talked through a home safety plan with your kids, or does it always feel awkward to bring up?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104945370629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9908a164ffee212f96c4ed67a4b4ae9fcee58b689fc54268dd2bb949cfe03273",
+  "image_key": "gen"
 }
