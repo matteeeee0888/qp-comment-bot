@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "11:38",
-  "message": "",
+  "message": "I'm that person who keeps a go-bag in the car that's so well-stocked, my partner jokes I could survive a minor apocalypse on a Tuesday.\n\nBut here's the thing: last month our power went out for 18 hours, and instead of panic, I just… calmly grabbed our water bottles, pulled out a battery-powered radio, and we had a weirdly cozy evening by candlelight with snacks that actually tasted good.\n\nThe *real* magic wasn't the stuff—it was that zero moment of \"oh no, what do we do?\" We just… knew. And honestly? That peace of mind is worth way more than the shelf space.\n\nAre you more of a \"hope for the best\" person, or do you already have your family's essentials tucked away somewhere?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "719343644592338_122187423938926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e536de8eb558ee05ce38c5076de79ccc717a61da4a78013424d4cccbaa2b9fc0",
+  "image_key": "gen"
 }

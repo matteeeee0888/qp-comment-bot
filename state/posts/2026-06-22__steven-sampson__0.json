@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "14:53",
-  "message": "",
+  "message": "I stumbled on this really solid government resource about home fire readiness, and honestly, it's less about panic and more about practical know-how—like what actually works, how to talk with your family about a plan, and those small steps that genuinely make a difference. The kind of stuff that, once you think through it, takes the worry *out* of the equation. What's one thing about fire safety you've always wondered about but never quite knew who to ask?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122111987732692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b9e930ad69a00b61d06f0266872f342d5db9a71711d63ddfa6586d864a778b46",
+  "image_key": "gen"
 }

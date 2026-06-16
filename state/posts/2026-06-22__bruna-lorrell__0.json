@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "18:00",
-  "message": "",
+  "message": "I've been digging into how to keep my family safe during heat waves, and honestly, it's just smart planning—like knowing where your flashlights are before a storm. There's a solid government resource out there that walks through the practical stuff: staying hydrated, checking on neighbors, knowing when heat becomes actually dangerous. It's reassuring to have a plan that's not doom-y, just straightforward.\n\nWhat's one heat-safety habit you've already got locked in at home?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1188071991047656_122111585889350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b30decad58766be69c0b9a5d09fc4bffd200d193f877a3781b1d73249be145f3",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "19:32",
-  "message": "",
+  "message": "Last winter, we got that surprise ice storm warning at 3pm, and honestly? I panicked for about five minutes. Then I realized: this was our chance to actually USE that cozy-night plan we'd been talking about all year.\n\nWe threw some snacks together, charged the phones early, lit a few candles (before anything happened), and decided if the power did go out, we were just going to treat it like a long cabin night with the family. Board games, hot chocolate, flashlights turned into shadow puppets—the whole thing.\n\nPower stayed on, but you know what? We felt SO much more calm because we weren't sitting there helpless. We had a plan, supplies were actually within reach, and we'd already mentally shifted from \"oh no\" to \"we've got this.\"\n\nI think that's the real secret to storm prep: it doesn't have to feel stressful if you frame it as taking care of your people. Even if nothing happens, you're ready. And if it does? You're cozy.\n\nWhat's your favorite way to make a weather day feel less scary and more like an adventure?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1031788496687467_122115215882849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4f65f2fbf7b5a264cc06e17372b193e4e8cfb1edd7a43ecc36e1db5caf28d170",
+  "image_key": "gen"
 }

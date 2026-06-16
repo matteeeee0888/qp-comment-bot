@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "19:13",
-  "message": "",
+  "message": "I've been reading through some really practical fire safety info lately, and honestly, it's way less intimidating than I expected—mostly just common-sense stuff about escape planning and smoke alarms that actually works. Found a solid resource from Ready.gov that breaks it down in a way that feels doable rather than overwhelming. What's one fire safety thing you've already got handled in your home?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122104933016629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "bea1994084e4c37a1b71eac72cf4629439b182bf302514dcee35b892ed4998dd",
+  "image_key": "gen"
 }

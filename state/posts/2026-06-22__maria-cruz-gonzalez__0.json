@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "16:03",
-  "message": "",
+  "message": "So last week the power went out during dinner, and of course my friend texted immediately: 'WHAT DO I DO??' I knew she wasn't in actual danger—just in that spiraling headspace where a blackout feels like an emergency. I grabbed my phone flashlight and a lantern from my closet and we sat on her back porch. Within like 30 seconds, she was laughing at herself. 'I literally have three flashlights in my junk drawer and I forgot they existed,' she said.\n\nThat's kind of the thing, right? A little prep doesn't mean you have to be intense about it. It's just... knowing you *have* stuff. A charged power bank. A lantern or two. Maybe some snacks that don't need cooking. When you know it's there, you're not the person spiraling in the dark—you're the one pouring cold drinks and telling bad jokes.\n\nHave you got a go-to for blackouts, or are you still in the 'I'll deal with it when it happens' camp?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "968263026380089_122115041336914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e2020fe2cfb3346b616926b60c15c4625f3f166a76ef69f3c1b40a7808f52583",
+  "image_key": "gen"
 }

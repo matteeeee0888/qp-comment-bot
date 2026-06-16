@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "13:29",
-  "message": "",
+  "message": "So last weekend I was making pasta and got distracted (shocking, I know), and the oil started smoking pretty aggressively. Grabbed the pan, opened a window, and—totally normally—my smoke alarm went off. My first thought wasn't panic, it was actually relief. That little chirp meant it was *working*.\n\nTurned into this funny moment where my kids came running like we'd just discovered buried treasure, and I realized I hadn't actually talked them through what to do in a real fire. So I did something kinda nice instead of scary: we made it a little game. I showed them where our exits are, we drew a simple map together, and I let them help me check the batteries in our alarms. They felt like safety detectives.\n\nIt reminded me that these conversations don't have to feel heavy or doom-y. Just... normal family time that actually matters.\n\nDo you have a smoke alarm moment that caught you off guard in a good way?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "768075889726058_122139459687028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "08359b8cec1ec016145eb5836cbfc79ccb85e3b9f9ae7847098fece82cd536f7",
+  "image_key": "gen"
 }

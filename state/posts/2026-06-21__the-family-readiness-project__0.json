@@ -1,6 +1,6 @@
 {
   "id": "2026-06-21__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-21",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "My friend Sarah texts me at least twice a year in a complete panic about something—a storm warning, a power outage rumor, you name it. Last week she called absolutely convinced we needed to 'prepare immediately' and I just... listened.\n\nThen something shifted. Instead of tuning her out, I asked her what she actually *needed* to feel calmer. Turns out she just wanted to know her family had basics covered: water, a flashlight, important papers in one spot, a simple plan.\n\nSo we spent an afternoon doing exactly that—nothing dramatic, no bunker vibes. Just practical stuff. Now when the panic hits, she has something real to anchor to.\n\nHonestly? I think the panic comes from *not knowing* you're ready, not from the emergencies themselves.\n\nDo you have someone in your life like Sarah, or are you the worried one in the group? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122131673559281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7ed7c3425dbc2c92c74ead1230bcd92f3d60a76c24721496b181605105275a37",
+  "image_key": "gen"
 }

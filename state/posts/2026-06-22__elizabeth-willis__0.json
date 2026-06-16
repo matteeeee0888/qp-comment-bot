@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "10:49",
-  "message": "",
+  "message": "Last week my 8-year-old asked why we have smoke alarms in every room. I started explaining fire safety in what I thought was a super calm, parent-like way. She interrupted: \"Mom, you literally panic when the toast burns. How am I supposed to stay calm?\" 😅\n\nShe had a point. It made me realize that all the escape plans and safety checklists in the world don't matter if the people living in the house haven't actually *practiced* them or talked through what calm looks like when things get scary.\n\nSo we did something different that day—we walked through our plan together, I answered her real questions (not the ones I *thought* she'd have), and we even practiced going to our meeting spot outside. Turns out when kids feel like they're part of the solution instead of just being told what to do, they actually engage.\n\nIt's wild how a pint-sized reality check can hit harder than any reminder could. A little refresher on this helped us have the real conversation.\n\nDo your kids know what to do in a fire—and have you two actually talked it through together, or just assumed they'd figure it out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122115791786693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2119c622102c79ef139bfd05d44ff7fdb8a4f0d39c38aad9e516d2833f43e034",
+  "image_key": "gen"
 }

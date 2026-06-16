@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "17:38",
-  "message": "",
+  "message": "I've been thinking about how much easier it feels to handle a curveball when you've already thought through what you'd do. There's this great resource out there that walks you through creating a simple family plan—nothing scary, just the practical stuff like where you'd meet or how you'd stay in touch. Honestly, having that conversation with my family was way less stressful than I expected, and it's kind of nice knowing we're on the same page. Have you and your people ever sat down to chat through a plan together?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1112110298653755_122109507195340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "80d08ebd14792069e8ed5c3faf55f257644899e3cde421fbeb87e3fd540fb977",
+  "image_key": "gen"
 }

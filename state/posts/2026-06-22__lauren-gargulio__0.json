@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "10:32",
-  "message": "",
+  "message": "I've been reading through Ready.gov's hurricane guide, and honestly? It's packed with practical stuff that actually makes me feel more settled—not more stressed. Things like knowing where to get real-time alerts and understanding what different watch/warning levels mean takes a lot of the guesswork out of storm season.\n\nWhat's one thing about hurricane prep you've always wondered about but weren't sure where to look?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1127031013825481_122105001219335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "bac5234b1d244d40203b0334e05defc9ab5d555d18849d40927c27896e97b7cd",
+  "image_key": "gen"
 }

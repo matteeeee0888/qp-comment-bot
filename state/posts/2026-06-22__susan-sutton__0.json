@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "09:48",
-  "message": "",
+  "message": "So last spring I prepped a little emergency kit after a neighbor mentioned an upcoming severe weather season. My partner gently mocked me for it—\"we'll be fine, it's just wind\"—and I got to enjoy that *delicious* \"I told you so\" moment when a surprise storm knocked out power for three days.\n\nBut here's the thing: I wasn't smug about it. Mostly I was just relieved we had flashlights, water, and some non-perishable snacks that made those days way less stressful than they could've been. And honestly? My partner is now the one reminding me to refresh stuff before hurricane season.\n\nI think the real win isn't getting to be right—it's just knowing your people are okay, and a little prep makes that easier. Whether it's storms, floods, power outages, or a sudden heat wave, having basics ready takes the edge off the worry.\n\nDo you have a prep moment that changed someone's mind in your house?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "962411806966339_122118258056947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4be818fc17c31be91e18e3189423e89c7e42e687ab4a2e4cd90a38a7c7a19ba6",
+  "image_key": "gen"
 }

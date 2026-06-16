@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "13:39",
-  "message": "",
+  "message": "Last summer we lost power for about six hours, and I learned something humbling: my kids were WAY calmer about it than I was. I'm standing there mentally cataloging all the food about to spoil, and they're like \"Mom, can we build a fort with the couch cushions?\" Meanwhile, my phone was at 2%, and I'm stress-scrolling instead of, you know, actually doing something useful. My oldest finally asked, \"Don't you have that battery thing?\" — yes. Yes, I did. In a junk drawer. Unused.\n\nTurns out the real blackout prep isn't about panicking into action last-minute. It's about having a few simple things ready *before* you need them, so when the lights go out, you can actually... relax a little. Help your kid build that fort instead of white-knuckling your phone.\n\nHas a power outage ever caught you more unprepared than you'd like to admit? 😅",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "911963812004163_122131402845187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6b28d4ebd69590f2cf34a6f74f31c4f6968c47cbe1c389b7582e7e80999977a4",
+  "image_key": "gen"
 }

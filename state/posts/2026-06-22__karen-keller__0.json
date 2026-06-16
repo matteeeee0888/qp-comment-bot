@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "11:30",
-  "message": "",
+  "message": "I've been slowly working through my family's emergency plans, and honestly? Having everything written down in one place makes me feel way more settled. There's a solid resource out there that walks you through the essentials—from who to contact to where to meet up—without making it feel overwhelming. Sometimes the best prep is just knowing you've got a plan.\n\nDo you keep your emergency info somewhere easy to grab, or is that still on your to-do list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1003918682810439_122119288197072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "598edf166a90bfc88da3c367441efcf060d5298876676154eb4c7dd2e710afd3",
+  "image_key": "gen"
 }

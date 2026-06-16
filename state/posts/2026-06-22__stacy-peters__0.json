@@ -1,6 +1,6 @@
 {
   "id": "2026-06-22__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-22",
   "scheduled_time": "14:54",
-  "message": "",
+  "message": "I've never been the 'prepared' friend. I'm usually the one scrambling for a pen at the doctor's office or realizing I forgot my keys halfway down the driveway.\n\nBut last month when a pipe burst in our basement at 2 a.m., I actually *knew* where our important documents were. I had a flashlight within arm's reach. I knew who to call and had their number written down (not just hoping my phone would charge). My partner looked at me like I'd grown a second head.\n\n\"You... have a plan for this?\" he asked, half amazed, half amused.\n\nTurns out putting together a simple go-bag and keeping a few key things organized doesn't require turning into a full-time prepper. It just means being a tiny bit ahead of chaos, and honestly? That feeling of having your ducks in a *vague* row is surprisingly good.\n\nHave you ever had one of those moments where being even a *little* prepared actually came through? What was it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1055885867606549_122117097062848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d0b6b5434aa84f08b29c996bfd88f24cb91be094157dfb18344d9f36ab803ff3",
+  "image_key": "gen"
 }
