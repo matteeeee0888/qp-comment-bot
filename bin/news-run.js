@@ -14,11 +14,15 @@ import { fetchFeed, titleKey, loadSeen, saveSeen } from "../lib/news.js";
 import { scoreCandidates } from "../lib/newsBrain.js";
 import { archiveNews } from "../lib/archive.js";
 import { TEXT_ENGINE } from "../lib/text.js";
+import { buildSpec } from "../lib/imageBrain.js";
+import { specToPNG } from "../lib/newsImage.js";
+import { uploadPNG, supabaseReady } from "../lib/supabase.js";
 
 const argv = process.argv.slice(2);
 const getArg = (k, d) => { const i = argv.indexOf(k); return i >= 0 ? argv[i + 1] : d; };
 const DRY = argv.includes("--dry");
 const NO_LLM = argv.includes("--no-llm");
+const NO_IMAGES = argv.includes("--no-images");
 const TOP = parseInt(getArg("--top", "8"), 10) || 8;
 const MAX_AGE_DAYS = parseInt(getArg("--max-age", "3"), 10) || 3;
 const POOL_CAP = 40; // most candidates sent to the model in one run (cost ceiling)
@@ -33,6 +37,9 @@ const QUERIES = [
   "home break-in prevention tips", "hotel room safety travel", "apartment dorm security tips",
   // general QP preparedness
   "emergency preparedness tips", "power outage preparedness", "severe weather preparedness", "family emergency plan",
+  // active events (aggressive newsjack — every image is flagged for human review before use)
+  "tornado warning today", "severe thunderstorm warning", "flash flood warning", "winter storm warning",
+  "heat advisory issued", "evacuation order weather",
 ];
 
 function ageDays(pubDate) {
@@ -99,8 +106,25 @@ for (const s of top) {
 
 if (DRY) { console.log("\n(dry — not writing to the sheet, not seeding the seen-store)"); process.exit(0); }
 
-// 4. write the shortlist to the News tab
 const todayISO = new Date().toISOString().slice(0, 10);
+
+// 3b. broadcast image per story → Supabase (aggressive mode: every image flagged "REVIEW")
+if (!NO_IMAGES && (await supabaseReady())) {
+  for (const s of top) {
+    try {
+      const spec = await buildSpec(s);
+      const png = await specToPNG(spec);
+      const slug = `${s.brand}-${titleKey(s.title).replace(/\s+/g, "-").slice(0, 40)}`;
+      const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, png);
+      if (upl.ok) { s.image_url = upl.url; s.review = "REVIEW"; console.log(`IMG  ${s.brand} ${spec.layout}/${spec.hazard} → ${slug}.png`); }
+      else { console.log(`IMG upload fail ${s.brand}: ${upl.status || upl.error || upl.reason}`); }
+    } catch (e) { console.log(`IMG err ${s.brand}: ${e.message || e}`); }
+  }
+} else if (!NO_IMAGES) {
+  console.log("images skipped — Supabase env not configured");
+}
+
+// 4. write the shortlist to the News tab
 const rows = top.map((s) => ({
   captured_at: todayISO,
   brand: s.brand,
@@ -111,6 +135,8 @@ const rows = top.map((s) => ({
   t: s.scores.t ?? "", e: s.scores.e ?? "", b: s.scores.b ?? "", u: s.scores.u ?? "", m: s.scores.m ?? "",
   angle: s.angle,
   why_now: s.why,
+  image_url: s.image_url || "",
+  review: s.review || "",
   status: "new",
 }));
 const res = await archiveNews(rows);
