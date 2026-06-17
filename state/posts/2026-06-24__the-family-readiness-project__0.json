@@ -1,6 +1,6 @@
 {
   "id": "2026-06-24__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-24",
   "scheduled_time": "11:44",
-  "message": "",
+  "message": "So my 8-year-old found our emergency go-bag last week and asked, \"Mom, why do we have crackers in a backpack?\" Instead of just saying \"just because,\" I actually sat down and explained it. Her eyes got so big. Now SHE'S the one reminding me to check the water bottles and asking if we have enough snacks for \"the emergency bag.\"\n\nTurns out when kids understand the *why* behind preparedness, they actually get invested. They're not scared—they feel like they're part of the plan. And honestly, having her help me do a little refresh of our documents folder made the whole thing feel less like a chore and more like we're a team.\n\nHave you found that including your family in the prep process actually makes it more real—and way less stressful?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122131876761281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1a07527afff7c2b73d51ba34d8cc0ecd297d127954868f40d6d14ba16375d2cc",
+  "image_key": "gen"
 }

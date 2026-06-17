@@ -1,6 +1,6 @@
 {
   "id": "2026-06-24__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-24",
   "scheduled_time": "13:36",
-  "message": "",
+  "message": "I've been slowly working through some emergency planning stuff, and honestly, having an actual plan (even a simple one) takes so much of the anxiety out of the \"what if\" thinking. Found this solid resource that walks you through the basics without making it feel overwhelming—just straightforward steps for you and your household. What's one thing you've already planned for, or what feels like the trickiest part to tackle?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1050667511458583_122117681792950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "87dcafdc9c2bc0b85c04ef4ac792ecc5c9b404f5c1f1bebad9ef534961b3f5a8",
+  "image_key": "gen"
 }
