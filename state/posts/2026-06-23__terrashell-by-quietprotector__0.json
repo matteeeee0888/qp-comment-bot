@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "09:35",
-  "message": "",
+  "message": "I've been slowly building my emergency kit over time, and honestly, it's one of those things that gets easier once you know what actually makes sense to grab. There's a solid resource out there that walks you through the basics without any of the overwhelm—it's helped me figure out what we actually need versus what just takes up space. Having a plan for the stuff that matters gives me real peace of mind. What's the one item you always forget about until you really need it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1050667511458583_122117656574950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "406611c7c71eb2ab9c5ef50e3cd14a487766f62da9cba03d2ca7ffe4666868a4",
+  "image_key": "gen"
 }

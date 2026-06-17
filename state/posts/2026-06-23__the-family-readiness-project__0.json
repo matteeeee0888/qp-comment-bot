@@ -1,6 +1,6 @@
 {
   "id": "2026-06-23__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-23",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "Last week my kid's school called during a dead-phone moment—you know, that 2% battery panic spiral—and I missed the whole message. Turns out it was nothing urgent, but sitting there waiting for my phone to charge, I realized I had no idea where I'd written down the school's actual number, or my partner's work contact, or the pediatrician. Everything was *somewhere* in the cloud.\n\nSo now we've got a simple printed sheet on the fridge with the people and places that matter most. No battery required. It feels kind of old-school, but honestly? It's made me sleep better.\n\nDo you keep any important contacts or info written down the low-tech way, or is it all digital for you?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122131853259281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "33c122095c905d910a6fc1aa603536672822439d138d9b4a083d4c5838d591c6",
+  "image_key": "gen"
 }
