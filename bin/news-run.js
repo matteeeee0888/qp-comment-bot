@@ -30,7 +30,8 @@ const NO_IMAGES = argv.includes("--no-images");
 const NO_GEMINI = argv.includes("--no-gemini");
 const NO_GEO = argv.includes("--no-geo");          // skip the gpt-image-1 geopolitical-map path
 const TOP = parseInt(getArg("--top", "8"), 10) || 8;
-const GEO_TOP = parseInt(getArg("--geo-top", "3"), 10) || 3; // max paid gpt-image-1 geo images/run
+const GEO_TOP = parseInt(getArg("--geo-top", "3"), 10) || 3; // max AI geo-map images per run
+const GEO_RESERVE = parseInt(getArg("--geo-reserve", "2"), 10) || 0; // min geo stories forced into the shortlist (0 = pure ranking)
 const MAX_AGE_DAYS = parseInt(getArg("--max-age", "3"), 10) || 3;
 const POOL_CAP = 60;           // most candidates sent to the model in one run (cost ceiling)
 const PER_SOURCE_CAP = 8;      // max candidates from any single outlet, so no channel floods the pool
@@ -135,9 +136,23 @@ if (NO_LLM) {
 // 3. filter + score + angle (Claude)
 const scored = await scoreCandidates(pool);
 console.log(`${scored.length} passed compliance + scoring`);
-const top = scored.slice(0, TOP);
+// Build the shortlist. Geo stories rarely out-score a flood of active US weather, so reserve a few
+// slots for the best compliant geo stories — otherwise the geo-map feature would seldom fire in season.
+let top = scored.slice(0, TOP);
+if (!NO_GEO && GEO_RESERVE > 0) {
+  const geoInTop = top.filter((s) => s.kind === "geo").length;
+  if (geoInTop < GEO_RESERVE) {
+    const inTop = new Set(top.map((s) => s.link));
+    const extraGeo = scored.filter((s) => s.kind === "geo" && !inTop.has(s.link)).slice(0, GEO_RESERVE - geoInTop);
+    if (extraGeo.length) {
+      const nonGeo = top.filter((s) => s.kind !== "geo");
+      const keptNonGeo = nonGeo.slice(0, Math.max(0, nonGeo.length - extraGeo.length)); // drop weakest weather to make room
+      top = [...top.filter((s) => s.kind === "geo"), ...keptNonGeo, ...extraGeo].sort((a, b) => b.total - a.total);
+    }
+  }
+}
 const geoCount = top.filter((s) => s.kind === "geo").length;
-console.log(`(${geoCount} of the top ${top.length} are geo → gpt-image-1 map, capped at ${GEO_TOP}/run)`);
+console.log(`(${geoCount} of the top ${top.length} are geo → AI map, capped at ${GEO_TOP}/run; reserve ${GEO_RESERVE})`);
 for (const s of top) {
   console.log(`\n[${s.total}/25] ${s.kind.toUpperCase()} ${s.brand}  "${s.title}" (${s.source || "?"})`);
   console.log(`   angle: ${s.angle}`);
