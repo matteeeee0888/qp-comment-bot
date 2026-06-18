@@ -12,7 +12,7 @@
 //   node bin/news-run.js --max-age 5     # max story age in days (default 3)
 //   node bin/news-run.js --geo-top 3     # max AI geopolitical-map images per run (default 3; Gemini→gpt-image-1)
 //   node bin/news-run.js --no-geo        # skip the AI geo-map path (weather images only)
-import { fetchFeed, titleKey, loadSeen, saveSeen } from "../lib/news.js";
+import { fetchFeed, fetchRss, titleKey, loadSeen, saveSeen } from "../lib/news.js";
 import { scoreCandidates } from "../lib/newsBrain.js";
 import { archiveNews } from "../lib/archive.js";
 import { TEXT_ENGINE } from "../lib/text.js";
@@ -32,7 +32,8 @@ const NO_GEO = argv.includes("--no-geo");          // skip the gpt-image-1 geopo
 const TOP = parseInt(getArg("--top", "8"), 10) || 8;
 const GEO_TOP = parseInt(getArg("--geo-top", "3"), 10) || 3; // max paid gpt-image-1 geo images/run
 const MAX_AGE_DAYS = parseInt(getArg("--max-age", "3"), 10) || 3;
-const POOL_CAP = 40; // most candidates sent to the model in one run (cost ceiling)
+const POOL_CAP = 60;           // most candidates sent to the model in one run (cost ceiling)
+const PER_SOURCE_CAP = 8;      // max candidates from any single outlet, so no channel floods the pool
 
 // Query pool: covers all QP preparedness themes AND maps onto the 3 ad products.
 const QUERIES = [
@@ -52,6 +53,22 @@ const QUERIES = [
   "global conflict escalation news", "power grid attack warning", "EMP threat preparedness",
   "national blackout risk", "cyberattack power grid utilities", "fuel shortage warning US",
   "supply chain disruption crisis", "water supply emergency US", "nuclear threat tensions",
+  // newsjack the EXACT channels the (older, TV-news-driven) audience watches all day — via Google
+  // News scoped to each outlet, topic-narrowed so we get THEIR framing of OUR themes, not sports/markets.
+  "site:cnn.com (iran OR conflict OR war OR blackout OR grid OR storm OR flood OR hurricane OR emergency OR evacuation OR nuclear) when:3d",
+  "site:msnbc.com (iran OR conflict OR war OR blackout OR grid OR storm OR emergency OR nuclear) when:3d",
+];
+
+// Direct publisher front-page RSS — Fox, Al Jazeera, NBC (the MSNBC family). These are the homes
+// the audience leaves on all day; their headlines ARE the conversation we newsjack. CNN/MSNBC use
+// the site: queries above (their native RSS is deprecated/stale).
+const OUTLET_FEEDS = [
+  { source: "Fox News",   label: "fox-world",  url: "https://moxie.foxnews.com/google-publisher/world.xml" },
+  { source: "Fox News",   label: "fox-us",     url: "https://moxie.foxnews.com/google-publisher/us.xml" },
+  { source: "Fox News",   label: "fox-latest", url: "https://moxie.foxnews.com/google-publisher/latest.xml" },
+  { source: "Al Jazeera", label: "aljazeera",  url: "https://www.aljazeera.com/xml/rss/all.xml" },
+  { source: "NBC News",   label: "nbc-world",  url: "https://feeds.nbcnews.com/nbcnews/public/world" },
+  { source: "NBC News",   label: "nbc-news",   url: "https://feeds.nbcnews.com/nbcnews/public/news" },
 ];
 
 function ageDays(pubDate) {
@@ -77,10 +94,11 @@ if (argv.includes("--probe")) {
   process.exit(res.ok ? 0 : 1);
 }
 
-// 1. discover (feeds fetched sequentially — polite, and 15 feeds is fast enough)
+// 1. discover (feeds fetched sequentially — polite, and the feeds are fast enough)
 const raw = [];
 for (const q of QUERIES) raw.push(...(await fetchFeed(q)));
-console.log(`discovered ${raw.length} raw items across ${QUERIES.length} feeds`);
+for (const f of OUTLET_FEEDS) raw.push(...(await fetchRss(f.url, f)));
+console.log(`discovered ${raw.length} raw items across ${QUERIES.length} queries + ${OUTLET_FEEDS.length} outlet feeds`);
 
 // 2. keep fresh + unseen, dedup by normalized title
 const seen = await loadSeen();
@@ -96,9 +114,17 @@ for (const it of raw) {
 console.log(`${fresh.length} fresh, unseen candidates (<= ${MAX_AGE_DAYS}d old)`);
 if (!fresh.length) { console.log("nothing new today — exiting clean."); process.exit(0); }
 
-// newest first, then cap the pool we pay to score
+// newest first, then build the scored pool with a per-source cap so no single outlet floods it
+// (a hot day on one channel could otherwise eat every slot and crowd out diversity).
 fresh.sort((a, b) => (Date.parse(b.pubDate) || 0) - (Date.parse(a.pubDate) || 0));
-const pool = fresh.slice(0, POOL_CAP);
+const pool = [];
+const perSourceCount = {};
+for (const it of fresh) {
+  const src = (it.source || "?").toLowerCase();
+  if ((perSourceCount[src] = (perSourceCount[src] || 0) + 1) > PER_SOURCE_CAP) continue;
+  pool.push(it);
+  if (pool.length >= POOL_CAP) break;
+}
 
 if (NO_LLM) {
   console.log(`\n--- ${pool.length} candidates (no scoring) ---`);
