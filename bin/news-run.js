@@ -10,8 +10,8 @@
 //   node bin/news-run.js --dry --no-llm  # discovery only (no API key needed) — sanity-check feeds
 //   node bin/news-run.js --top 8         # how many stories to write (default 8)
 //   node bin/news-run.js --max-age 5     # max story age in days (default 3)
-//   node bin/news-run.js --geo-top 3     # max paid gpt-image-1 geopolitical-map images per run (default 3)
-//   node bin/news-run.js --no-geo        # skip the gpt-image-1 geo path (weather images only)
+//   node bin/news-run.js --geo-top 3     # max AI geopolitical-map images per run (default 3; Gemini→gpt-image-1)
+//   node bin/news-run.js --no-geo        # skip the AI geo-map path (weather images only)
 import { fetchFeed, titleKey, loadSeen, saveSeen } from "../lib/news.js";
 import { scoreCandidates } from "../lib/newsBrain.js";
 import { archiveNews } from "../lib/archive.js";
@@ -19,7 +19,7 @@ import { TEXT_ENGINE } from "../lib/text.js";
 import { buildSpec, buildGeoSpec, frameGeoPrompt } from "../lib/imageBrain.js";
 import { specToPNG } from "../lib/newsImage.js";
 import { uploadPNG, supabaseReady } from "../lib/supabase.js";
-import { generateBackground, geminiReady } from "../lib/gemini.js";
+import { generateBackground, generateFullImage, geminiReady } from "../lib/gemini.js";
 import { generateImage, openaiImageReady } from "../lib/openaiImage.js";
 
 const argv = process.argv.slice(2);
@@ -127,21 +127,23 @@ const todayISO = new Date().toISOString().slice(0, 10);
 // alert chrome on top; if Gemini fails or is absent, it falls back to the code-only render. Never breaks.
 if (!NO_IMAGES && (await supabaseReady())) {
   const useGemini = !NO_GEMINI && (await geminiReady());
-  const useGeo = !NO_GEO && (await openaiImageReady());
-  console.log(`images: on (weather bg=${useGemini ? "Gemini hybrid" : "code-only"}, geo=${useGeo ? `gpt-image-1 (max ${GEO_TOP}/run)` : "off"})`);
+  // geo backend: prefer Gemini (free tier), fall back to gpt-image-1 if only OpenAI is configured.
+  const geoBackend = NO_GEO ? null : (await geminiReady()) ? "gemini" : (await openaiImageReady()) ? "openai" : null;
+  console.log(`images: on (weather bg=${useGemini ? "Gemini hybrid" : "code-only"}, geo=${geoBackend ? `${geoBackend} (max ${GEO_TOP}/run)` : "off"})`);
   let geoMade = 0;
   for (const s of top) {
     try {
       let png, mode, layoutLabel;
       if (s.kind === "geo") {
-        // geopolitical/grid/EMP → full broadcast-map image via gpt-image-1 (capped to bound spend).
+        // geopolitical/grid/EMP → full broadcast-map image (capped to bound spend / rate).
         // No US-weather fallback: a US tornado map for a Hormuz story would be wrong, so skip instead.
-        if (!useGeo) { console.log(`IMG geo skip (OpenAI off) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
+        if (!geoBackend) { console.log(`IMG geo skip (no image backend) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
         if (geoMade >= GEO_TOP) { console.log(`IMG geo skip (cap ${GEO_TOP}) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
         const gspec = await buildGeoSpec(s);
-        png = await generateImage(frameGeoPrompt(gspec));
-        if (!png) { console.log(`IMG geo gen fail ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
-        mode = "gpt-image-1"; layoutLabel = `geo/${gspec.mapType}`; geoMade++;
+        const geoPrompt = frameGeoPrompt(gspec);
+        png = geoBackend === "gemini" ? await generateFullImage(geoPrompt) : await generateImage(geoPrompt);
+        if (!png) { console.log(`IMG geo gen fail (${geoBackend}) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
+        mode = geoBackend === "gemini" ? "gemini-img" : "gpt-image-1"; layoutLabel = `geo/${gspec.mapType}`; geoMade++;
       } else {
         const spec = await buildSpec(s);
         mode = "code";
