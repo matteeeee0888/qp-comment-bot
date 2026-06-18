@@ -10,14 +10,17 @@
 //   node bin/news-run.js --dry --no-llm  # discovery only (no API key needed) — sanity-check feeds
 //   node bin/news-run.js --top 8         # how many stories to write (default 8)
 //   node bin/news-run.js --max-age 5     # max story age in days (default 3)
+//   node bin/news-run.js --geo-top 3     # max paid gpt-image-1 geopolitical-map images per run (default 3)
+//   node bin/news-run.js --no-geo        # skip the gpt-image-1 geo path (weather images only)
 import { fetchFeed, titleKey, loadSeen, saveSeen } from "../lib/news.js";
 import { scoreCandidates } from "../lib/newsBrain.js";
 import { archiveNews } from "../lib/archive.js";
 import { TEXT_ENGINE } from "../lib/text.js";
-import { buildSpec } from "../lib/imageBrain.js";
+import { buildSpec, buildGeoSpec, frameGeoPrompt } from "../lib/imageBrain.js";
 import { specToPNG } from "../lib/newsImage.js";
 import { uploadPNG, supabaseReady } from "../lib/supabase.js";
 import { generateBackground, geminiReady } from "../lib/gemini.js";
+import { generateImage, openaiImageReady } from "../lib/openaiImage.js";
 
 const argv = process.argv.slice(2);
 const getArg = (k, d) => { const i = argv.indexOf(k); return i >= 0 ? argv[i + 1] : d; };
@@ -25,7 +28,9 @@ const DRY = argv.includes("--dry");
 const NO_LLM = argv.includes("--no-llm");
 const NO_IMAGES = argv.includes("--no-images");
 const NO_GEMINI = argv.includes("--no-gemini");
+const NO_GEO = argv.includes("--no-geo");          // skip the gpt-image-1 geopolitical-map path
 const TOP = parseInt(getArg("--top", "8"), 10) || 8;
+const GEO_TOP = parseInt(getArg("--geo-top", "3"), 10) || 3; // max paid gpt-image-1 geo images/run
 const MAX_AGE_DAYS = parseInt(getArg("--max-age", "3"), 10) || 3;
 const POOL_CAP = 40; // most candidates sent to the model in one run (cost ceiling)
 
@@ -42,6 +47,11 @@ const QUERIES = [
   // active events (aggressive newsjack — every image is flagged for human review before use)
   "tornado warning today", "severe thunderstorm warning", "flash flood warning", "winter storm warning",
   "heat advisory issued", "evacuation order weather",
+  // geopolitical / grid / EMP / supply (kind="geo" — rendered as a neutral region map via gpt-image-1)
+  "strait of hormuz tensions", "middle east conflict escalation", "oil shipping lane threat",
+  "global conflict escalation news", "power grid attack warning", "EMP threat preparedness",
+  "national blackout risk", "cyberattack power grid utilities", "fuel shortage warning US",
+  "supply chain disruption crisis", "water supply emergency US", "nuclear threat tensions",
 ];
 
 function ageDays(pubDate) {
@@ -100,8 +110,10 @@ if (NO_LLM) {
 const scored = await scoreCandidates(pool);
 console.log(`${scored.length} passed compliance + scoring`);
 const top = scored.slice(0, TOP);
+const geoCount = top.filter((s) => s.kind === "geo").length;
+console.log(`(${geoCount} of the top ${top.length} are geo → gpt-image-1 map, capped at ${GEO_TOP}/run)`);
 for (const s of top) {
-  console.log(`\n[${s.total}/25] ${s.brand}  "${s.title}" (${s.source || "?"})`);
+  console.log(`\n[${s.total}/25] ${s.kind.toUpperCase()} ${s.brand}  "${s.title}" (${s.source || "?"})`);
   console.log(`   angle: ${s.angle}`);
   console.log(`   why:   ${s.why}`);
 }
@@ -115,19 +127,34 @@ const todayISO = new Date().toISOString().slice(0, 10);
 // alert chrome on top; if Gemini fails or is absent, it falls back to the code-only render. Never breaks.
 if (!NO_IMAGES && (await supabaseReady())) {
   const useGemini = !NO_GEMINI && (await geminiReady());
-  console.log(`images: on (background = ${useGemini ? "Gemini hybrid" : "code-only"})`);
+  const useGeo = !NO_GEO && (await openaiImageReady());
+  console.log(`images: on (weather bg=${useGemini ? "Gemini hybrid" : "code-only"}, geo=${useGeo ? `gpt-image-1 (max ${GEO_TOP}/run)` : "off"})`);
+  let geoMade = 0;
   for (const s of top) {
     try {
-      const spec = await buildSpec(s);
-      let mode = "code";
-      if (useGemini && spec.scenePrompt) {
-        const bgPng = await generateBackground(spec.scenePrompt);
-        if (bgPng) { spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`; mode = "gemini"; }
+      let png, mode, layoutLabel;
+      if (s.kind === "geo") {
+        // geopolitical/grid/EMP → full broadcast-map image via gpt-image-1 (capped to bound spend).
+        // No US-weather fallback: a US tornado map for a Hormuz story would be wrong, so skip instead.
+        if (!useGeo) { console.log(`IMG geo skip (OpenAI off) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
+        if (geoMade >= GEO_TOP) { console.log(`IMG geo skip (cap ${GEO_TOP}) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
+        const gspec = await buildGeoSpec(s);
+        png = await generateImage(frameGeoPrompt(gspec));
+        if (!png) { console.log(`IMG geo gen fail ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
+        mode = "gpt-image-1"; layoutLabel = `geo/${gspec.mapType}`; geoMade++;
+      } else {
+        const spec = await buildSpec(s);
+        mode = "code";
+        if (useGemini && spec.scenePrompt) {
+          const bgPng = await generateBackground(spec.scenePrompt);
+          if (bgPng) { spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`; mode = "gemini"; }
+        }
+        png = await specToPNG(spec);
+        layoutLabel = `${spec.layout}/${spec.hazard}`;
       }
-      const png = await specToPNG(spec);
       const slug = `${s.brand}-${titleKey(s.title).replace(/\s+/g, "-").slice(0, 40)}`;
       const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, png);
-      if (upl.ok) { s.image_url = upl.url; s.review = "REVIEW"; console.log(`IMG  ${s.brand} ${spec.layout}/${spec.hazard} bg=${mode} → ${slug}.png`); }
+      if (upl.ok) { s.image_url = upl.url; s.review = "REVIEW"; console.log(`IMG  ${s.brand} ${layoutLabel} bg=${mode} → ${slug}.png`); }
       else { console.log(`IMG upload fail ${s.brand}: ${upl.status || upl.error || upl.reason}`); }
     } catch (e) { console.log(`IMG err ${s.brand}: ${e.message || e}`); }
   }

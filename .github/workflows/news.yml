@@ -40,6 +40,7 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}   # gpt-image-1 geopolitical-map images
         run: |
           ARGS=""
           [ "${{ github.event.inputs.probe }}" = "true" ] && ARGS="--probe"
@@ -53,5 +54,5 @@ jobs:
           git config user.email "qp-news-bot@users.noreply.github.com"
           git add -A state || true
           git commit -m "state: news run [skip ci]" || echo "no state changes"
-          git pull --rebase origin main || true
+          git pull --rebase --autostash origin main || true
           git push || echo "push skipped"
