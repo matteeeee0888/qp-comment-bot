@@ -39,5 +39,5 @@ jobs:
           # whole add → memory unsaved → duplicate replies next run).
           git add -A state || true
           git commit -m "state: comment run [skip ci]" || echo "no state changes"
-          git pull --rebase origin main || true
+          git pull --rebase --autostash origin main || true
           git push || echo "push skipped"

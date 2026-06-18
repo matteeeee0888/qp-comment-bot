@@ -30,6 +30,13 @@ const exclude = new Set(cfg.commentExcludePageIds || []);
 
 const seenFile = path.join(repoRoot, "state/comments-seen.json");
 const seen = new Set(await loadJson(new URL(`file://${seenFile}`)).catch(() => []));
+// Persist incrementally (not just at run end) so a timeout/crash mid-run can't make the next run
+// re-reply to comments we already handled.
+async function persistSeen() {
+  if (!LIVE) return;
+  await mkdir(path.dirname(seenFile), { recursive: true }).catch(() => {});
+  await writeFile(seenFile, JSON.stringify([...seen].slice(-5000)), "utf8").catch(() => {});
+}
 
 const pages = (PAGE ? map.filter((m) => m.page_id === PAGE) : map.filter((m) => m.eligible)).filter((m) => !exclude.has(m.page_id));
 console.log(`comment-run: ${pages.length} page(s) ${LIVE ? "LIVE" : "DRY (no actions)"}${exclude.size ? ` · excluding ${exclude.size}` : ""}`);
@@ -76,7 +83,15 @@ async function act(b, c, pg, product, source) {
     console.log(`${head} → ${LIVE ? "HIDDEN" : "would hide"}`);
     return;
   }
-  if (LIVE && b.reply) { try { await client.reply(c.id, pg.page_id, b.reply); } catch (e) { console.log(`  reply err: ${e.message}`); } }
+  if (b.action === "ignore") { console.log(`${head} → ignored (no engagement)`); return; }
+  if (!b.reply) { console.log(`${head} → no reply (empty)`); return; }
+  if (LIVE) {
+    try {
+      // one reply per comment, always — even if the seen-store was lost to a timeout/crash.
+      if (await client.alreadyReplied(c.id, pg.page_id)) { console.log(`${head} → skip (already replied)`); return; }
+      await client.reply(c.id, pg.page_id, b.reply);
+    } catch (e) { console.log(`  reply err: ${e.message}`); }
+  }
   console.log(`${head} → ${LIVE ? "REPLIED" : "would reply"}: ${b.reply}`);
 }
 
@@ -110,12 +125,10 @@ for (const pg of pages) {
       await archiveComment({ comment: c, page: pg, product, brain: archiveBrain, source: obj.source }).catch(() => {});
       seen.add(c.id);
       handled++;
+      await persistSeen();
     }
   }
 }
 
-if (LIVE) {
-  await mkdir(path.dirname(seenFile), { recursive: true }).catch(() => {});
-  await writeFile(seenFile, JSON.stringify([...seen].slice(-5000)), "utf8");
-}
+await persistSeen();
 console.log(`\ncomment-run: handled ${handled} new comment(s).${LIVE ? "" : " (DRY — memory not saved)"} ${JSON.stringify(tally)}`);
