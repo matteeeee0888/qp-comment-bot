@@ -1,6 +1,6 @@
 {
   "id": "2026-06-26__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-06-26",
   "scheduled_time": "09:42",
-  "message": "",
+  "message": "I've been poking around Ready.gov lately, and their planning section is genuinely helpful—no doom-and-gloom, just straightforward ways to think through what matters most to your family. Turns out a little advance thinking actually makes things feel *less* stressful, not more. Have you and your household ever sat down to talk through a plan together, even something simple?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1112110298653755_122110448907340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "dc2d680d2f0c7917c893158f9aa91759f1c86537678ae8b0022e98540bbfc18f",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-06-26__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-26",
   "scheduled_time": "13:52",
-  "message": "",
+  "message": "Last winter, my family got caught mid-blizzard with exactly three tea lights, half a jar of peanut butter, and my teenage son asking 'Mom, *now* we prep?' from the dark living room. 🕯️\n\nTurns out there's nothing quite like a power outage to make you realize how much you'd prefer to NOT learn lessons the hard way. We spent that night playing shadow puppets and rationing snacks like we were on a game show.\n\nThe funny part? It wasn't the storm that felt chaotic—it was *not having thought it through*. Once we actually sat down after power came back and made a simple plan (basics like water, flashlights, food that doesn't need cooking), everything felt… manageable. Almost boring in the best way.\n\nI'm not saying you need a bunker. Just that a little calm prep means you get to handle storms like a normal person instead of like you're auditioning for a survival show.\n\nHas something ever caught you unprepared that made you go 'okay, *this* is the one thing I'm actually getting sorted'?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "962411806966339_122118569750947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "79cec938a3f477e7276a2727957814c2fbdc1951b653a0ff01be28c05f0d3321",
+  "image_key": "gen"
 }
