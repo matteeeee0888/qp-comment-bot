@@ -1,6 +1,6 @@
 {
   "id": "2026-06-28__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-06-28",
   "scheduled_time": "17:47",
-  "message": "",
+  "message": "So there I was, 10 minutes into a surprise thunderstorm, when my family group chat absolutely *exploded*. My sister: 'WHERE'S THE FLASHLIGHT?' Mom: 'Did anyone check the basement window?' Dad: three fire emojis and nothing else. My nephew: 'can we call this Hurricane Kevin.' It was chaos—but honestly? That frantic texting meant everyone was *thinking* about what mattered. Once the storm passed, I realized we'd kind of stumbled into a half-baked prep check without even planning it. No fancy emergency plan needed—just the fact that we were all asking the right questions in real time made a difference. The best readiness doesn't have to be stressful or complicated. Sometimes it's just knowing where your family keeps stuff and being willing to ask. Do you have a go-to person in your family who's the unofficial 'storm coordinator'? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "962411806966339_122118782906947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6b7aeefe56dfe37b6b7046e0fca879177befc52d40df10bfe4fbfa9caac6086a",
+  "image_key": "gen"
 }
