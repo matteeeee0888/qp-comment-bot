@@ -21,6 +21,23 @@ import { specToPNG } from "../lib/newsImage.js";
 import { uploadPNG, supabaseReady } from "../lib/supabase.js";
 import { generateBackground, generateFullImage, geminiReady } from "../lib/gemini.js";
 import { generateImage, openaiImageReady } from "../lib/openaiImage.js";
+import { readFile, readdir } from "node:fs/promises";
+
+// Load style-reference images for the geo maps from assets/refs/geo/<kind>/ (locator|radius).
+// Drop clean reference PNGs there to lock the house look; empty folder => text-only (graceful).
+async function loadGeoRefs(kind) {
+  const dir = new URL(`../assets/refs/geo/${kind}/`, import.meta.url);
+  try {
+    const files = (await readdir(dir)).filter((f) => /\.(png|jpe?g|webp)$/i.test(f)).slice(0, 3);
+    const refs = [];
+    for (const f of files) {
+      const buf = await readFile(new URL(f, dir));
+      const mimeType = /\.png$/i.test(f) ? "image/png" : /\.webp$/i.test(f) ? "image/webp" : "image/jpeg";
+      refs.push({ data: buf.toString("base64"), mimeType });
+    }
+    return refs;
+  } catch { return []; }
+}
 
 const argv = process.argv.slice(2);
 const getArg = (k, d) => { const i = argv.indexOf(k); return i >= 0 ? argv[i + 1] : d; };
@@ -58,6 +75,8 @@ const QUERIES = [
   // News scoped to each outlet, topic-narrowed so we get THEIR framing of OUR themes, not sports/markets.
   "site:cnn.com (iran OR conflict OR war OR blackout OR grid OR storm OR flood OR hurricane OR emergency OR evacuation OR nuclear) when:3d",
   "site:msnbc.com (iran OR conflict OR war OR blackout OR grid OR storm OR emergency OR nuclear) when:3d",
+  // Reuters: neutral wire service, strong on geopolitics/energy -> survives the compliance filter well, great for the geo lane.
+  "site:reuters.com (iran OR hormuz OR conflict OR war OR sanctions OR oil OR blackout OR grid OR nuclear OR storm OR hurricane OR evacuation) when:3d",
 ];
 
 // Direct publisher front-page RSS — Fox, Al Jazeera, NBC (the MSNBC family). These are the homes
@@ -170,7 +189,10 @@ if (!NO_IMAGES && (await supabaseReady())) {
   const useGemini = !NO_GEMINI && (await geminiReady());
   // geo backend: prefer Gemini (free tier), fall back to gpt-image-1 if only OpenAI is configured.
   const geoBackend = NO_GEO ? null : (await geminiReady()) ? "gemini" : (await openaiImageReady()) ? "openai" : null;
-  console.log(`images: on (weather bg=${useGemini ? "Gemini hybrid" : "code-only"}, geo=${geoBackend ? `${geoBackend} (max ${GEO_TOP}/run)` : "off"})`);
+  // preload geo style references once (locator vs radius); empty => text-only prompt
+  const geoRefs = geoBackend === "gemini" ? { locator: await loadGeoRefs("locator"), radius: await loadGeoRefs("radius") } : { locator: [], radius: [] };
+  const refsTotal = geoRefs.locator.length + geoRefs.radius.length;
+  console.log(`images: on (weather bg=${useGemini ? "Gemini hybrid" : "code-only"}, geo=${geoBackend ? `${geoBackend} (max ${GEO_TOP}/run, ${refsTotal} ref img)` : "off"})`);
   let geoMade = 0;
   for (const s of top) {
     try {
@@ -181,16 +203,22 @@ if (!NO_IMAGES && (await supabaseReady())) {
         if (!geoBackend) { console.log(`IMG geo skip (no image backend) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
         if (geoMade >= GEO_TOP) { console.log(`IMG geo skip (cap ${GEO_TOP}) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
         const gspec = await buildGeoSpec(s);
-        const geoPrompt = frameGeoPrompt(gspec);
-        png = geoBackend === "gemini" ? await generateFullImage(geoPrompt) : await generateImage(geoPrompt);
+        const refs = geoRefs[gspec.mapType] || [];
+        const geoPrompt = frameGeoPrompt(gspec, { withRefs: refs.length > 0 });
+        png = geoBackend === "gemini" ? await generateFullImage(geoPrompt, { refs }) : await generateImage(geoPrompt);
         if (!png) { console.log(`IMG geo gen fail (${geoBackend}) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
-        mode = geoBackend === "gemini" ? "gemini-img" : "gpt-image-1"; layoutLabel = `geo/${gspec.mapType}`; geoMade++;
+        mode = geoBackend === "gemini" ? `gemini-img${refs.length ? `+${refs.length}ref` : ""}` : "gpt-image-1"; layoutLabel = `geo/${gspec.mapType}`; geoMade++;
       } else {
         const spec = await buildSpec(s);
         mode = "code";
         if (useGemini && spec.scenePrompt) {
           const bgPng = await generateBackground(spec.scenePrompt);
-          if (bgPng) { spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`; mode = "gemini"; }
+          if (bgPng) {
+            spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`;
+            spec.layout = "photo";                  // photo-dominant hybrid: the Gemini scene is the hero
+            spec.callouts = (spec.callouts || []).slice(0, 3);
+            mode = "gemini";
+          }
         }
         png = await specToPNG(spec);
         layoutLabel = `${spec.layout}/${spec.hazard}`;
