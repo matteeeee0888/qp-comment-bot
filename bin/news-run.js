@@ -77,6 +77,12 @@ const QUERIES = [
   "site:msnbc.com (iran OR conflict OR war OR blackout OR grid OR storm OR emergency OR nuclear) when:3d",
   // Reuters: neutral wire service, strong on geopolitics/energy -> survives the compliance filter well, great for the geo lane.
   "site:reuters.com (iran OR hormuz OR conflict OR war OR sanctions OR oil OR blackout OR grid OR nuclear OR storm OR hurricane OR evacuation) when:3d",
+  // Dedicated weather desks — Fox Weather + The Weather Channel. Best signal for the storm/flood/
+  // heat lane (terrashell / terrastryke). Scoped via Google News site: (their direct RSS is unreliable).
+  "site:foxweather.com (flood OR storm OR thunderstorm OR tornado OR hurricane OR heat OR blizzard OR evacuation OR wildfire OR outage OR warning OR watch) when:3d",
+  "site:weather.com (flood OR storm OR thunderstorm OR tornado OR hurricane OR heat OR blizzard OR evacuation OR wildfire OR outage OR warning OR watch) when:3d",
+  // CNN International edition (the user's edition.cnn.com) — subdomain not always caught by site:cnn.com.
+  "site:edition.cnn.com (iran OR conflict OR war OR blackout OR grid OR storm OR flood OR hurricane OR emergency OR evacuation OR nuclear) when:3d",
 ];
 
 // Direct publisher front-page RSS — Fox, Al Jazeera, NBC (the MSNBC family). These are the homes
