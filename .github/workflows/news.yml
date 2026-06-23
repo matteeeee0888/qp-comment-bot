@@ -45,8 +45,8 @@ jobs:
           ARGS=""
           [ "${{ github.event.inputs.probe }}" = "true" ] && ARGS="--probe"
           [ "${{ github.event.inputs.dry }}" = "true" ] && ARGS="--dry"
-          echo "running: node bin/news-run.js $ARGS"
-          node bin/news-run.js $ARGS
+          echo "running: node bin/news-run.js --top 12 --geo-top 6 $ARGS"
+          node bin/news-run.js --top 12 --geo-top 6 $ARGS
       - name: Mirror today's news images into Meta ad libraries (Ecom 6 + Ecom 2)
         # Runs right after the Supabase upload + sheet write. NON-BLOCKING: continue-on-error
         # + the script exits 0, so a Meta hiccup can never fail the news pipeline.
