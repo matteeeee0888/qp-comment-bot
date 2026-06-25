@@ -29,6 +29,7 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SHEET_WEBHOOK_URL: ${{ secrets.SHEET_WEBHOOK_URL }}
           SHEET_WEBHOOK_TOKEN: ${{ secrets.SHEET_WEBHOOK_TOKEN }}
+          SLACK_COPYWRITING_WEBHOOK_URL: ${{ secrets.SLACK_COPYWRITING_WEBHOOK_URL }}
         run: node bin/comment-run.js --live
       - name: Persist comment memory
         if: always()

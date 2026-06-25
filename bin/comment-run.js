@@ -10,8 +10,9 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { loadToken, loadConfig, loadJson } from "../lib/env.js";
 import { CommentsClient } from "../lib/metaComments.js";
 import { activeAdStoryIds } from "../lib/adPosts.js";
-import { classify, detectProduct } from "../lib/commentBrain.js";
+import { classify, detectProduct, productName } from "../lib/commentBrain.js";
 import { sendAlert } from "../lib/alert.js";
+import { sendCopyInspo } from "../lib/slack.js";
 import { archiveComment } from "../lib/archive.js";
 
 const repoRoot = fileURLToPath(new URL("../", import.meta.url));
@@ -22,6 +23,7 @@ const HIDE_RISKY = argv.includes("--hide-risky");
 const PAGE = (() => { const i = argv.indexOf("--page"); return i >= 0 ? argv[i + 1] : ""; })();
 const POSTS_PER_PAGE = 8;
 const MAX_ACTIONS = Number(cfg.commentMaxActionsPerRun || 25);
+const INSPO_MIN_WORDS = Number(process.env.INSPO_MIN_WORDS || 25); // long-comment -> #copywriting
 
 const token = await loadToken(cfg.tokenEnvPath);
 const client = new CommentsClient({ token, graphVersion: cfg.graphVersion });
@@ -118,6 +120,13 @@ for (const pg of pages) {
       if (!c.message || seen.has(c.id)) continue;
       if (c.from && String(c.from.id) === String(pg.page_id)) { seen.add(c.id); continue; }
       if (handled >= MAX_ACTIONS) { console.log(`max actions per run (${MAX_ACTIONS}) reached — stopping`); break outer; }
+      // Copywriting inspo: a long, substantive comment (> INSPO_MIN_WORDS words) is ad fuel — ping #copywriting.
+      const wordCount = String(c.message).trim().split(/\s+/).filter(Boolean).length;
+      if (LIVE && wordCount > INSPO_MIN_WORDS) {
+        const res = await sendCopyInspo({ message: c.message, productName: productName(product),
+          pageName: pg.page_name, postUrl, commentId: c.id }).catch(() => ({ sent: "log" }));
+        console.log(`  inspo (${wordCount}w, ${productName(product) || "?"}) → Slack:${res.sent}`);
+      }
       let b;
       try { b = await classify(c.message, product); } catch (e) { console.log(`  brain err: ${e.message}`); continue; }
       await act(b, c, pg, product, obj.source);
