@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "10:52",
-  "message": "",
+  "message": "So I burned dinner last night—like, *really* burned it. The smoke alarm went off, the kitchen got all dramatic, and I was flapping a dish towel like I was signaling a plane. 😅\n\nBut here's the thing: instead of just opening windows and moving on, I turned it into a little \"safety check\" moment with the family. We tested the alarm (it works!), talked through our escape route, and even laughed about where everyone would meet up if we actually had to leave fast.\n\nIt sounds serious, but honestly? It felt kind of cozy—like we were taking care of ourselves together, you know? And it took maybe five minutes. Now I *know* everyone knows what to do, and I can stop quietly worrying about it.\n\nHave you and your people ever had a casual moment like that to talk through your plan?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122116871618693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "0daf43580586015fc6c9265c1a5cd618fdc059f4559c57741da2e9e98da06818",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "13:42",
-  "message": "",
+  "message": "I've been thinking about what I'd actually *do* if the power went out for more than a few hours—turns out there's a lot of small, doable stuff I hadn't considered. Found this straightforward breakdown from the Red Cross that walks through the practical basics without any doom-and-gloom stuff. What's the one thing you'd want to figure out first if the lights went out at your place?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "911963812004163_122132641557187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "773819156203957379d58c9d1b405fe7749cb9b9c6ec1b5fb52703368e57d0a9",
+  "image_key": "gen"
 }

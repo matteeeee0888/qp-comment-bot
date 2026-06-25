@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "09:51",
-  "message": "",
+  "message": "I've been thinking about how heat waves kind of sneak up on you—one day it's warm, next thing you know you're exhausted and dehydrated. Found this solid breakdown of what actually helps when temperatures spike, from folks who know their stuff. The takeaway? A little planning ahead makes summer feel way less stressful. What's your go-to move when it gets really hot out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "962411806966339_122119167026947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "52d8c7fbc6fcd6ee2549a6a19512cc77dc6bbcd573c9a11d1aa4b9de5a2e3a7c",
+  "image_key": "gen"
 }

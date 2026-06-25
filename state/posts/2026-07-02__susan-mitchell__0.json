@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "I've been poking around Ready.gov's kit checklist, and honestly? It's a solid way to think through what actually matters for your household without getting overwhelmed. The whole point is knowing you've got the basics covered, so you can stop worrying and just... live. What's one thing already sitting around your home that you'd definitely want to have easy access to in an emergency?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "719343644592338_122188676210926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "0c480ff0e3c1a1b83debf389964a17897c5228467f04ed96a8844365ebe27243",
+  "image_key": "gen"
 }

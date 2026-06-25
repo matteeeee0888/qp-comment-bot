@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "10:35",
-  "message": "",
+  "message": "I've been reading through some really practical hurricane prep info, and honestly, it's way less overwhelming than I expected—mostly just common-sense stuff about knowing your area and having a plan. The best part? There's guidance for renters, pet owners, and people with different abilities, so it actually feels doable for my situation. Have you thought about what your family would do if a big storm was heading your way, or is that still on the to-do list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1127031013825481_122106231573335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7643957a9aa3d5b4231716a9e4f69666a8055ac61515b8056ce2086617ac7140",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "14:56",
-  "message": "",
+  "message": "So my partner finally replaced our kitchen fire extinguisher last month after I'd been gently (okay, maybe not so gently) reminding them for like two years. Flash forward to yesterday—grease splatters, small flame, they grab the extinguisher, handles it perfectly, and I got the *tiniest* \"see, I was right\" moment. But honestly? The smug wore off fast because I was just relieved we had it there and ready. Turns out nagging about fire safety isn't as annoying when it actually matters. 😅 That said, we also realized our escape plan was more of a vague idea than an actual plan, so we're working on that now too. Preparedness isn't about being the \"I told you so\" person—it's just about having your people's backs when it counts. Have you mapped out a fire escape plan with your household, or is that still on the someday list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122113151378692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e8cc0af92d5881e4b7631aba98d96c85a67d99aee1637d33c15fe42a73d8ba95",
+  "image_key": "gen"
 }

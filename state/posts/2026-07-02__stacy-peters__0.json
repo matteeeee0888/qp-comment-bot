@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "14:57",
-  "message": "",
+  "message": "I spent some time looking through Ready.gov's planning resources the other day, and honestly, having a solid family plan takes so much anxiety out of emergency prep. It's not about doom—it's about knowing you've got everyone on the same page, which weirdly makes everything feel more manageable. What part of your family's plan do you think could use a little refresh this year?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122118211316848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ab960176b53814672b1880cb048712c1c9d4dbedf4293c8b9045a39a22519333",
+  "image_key": "gen"
 }

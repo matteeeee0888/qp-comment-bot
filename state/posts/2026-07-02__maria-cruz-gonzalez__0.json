@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "16:06",
-  "message": "",
+  "message": "I just realized I've never actually thought through what we'd do if the power went out for more than a few hours—and honestly, it's kind of a useful thing to know. The Red Cross has a straightforward breakdown of the basics that doesn't feel overwhelming at all. What's one thing in your home that'd be hardest to live without if the power went out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122115992540914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "08d83cecc301ef7cb8d4e00e753595a2ef052cf4b78bee6abc4e5fcdad5a202c",
+  "image_key": "gen"
 }

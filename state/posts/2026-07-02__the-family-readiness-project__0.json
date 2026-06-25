@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "15:45",
-  "message": "",
+  "message": "Last week my 9-year-old asked me what to do if there was an emergency and I wasn't home. I froze. Not because I don't have a plan—I *thought* I did—but because I realized I'd never actually *told* the kids what it was.\n\nTurns out \"be prepared\" in my head and \"kids actually knowing where to go and what to do\" are two very different things.\n\nSo we sat down with a snack, made it low-key (not scary), and talked through the basics: safe spots in the house, where important docs are, how to reach trusted adults, the whole thing. My older one even helped write it down, which somehow made it stick better than all my mental planning ever did.\n\nThe wild part? They felt *calmer* afterward. Knowing what to do is weirdly reassuring—for them and honestly, for me too.\n\nIf you've got kids at home, have you walked them through what *they'd* actually do in different scenarios? Or is that still on your someday list like it was for me? 🤔",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122132913957281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "504730807a098aae99c5694788da4e45eb50cc702e5077b30870e61bbd1c0f0e",
+  "image_key": "gen"
 }

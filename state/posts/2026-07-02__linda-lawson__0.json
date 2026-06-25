@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "09:47",
-  "message": "",
+  "message": "I'll never forget the winter storm three years ago when I realized—mid-blizzard—that I had no idea where our flashlights actually were. I found one under the bathroom sink next to expired sunscreen, another in a kitchen drawer behind takeout menus, and a third in my car's glove compartment. My partner just looked at me and laughed. 'So what's the plan? Shadow puppet show?'\n\nTurns out there's something oddly humbling about scrambling during the very thing you *could* have prepared for calmly. Now when a storm warning pops up, I do a quick mental scan: water? Check. First aid kit? Know where it is. Flashlights? All in one spot, like civilized people.\n\nThe funny part? Actually being ready isn't hard—it just requires thinking about it *before* the wind picks up. Way less comedy, way more peace of mind.\n\nWhat's the one prep thing you always mean to do but keep putting off? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "936909452848936_122118823382955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "370598e8bc8c025d5c7b28cfc6670a392b3c2bb2f448e445a8ecd73caaa2e9d7",
+  "image_key": "gen"
 }

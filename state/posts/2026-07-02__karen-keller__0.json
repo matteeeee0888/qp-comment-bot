@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "11:33",
-  "message": "",
+  "message": "My friend texted me last week in an absolute *panic* because her power went out for three hours. Three hours! I love her, but she was convinced we were in some kind of emergency situation.\n\nTurned out, it was just a tree branch on the line.\n\nBut it got me thinking—she panics *because* she doesn't have a plan. When you know you've got water, a flashlight, some snacks, and you know where your important documents are, suddenly a power outage is just... an inconvenience, not a crisis.\n\nI'm not saying I'm some calm zen master, but having even a basic go-bag and a few household essentials nearby takes so much of the edge off. The panic part usually comes from feeling unprepared, not from the actual situation.\n\nDo you find that knowing you're ready helps you stay calmer when something unexpected happens?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1003918682810439_122120199657072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1a2d7c6d50326765779a0b16313e0529b405ae290fce103ee516774423b0fd0e",
+  "image_key": "gen"
 }

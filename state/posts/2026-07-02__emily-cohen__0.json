@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "19:16",
-  "message": "",
+  "message": "I'll admit it—I was *that person* who kept saying \"yeah, yeah, I'll update the smoke alarms\" for like... two years. My partner didn't even bother rolling their eyes anymore.\n\nThen one random Tuesday, I burned dinner (garlic bread, don't ask), and our ancient alarm went off like a banshee. While I was frantically waving a dish towel around like a maniac, my partner just stood there with the most satisfied smile I've ever seen. They didn't say a word. Didn't have to.\n\nBut here's the thing—that moment actually made me realize how much I *rely* on that little device. It caught something that could've been worse. And suddenly those \"boring\" safety habits didn't feel boring anymore.\n\nWe've since done a proper walk-through: tested everything, mapped out our escape route, the whole deal. Turns out when you actually *see* how these things work, it's kind of satisfying.\n\nHave you gotten your alarms checked recently, or are you still in the \"I know I should\" phase like I was? 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122105741324629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "cca6610cdf5a0c3445fc705f3ba91d96f30c93f21cc0b9a3f896f65803a22a7f",
+  "image_key": "gen"
 }

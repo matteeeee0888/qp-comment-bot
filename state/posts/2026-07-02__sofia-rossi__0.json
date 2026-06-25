@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "17:41",
-  "message": "",
+  "message": "I've been slowly building up my family's emergency kit over the past year, and I realized I was basically guessing at what we actually needed. Turns out there's a really straightforward resource from Ready.gov that walks through the basics—water, first aid, important documents, that kind of thing—in a way that doesn't feel overwhelming. It's nice to have a checklist so you're not second-guessing yourself at 11 p.m. on a random Tuesday.\n\nWhat's the one item you always forget to stock up on?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1112110298653755_122111712243340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3f0ce17cfbfe41e0df9aad6c476d4ad8c4cef6317bdcfedbe52918e225cbd64e",
+  "image_key": "gen"
 }

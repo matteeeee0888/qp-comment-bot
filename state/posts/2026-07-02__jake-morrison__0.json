@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "13:32",
-  "message": "",
+  "message": "I've been slowly working through my home prep checklist, and fire safety is one of those things that feels overwhelming until you actually start. I just found this straightforward resource from Ready.gov that breaks down the practical stuff—escape planning, smoke alarms, that kind of thing—without making you feel like you need to panic. Turns out a lot of it is just thoughtful planning, not expensive overhauls.\n\nWhat's one fire safety thing you've already got handled in your home?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "768075889726058_122140356879028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2ec472c349c94d04dc59f16040b662a90bf63ed13be075933b6f2748156d1e8f",
+  "image_key": "gen"
 }

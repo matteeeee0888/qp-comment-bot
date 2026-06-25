@@ -1,6 +1,6 @@
 {
   "id": "2026-07-02__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-02",
   "scheduled_time": "18:03",
-  "message": "",
+  "message": "Last winter, my family group chat absolutely *came alive* when that ice storm rolled in. My mom was sending photos of her stockpiled soup. My brother was joking about becoming a professional snow-day pancake chef. My sister was triple-checking that everyone had flashlights. And me? I was just grateful we'd actually talked through the basics before things got real.\n\nTurns out, a little prep beforehand means less panic and way more laughs when a storm's actually happening. Plus, everyone knew where to find what they needed without me having to coordinate a frantic 3am search party.\n\nDo you and your family have your own funny preparedness quirks or group chat moments? I'd love to hear them! 😄",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1188071991047656_122115550239350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "af7e06df52dda813fc0adbd6a0d15be2c3f9f9181d110641ef88d3f6f04786dd",
+  "image_key": "gen"
 }
