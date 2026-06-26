@@ -1,6 +1,6 @@
 {
   "id": "2026-07-03__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-03",
   "scheduled_time": "19:46",
-  "message": "",
+  "message": "I was packing our go-bag last weekend, and my 7-year-old kept asking *why* we needed one. 'But Mom, nothing bad ever happens to us,' she said. And honestly? She's right—nothing *has* happened. That's kind of the point, right?\n\nI realized I was explaining it all wrong. So instead of the scary stuff, I just said, 'You know how we keep a first-aid kit in the bathroom even though we're usually fine? This is like that, but for when we have to leave home fast—like if the power goes out or there's a storm and we want to be ready.'\n\nShe nodded. Then she asked if she could pack her stuffed dog in hers. Obviously yes.\n\nI think the best prep talk with kids is the *calm* one—not doom-and-gloom, just practical. 'We have a plan' sounds so much better than 'Something might happen.'\n\nHow do you explain preparedness to your kids without freaking them out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122133146847281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "cf9f9bcf8217f4ceac3fef2ba7884b46618dae7908f17499ac1d743e10eaeadf",
+  "image_key": "gen"
 }

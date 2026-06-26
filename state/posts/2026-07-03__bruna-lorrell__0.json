@@ -1,6 +1,6 @@
 {
   "id": "2026-07-03__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-03",
   "scheduled_time": "10:04",
-  "message": "",
+  "message": "Last spring, my neighbor knocked on my door during that nasty round of storms—power out, trees down everywhere—asking if we had any batteries, bottled water, a radio that didn't need electricity. And for once, *I* was the person with answers instead of frantically calling around asking if anyone had a spare flashlight 😅\n\nI grabbed what we needed from our little weather-ready shelf, and honestly? That moment felt weirdly good. Not in a smug way—just in a \"oh thank goodness we did this\" kind of way.\n\nTurns out, being casually prepared for whatever weather comes your way takes maybe an afternoon and zero drama. Just some basics tucked away that you actually hope you never need.\n\nWhat's one storm prep thing you've already knocked out—or what's on your \"someday\" list?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1188071991047656_122116038147350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "389f3b3a5500837ccc27c67f59785feacb913b5b7c6bda8f5bb9d9b6deb84e17",
+  "image_key": "gen"
 }

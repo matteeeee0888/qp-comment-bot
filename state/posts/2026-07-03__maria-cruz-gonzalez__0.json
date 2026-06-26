@@ -1,6 +1,6 @@
 {
   "id": "2026-07-03__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-03",
   "scheduled_time": "08:07",
-  "message": "",
+  "message": "Last week the power went out for about six hours, and for the first time *ever* I wasn't scrambling around like a headless chicken. I actually had flashlights in the kitchen drawer, a couple of power banks charged and ready, and—this part felt wild—I knew where everything was without panicking.\n\nMy partner was stress-eating all our ice cream (fair response), but I was genuinely... fine? I even had a battery-powered speaker so we weren't sitting in total silence. It sounds small, but being the calm one in the room instead of the person apologizing for being unprepared felt *really* good.\n\nTurns out a little prep work earlier means you get to be the steady presence when things get weird. Not because you're some doomsday expert—just because you took 20 minutes to think ahead.\n\nHave you ever had a moment where being prepared actually saved your sanity?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122116129238914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "df0a75bb2d29417dde354003edd08a6e109dd052c873fc9ad0899ad85a97554a",
+  "image_key": "gen"
 }

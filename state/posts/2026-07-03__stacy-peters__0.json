@@ -1,6 +1,6 @@
 {
   "id": "2026-07-03__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-03",
   "scheduled_time": "18:58",
-  "message": "",
+  "message": "I was packing an emergency kit last week, and my 7-year-old watched me organize water bottles and first-aid stuff into a bag. She asked, 'Mom, are we going somewhere bad?' Broke my heart a little—but also made me realize this is actually a conversation starter, not a scary thing. So I told her: 'No, we're just being ready, like how we keep snacks in the car or have a nightlight for when the power goes out.' Her face totally relaxed. Now she wants to *help* pack the backpacks and calls them our 'just in case bags.' Honestly? Having the kids involved makes it feel less heavy and more like a normal family thing we do together. Plus they actually remember where stuff is when they've helped organize it themselves. Has anyone else found that including your kids in prep makes the whole thing feel less stressful for everyone?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1055885867606549_122118351638848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "090de542baae6654cf6ef4c9a72b6bf251e5bcb761ebb6ec815dfcb1588d5407",
+  "image_key": "gen"
 }

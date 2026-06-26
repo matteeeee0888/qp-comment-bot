@@ -1,6 +1,6 @@
 {
   "id": "2026-07-03__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-03",
   "scheduled_time": "15:42",
-  "message": "",
+  "message": "I've been digging into how to actually *make* a family plan that doesn't feel like a chore, and I found this solid resource that breaks it down into manageable pieces. The whole point is just knowing where to meet up and what to do if things get weird—nothing scary, just practical. Have you and your family ever talked about a simple \"if this happens, we do that\" plan?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "719343644592338_122188843784926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5857e1e7412f8d1b6e2d68a48ab0d3c6fa849e9c4ec0a5874f48bf8625ed66bd",
+  "image_key": "gen"
 }
