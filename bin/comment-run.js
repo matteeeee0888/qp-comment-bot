@@ -23,7 +23,7 @@ const HIDE_RISKY = argv.includes("--hide-risky");
 const PAGE = (() => { const i = argv.indexOf("--page"); return i >= 0 ? argv[i + 1] : ""; })();
 const POSTS_PER_PAGE = 8;
 const MAX_ACTIONS = Number(cfg.commentMaxActionsPerRun || 25);
-const INSPO_MIN_WORDS = Number(process.env.INSPO_MIN_WORDS || 25); // long-comment -> #copywriting
+const INSPO_MIN_WORDS = Number(process.env.INSPO_MIN_WORDS || 50); // long-comment -> #copywriting
 
 const token = await loadToken(cfg.tokenEnvPath);
 const client = new CommentsClient({ token, graphVersion: cfg.graphVersion });
