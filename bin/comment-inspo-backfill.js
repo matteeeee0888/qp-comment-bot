@@ -24,9 +24,10 @@ const argv = process.argv.slice(2);
 const has = (f) => argv.includes(f);
 const getN = (k, d) => { const i = argv.indexOf(k); return i >= 0 ? Number(argv[i + 1]) : d; };
 const DRY = has("--dry");
-const MIN_WORDS = getN("--min-words", Number(process.env.INSPO_MIN_WORDS || 25));
+const MIN_WORDS = getN("--min-words", Number(process.env.INSPO_MIN_WORDS || 50));
 const MAX_POSTS = getN("--max-posts", 50);
 const MAX_SENDS = getN("--max", Infinity);
+const TOP = getN("--top", Infinity); // send only the N longest eligible comments (quality proxy)
 const NO_ADS = has("--no-ads");
 const PAGE = (() => { const i = argv.indexOf("--page"); return i >= 0 ? argv[i + 1] : ""; })();
 
@@ -59,9 +60,10 @@ console.log(`inspo-backfill: ${pages.length} page(s) · min ${MIN_WORDS} words �
   `${NO_ADS ? " · no-ads" : ""}${DRY ? " · DRY (no Slack, no state)" : ""}${MAX_SENDS !== Infinity ? ` · cap ${MAX_SENDS}` : ""}`);
 
 const ads = await adStoriesFor(pages.map((p) => p.page_id));
-let scanned = 0, eligible = 0, sent = 0, skippedSeen = 0;
+let scanned = 0, skippedSeen = 0;
+const cands = []; // collect first, then optionally rank by length and cap (--top)
 
-outer:
+// ---- 1) scan: gather eligible, not-yet-sent candidates ----
 for (const pg of pages) {
   const objects = [];
   try {
@@ -84,22 +86,34 @@ for (const pg of pages) {
       if (!c.message) continue;
       if (c.from && String(c.from.id) === String(pg.page_id)) continue; // skip the page's own comments
       scanned++;
-      if (words(c.message) <= MIN_WORDS) continue;
-      eligible++;
+      const w = words(c.message);
+      if (w <= MIN_WORDS) continue;
       if (seen.has(c.id)) { skippedSeen++; continue; }
-      const label = `[${pg.page_name}${obj.source === "ad" ? " · AD" : ""}] ${words(c.message)}w ${productName(product) || "?"}: "${String(c.message).slice(0, 70).replace(/\s+/g, " ")}"`;
-      if (DRY) { console.log(`  WOULD SEND ${label}`); continue; }
-      if (sent >= MAX_SENDS) { console.log(`cap ${MAX_SENDS} reached — stopping`); break outer; }
-      const res = await sendCopyInspo({ message: c.message, productName: productName(product), pageName: pg.page_name, postUrl, commentId: c.id });
-      seen.add(c.id);
-      if (res.sent === "slack") sent++;
-      console.log(`  ${res.sent === "slack" ? "SENT" : "LOG"} ${label}`);
-      await mkdir(path.dirname(seenFile), { recursive: true }).catch(() => {});
-      await writeFile(seenFile, JSON.stringify([...seen].slice(-20000)), "utf8").catch(() => {});
-      await sleep(1200); // respect Slack rate limits, don't flood the channel
+      cands.push({ id: c.id, message: c.message, product, page: pg.page_name, postUrl, source: obj.source, w });
     }
   }
 }
 
-console.log(`\ninspo-backfill done: scanned ${scanned} comment(s), ${eligible} > ${MIN_WORDS}w` +
+// ---- 2) rank: longest first (a length proxy for "real story" over short complaints) ----
+cands.sort((a, b) => b.w - a.w);
+let pick = cands;
+if (TOP !== Infinity) pick = pick.slice(0, TOP);
+else if (MAX_SENDS !== Infinity) pick = pick.slice(0, MAX_SENDS);
+console.log(`eligible (>${MIN_WORDS}w, unsent): ${cands.length} · sending ${DRY ? "0 (dry)" : pick.length}`);
+
+// ---- 3) send (rate-limited, dedup persisted incrementally) ----
+let sent = 0;
+for (const c of pick) {
+  const label = `[${c.page}${c.source === "ad" ? " · AD" : ""}] ${c.w}w ${productName(c.product) || "?"}: "${String(c.message).slice(0, 70).replace(/\s+/g, " ")}"`;
+  if (DRY) { console.log(`  WOULD SEND ${label}`); continue; }
+  const res = await sendCopyInspo({ message: c.message, productName: productName(c.product), pageName: c.page, postUrl: c.postUrl, commentId: c.id });
+  seen.add(c.id);
+  if (res.sent === "slack") sent++;
+  console.log(`  ${res.sent === "slack" ? "SENT" : "LOG"} ${label}`);
+  await mkdir(path.dirname(seenFile), { recursive: true }).catch(() => {});
+  await writeFile(seenFile, JSON.stringify([...seen].slice(-20000)), "utf8").catch(() => {});
+  await sleep(1200); // respect Slack rate limits, don't flood the channel
+}
+
+console.log(`\ninspo-backfill done: scanned ${scanned} comment(s), ${cands.length} > ${MIN_WORDS}w unsent` +
   `, ${DRY ? "(dry — nothing sent)" : `sent ${sent}`}${skippedSeen ? `, ${skippedSeen} already-sent` : ""}.`);
