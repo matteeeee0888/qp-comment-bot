@@ -3,7 +3,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 11,
+    "active_ads": 15,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -12,7 +12,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 132,
+    "active_ads": 133,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -21,7 +21,7 @@
     "page_id": "1112110298653755",
     "page_name": "Sofia Rossi",
     "topic": "both",
-    "active_ads": 133,
+    "active_ads": 157,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -39,7 +39,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 218,
+    "active_ads": 232,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -84,7 +84,7 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 87,
+    "active_ads": 97,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -102,7 +102,7 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 75,
+    "active_ads": 85,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -120,8 +120,8 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 4,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
