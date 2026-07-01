@@ -21,6 +21,7 @@ import { specToPNG } from "../lib/newsImage.js";
 import { uploadPNG, supabaseReady } from "../lib/supabase.js";
 import { generateBackground, generateFullImage, geminiReady } from "../lib/gemini.js";
 import { generateImage, openaiImageReady } from "../lib/openaiImage.js";
+import { pickStates, buildSpotlightSpec, buyerRank } from "../lib/stateSpotlight.js";
 import { readFile, readdir } from "node:fs/promises";
 
 // Load style-reference images for the geo maps from assets/refs/geo/<kind>/ (locator|radius).
@@ -46,6 +47,8 @@ const NO_LLM = argv.includes("--no-llm");
 const NO_IMAGES = argv.includes("--no-images");
 const NO_GEMINI = argv.includes("--no-gemini");
 const NO_GEO = argv.includes("--no-geo");          // skip the gpt-image-1 geopolitical-map path
+const NO_SPOTLIGHT = argv.includes("--no-spotlight");
+const SPOTLIGHT = parseInt(getArg("--spotlight", "2"), 10);   // dedicated buyer-state spotlight images/run (0 = off)
 const TOP = parseInt(getArg("--top", "8"), 10) || 8;
 const GEO_TOP = parseInt(getArg("--geo-top", "3"), 10) || 3; // max AI geo-map images per run
 const GEO_RESERVE = parseInt(getArg("--geo-reserve", "2"), 10) || 0; // min geo stories forced into the shortlist (0 = pure ranking)
@@ -187,6 +190,7 @@ for (const s of top) {
 if (DRY) { console.log("\n(dry — not writing to the sheet, not seeding the seen-store)"); process.exit(0); }
 
 const todayISO = new Date().toISOString().slice(0, 10);
+const spotlightRows = []; // dedicated buyer-state spotlight images (guaranteed buyer-state coverage)
 
 // 3b. broadcast image per story → Supabase (aggressive mode: every image flagged "REVIEW").
 // Hybrid: if GEMINI_API_KEY is set, Gemini paints a photoreal background and the code overlays the
@@ -239,6 +243,37 @@ if (!NO_IMAGES && (await supabaseReady())) {
   console.log("images skipped — Supabase env not configured");
 }
 
+// 3c. STATE SPOTLIGHT — guaranteed daily coverage of top buyer states (weighted rotation), rendered
+// like the news images (Gemini photo hybrid, else the state map). Independent of what news surfaced.
+if (!NO_SPOTLIGHT && SPOTLIGHT > 0 && !NO_IMAGES && (await supabaseReady())) {
+  const useGemini = !NO_GEMINI && (await geminiReady());
+  const month = new Date().toLocaleString("en-US", { month: "long" });
+  const states = await pickStates(SPOTLIGHT);
+  console.log(`state-spotlight: ${states.map((s) => s.code).join(", ")} (${month})`);
+  for (const st of states) {
+    try {
+      const spec = await buildSpotlightSpec(st, { month });
+      let mode = "code";
+      if (useGemini && spec.scenePrompt) {
+        const bgPng = await generateBackground(spec.scenePrompt);
+        if (bgPng) { spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`; spec.layout = "photo"; spec.callouts = spec.callouts.slice(0, 3); mode = "gemini"; }
+      }
+      const png = await specToPNG(spec);
+      const slug = `spotlight-${st.code.toLowerCase()}-${todayISO}`;
+      const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, png);
+      if (upl.ok) {
+        spotlightRows.push({
+          captured_at: todayISO, brand: spec.brand, headline: `State Spotlight: ${st.state}`,
+          source: "State Spotlight", url: "", score: st.buyers, t: "", e: "", b: "", u: "", m: "",
+          angle: spec._angle, why_now: `Buyer state #${buyerRank(st.code)} (${st.buyers})`,
+          image_url: upl.url, review: "REVIEW", status: "spotlight",
+        });
+        console.log(`SPOT ${st.code} ${spec.hazard} bg=${mode} → ${slug}.png`);
+      } else { console.log(`SPOT upload fail ${st.code}: ${upl.status || upl.error || upl.reason}`); }
+    } catch (e) { console.log(`SPOT err ${st.code}: ${e.message || e}`); }
+  }
+}
+
 // 4. write the shortlist to the News tab
 const rows = top.map((s) => ({
   captured_at: todayISO,
@@ -254,8 +289,8 @@ const rows = top.map((s) => ({
   review: s.review || "",
   status: "new",
 }));
-const res = await archiveNews(rows);
-console.log(`\nsheet write: ${JSON.stringify(res)}`);
+const res = await archiveNews([...rows, ...spotlightRows]);
+console.log(`\nsheet write (${rows.length} news + ${spotlightRows.length} spotlight): ${JSON.stringify(res)}`);
 
 // 5. seed the seen-store with EVERY headline we considered, so tomorrow won't repeat them
 for (const k of consideredKeys) seen.add(k);
