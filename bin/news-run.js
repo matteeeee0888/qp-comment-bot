@@ -17,7 +17,7 @@ import { scoreCandidates } from "../lib/newsBrain.js";
 import { archiveNews } from "../lib/archive.js";
 import { TEXT_ENGINE } from "../lib/text.js";
 import { buildSpec, buildGeoSpec, frameGeoPrompt } from "../lib/imageBrain.js";
-import { specToPNG, to16x9 } from "../lib/newsImage.js";
+import { specToPNG, to16x9, cropToSquare } from "../lib/newsImage.js";
 import { uploadPNG, supabaseReady } from "../lib/supabase.js";
 import { generateBackground, generateFullImage, geminiReady } from "../lib/gemini.js";
 import { generateImage, openaiImageReady } from "../lib/openaiImage.js";
@@ -206,7 +206,7 @@ if (!NO_IMAGES && (await supabaseReady())) {
   let geoMade = 0;
   for (const s of top) {
     try {
-      let png, mode, layoutLabel;
+      let sqPng, widePng, mode, layoutLabel;
       if (s.kind === "geo") {
         // geopolitical/grid/EMP → full broadcast-map image (capped to bound spend / rate).
         // No US-weather fallback: a US tornado map for a Hormuz story would be wrong, so skip instead.
@@ -215,29 +215,39 @@ if (!NO_IMAGES && (await supabaseReady())) {
         const gspec = await buildGeoSpec(s);
         const refs = geoRefs[gspec.mapType] || [];
         const geoPrompt = frameGeoPrompt(gspec, { withRefs: refs.length > 0 });
-        png = geoBackend === "gemini" ? await generateFullImage(geoPrompt, { refs }) : await generateImage(geoPrompt);
-        if (!png) { console.log(`IMG geo gen fail (${geoBackend}) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
+        // Native 16:9 wide (the map is a whole generated image, not re-layoutable) → center-crop the square slot.
+        if (geoBackend === "gemini") {
+          widePng = await generateFullImage(geoPrompt, { refs, aspectRatio: "16:9" });
+          if (widePng) sqPng = cropToSquare(widePng);
+        } else {
+          sqPng = await generateImage(geoPrompt);                 // gpt-image-1 (square); dead billing fallback
+          if (sqPng) { try { widePng = to16x9(sqPng); } catch {} } // last-resort blur only on the dead path
+        }
+        if (!sqPng) { console.log(`IMG geo gen fail (${geoBackend}) ${s.brand}: ${titleKey(s.title).slice(0, 40)}`); continue; }
         mode = geoBackend === "gemini" ? `gemini-img${refs.length ? `+${refs.length}ref` : ""}` : "gpt-image-1"; layoutLabel = `geo/${gspec.mapType}`; geoMade++;
       } else {
         const spec = await buildSpec(s);
         mode = "code";
         if (useGemini && spec.scenePrompt) {
-          const bgPng = await generateBackground(spec.scenePrompt);
-          if (bgPng) {
-            spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`;
-            spec.layout = "photo";                  // photo-dominant hybrid: the Gemini scene is the hero
-            spec.callouts = (spec.callouts || []).slice(0, 3);
-            mode = "gemini";
-          }
+          const bgPng = await generateBackground(spec.scenePrompt);   // ONE native-16:9 scene feeds both formats
+          if (bgPng) { spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`; mode = "gemini"; }
         }
-        png = await specToPNG(spec);
-        layoutLabel = `${spec.layout}/${spec.hazard}`;
+        // SQUARE (1080²): photo-dominant when a Gemini scene landed (3 callouts), else the code map/card.
+        const sqSpec = { ...spec };
+        if (spec.bgDataUri) { sqSpec.layout = "photo"; sqSpec.callouts = (spec.callouts || []).slice(0, 3); }
+        sqPng = await specToPNG(sqSpec);
+        // WIDE 16:9 (1920×1080): bigger states — big map over the photo when the story is geographic,
+        // else photo-hero (or the code card). 4 callouts spread into the wide corners.
+        const hasStates = (spec.regionStates || []).length > 0;
+        const wideSpec = { ...spec, wide: true, layout: hasStates ? "map" : (spec.bgDataUri ? "photo" : (spec.layout || "card")), callouts: (spec.callouts || []).slice(0, 4) };
+        widePng = await specToPNG(wideSpec);
+        layoutLabel = `${sqSpec.layout || (hasStates ? "map" : "card")}->${wideSpec.layout}/${spec.hazard}`;
       }
       const slug = `${s.brand}-${titleKey(s.title).replace(/\s+/g, "-").slice(0, 40)}`;
-      const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, png);
+      const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, sqPng);
       if (upl.ok) {
         s.image_url = upl.url; s.review = "REVIEW";
-        try { const w = await uploadPNG(`news/${todayISO}/${slug}-16x9.png`, to16x9(png)); if (w.ok) s.image_16x9 = w.url; } catch (e) { console.log(`  16x9 fail ${s.brand}: ${e.message || e}`); }
+        if (widePng) { try { const w = await uploadPNG(`news/${todayISO}/${slug}-16x9.png`, widePng); if (w.ok) s.image_16x9 = w.url; } catch (e) { console.log(`  16x9 fail ${s.brand}: ${e.message || e}`); } }
         console.log(`IMG  ${s.brand} ${layoutLabel} bg=${mode} → ${slug}.png${s.image_16x9 ? " +16x9" : ""}`);
       }
       else { console.log(`IMG upload fail ${s.brand}: ${upl.status || upl.error || upl.reason}`); }
@@ -259,15 +269,20 @@ if (!NO_SPOTLIGHT && SPOTLIGHT > 0 && !NO_IMAGES && (await supabaseReady())) {
       const spec = await buildSpotlightSpec(st, { month });
       let mode = "code";
       if (useGemini && spec.scenePrompt) {
-        const bgPng = await generateBackground(spec.scenePrompt);
-        if (bgPng) { spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`; spec.layout = "photo"; spec.callouts = spec.callouts.slice(0, 3); mode = "gemini"; }
+        const bgPng = await generateBackground(spec.scenePrompt);       // native 16:9 scene for both formats
+        if (bgPng) { spec.bgDataUri = `data:image/png;base64,${bgPng.toString("base64")}`; mode = "gemini"; }
       }
-      const png = await specToPNG(spec);
+      // SQUARE: photo-dominant when a scene landed (3 callouts), else the code state map.
+      const sqSpec = { ...spec };
+      if (spec.bgDataUri) { sqSpec.layout = "photo"; sqSpec.callouts = (spec.callouts || []).slice(0, 3); }
+      const png = await specToPNG(sqSpec);
+      // WIDE 16:9: the spotlighted state, BIG, over the photo (spotlight always has one region state).
+      const widePng = await specToPNG({ ...spec, wide: true, layout: "map", callouts: (spec.callouts || []).slice(0, 4) });
       const slug = `spotlight-${st.code.toLowerCase()}-${todayISO}`;
       const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, png);
       if (upl.ok) {
         let wide = "";
-        try { const w = await uploadPNG(`news/${todayISO}/${slug}-16x9.png`, to16x9(png)); if (w.ok) wide = w.url; } catch (e) { console.log(`  16x9 fail ${st.code}: ${e.message || e}`); }
+        try { const w = await uploadPNG(`news/${todayISO}/${slug}-16x9.png`, widePng); if (w.ok) wide = w.url; } catch (e) { console.log(`  16x9 fail ${st.code}: ${e.message || e}`); }
         spotlightRows.push({
           captured_at: todayISO, brand: spec.brand, headline: `State Spotlight: ${st.state}`,
           source: "State Spotlight", url: "", score: st.buyers, t: "", e: "", b: "", u: "", m: "",
