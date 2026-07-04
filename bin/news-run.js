@@ -17,7 +17,7 @@ import { scoreCandidates } from "../lib/newsBrain.js";
 import { archiveNews } from "../lib/archive.js";
 import { TEXT_ENGINE } from "../lib/text.js";
 import { buildSpec, buildGeoSpec, frameGeoPrompt } from "../lib/imageBrain.js";
-import { specToPNG } from "../lib/newsImage.js";
+import { specToPNG, to16x9 } from "../lib/newsImage.js";
 import { uploadPNG, supabaseReady } from "../lib/supabase.js";
 import { generateBackground, generateFullImage, geminiReady } from "../lib/gemini.js";
 import { generateImage, openaiImageReady } from "../lib/openaiImage.js";
@@ -235,7 +235,11 @@ if (!NO_IMAGES && (await supabaseReady())) {
       }
       const slug = `${s.brand}-${titleKey(s.title).replace(/\s+/g, "-").slice(0, 40)}`;
       const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, png);
-      if (upl.ok) { s.image_url = upl.url; s.review = "REVIEW"; console.log(`IMG  ${s.brand} ${layoutLabel} bg=${mode} → ${slug}.png`); }
+      if (upl.ok) {
+        s.image_url = upl.url; s.review = "REVIEW";
+        try { const w = await uploadPNG(`news/${todayISO}/${slug}-16x9.png`, to16x9(png)); if (w.ok) s.image_16x9 = w.url; } catch (e) { console.log(`  16x9 fail ${s.brand}: ${e.message || e}`); }
+        console.log(`IMG  ${s.brand} ${layoutLabel} bg=${mode} → ${slug}.png${s.image_16x9 ? " +16x9" : ""}`);
+      }
       else { console.log(`IMG upload fail ${s.brand}: ${upl.status || upl.error || upl.reason}`); }
     } catch (e) { console.log(`IMG err ${s.brand}: ${e.message || e}`); }
   }
@@ -262,13 +266,15 @@ if (!NO_SPOTLIGHT && SPOTLIGHT > 0 && !NO_IMAGES && (await supabaseReady())) {
       const slug = `spotlight-${st.code.toLowerCase()}-${todayISO}`;
       const upl = await uploadPNG(`news/${todayISO}/${slug}.png`, png);
       if (upl.ok) {
+        let wide = "";
+        try { const w = await uploadPNG(`news/${todayISO}/${slug}-16x9.png`, to16x9(png)); if (w.ok) wide = w.url; } catch (e) { console.log(`  16x9 fail ${st.code}: ${e.message || e}`); }
         spotlightRows.push({
           captured_at: todayISO, brand: spec.brand, headline: `State Spotlight: ${st.state}`,
           source: "State Spotlight", url: "", score: st.buyers, t: "", e: "", b: "", u: "", m: "",
           angle: spec._angle, why_now: `Buyer state #${buyerRank(st.code)} (${st.buyers})`,
-          image_url: upl.url, review: "REVIEW", status: "spotlight",
+          image_url: upl.url, image_16x9: wide, review: "REVIEW", status: "spotlight",
         });
-        console.log(`SPOT ${st.code} ${spec.hazard} bg=${mode} → ${slug}.png`);
+        console.log(`SPOT ${st.code} ${spec.hazard} bg=${mode} → ${slug}.png${wide ? " +16x9" : ""}`);
       } else { console.log(`SPOT upload fail ${st.code}: ${upl.status || upl.error || upl.reason}`); }
     } catch (e) { console.log(`SPOT err ${st.code}: ${e.message || e}`); }
   }
@@ -286,6 +292,7 @@ const rows = top.map((s) => ({
   angle: s.angle,
   why_now: s.why,
   image_url: s.image_url || "",
+  image_16x9: s.image_16x9 || "",
   review: s.review || "",
   status: "new",
 }));
