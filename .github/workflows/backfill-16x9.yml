@@ -41,7 +41,8 @@ jobs:
       - run: npm install --no-audit --no-fund
       - name: Backfill native 16:9 for every existing News image
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TEXT_ENGINE: openai                                  # Anthropic balance drained → OpenAI gpt-4o-mini for buildSpec
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
