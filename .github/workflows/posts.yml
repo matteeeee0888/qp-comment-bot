@@ -27,7 +27,9 @@ jobs:
         run: node bin/build-map.js || echo "map refresh skipped — using committed page-topic-map.json"
       - name: Generate today's posts
         env:
+          TEXT_ENGINE: openai                               # Anthropic drained → OpenAI gpt-4o-mini
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node bin/generate-day.js
       - name: Schedule on Facebook
         env:

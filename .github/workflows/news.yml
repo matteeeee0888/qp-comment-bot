@@ -33,6 +33,7 @@ jobs:
       - run: npm install --no-audit --no-fund
       - name: Discover, score & write the news shortlist
         env:
+          TEXT_ENGINE: openai                               # Anthropic drained → OpenAI gpt-4o-mini for scoring + specs
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SHEET_WEBHOOK_URL: ${{ secrets.SHEET_WEBHOOK_URL }}
           SHEET_WEBHOOK_TOKEN: ${{ secrets.SHEET_WEBHOOK_TOKEN }}
