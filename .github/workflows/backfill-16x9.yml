@@ -1,0 +1,57 @@
+name: backfill-16x9
+# One-time (manual) backfill: give every existing News-tab image a NATIVE 16:9 companion in Supabase
+# without touching the square. Reconstructs each story from its slug, paints a native-16:9 Gemini
+# scene, renders the wide layout (bigger states), and uploads <slug>-16x9.png. Idempotent + resumable.
+# Secrets required: ANTHROPIC_API_KEY, GEMINI_API_KEY, SUPABASE_URL/SERVICE_ROLE_KEY/BUCKET.
+on:
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Only days >= this date (YYYY-MM-DD). Empty = all history."
+        type: string
+        default: ""
+      limit:
+        description: "Max images this run (0 = no cap)."
+        type: string
+        default: "0"
+      force:
+        description: "Regenerate even if the -16x9 already exists"
+        type: boolean
+        default: false
+      dry:
+        description: "List what would be done, upload nothing"
+        type: boolean
+        default: false
+      allow_codeonly:
+        description: "Final mop-up: upload even when the photo scene failed (code-only 16:9)"
+        type: boolean
+        default: false
+concurrency:
+  group: backfill-16x9
+  cancel-in-progress: false
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: npm install --no-audit --no-fund
+      - name: Backfill native 16:9 for every existing News image
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
+        run: |
+          ARGS=""
+          [ -n "${{ github.event.inputs.since }}" ] && ARGS="$ARGS --since ${{ github.event.inputs.since }}"
+          [ "${{ github.event.inputs.limit }}" != "0" ] && ARGS="$ARGS --limit ${{ github.event.inputs.limit }}"
+          [ "${{ github.event.inputs.force }}" = "true" ] && ARGS="$ARGS --force"
+          [ "${{ github.event.inputs.dry }}" = "true" ] && ARGS="$ARGS --dry"
+          [ "${{ github.event.inputs.allow_codeonly }}" = "true" ] && ARGS="$ARGS --allow-codeonly"
+          echo "running: node bin/backfill-16x9.js $ARGS"
+          node bin/backfill-16x9.js $ARGS
