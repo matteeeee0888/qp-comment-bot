@@ -76,13 +76,21 @@ async function act(b, c, pg, product, source) {
   const head = `[${pg.page_name}${source === "ad" ? " · AD" : ""}] ${b.category} — "${String(c.message).slice(0, 60)}"`;
   if (b.action === "escalate") {
     const res = await sendAlert({ comment: c, page: pg, product, category: b.category, stamp: new Date().toISOString() });
-    if (LIVE && HIDE_RISKY) { try { await client.hide(c.id, pg.page_id); } catch {} }
+    if (LIVE && HIDE_RISKY) { try { if (!(await client.replies(c.id, pg.page_id)).length) await client.hide(c.id, pg.page_id); } catch {} }
     console.log(`${head} → ESCALATE (alert: ${res.sent})${LIVE && HIDE_RISKY ? " + hidden" : ""}`);
     return;
   }
   if (b.action === "hide") {
-    if (LIVE) { try { await client.hide(c.id, pg.page_id); } catch (e) { console.log(`  hide err: ${e.message}`); } }
-    console.log(`${head} → ${LIVE ? "HIDDEN" : "would hide"}`);
+    if (!LIVE) { console.log(`${head} → would hide`); return; }
+    try {
+      // Hiding a parent comment hides its ENTIRE reply thread on Facebook. If the customer-care team
+      // (or the bot) already replied under it, hiding makes that reply vanish — the reported bug.
+      // So never hide a comment that already has replies; only silence truly untouched spam.
+      const existing = await client.replies(c.id, pg.page_id);
+      if (existing.length) { console.log(`${head} → hide SKIPPED (${existing.length} repl${existing.length > 1 ? "ies" : "y"} present — would nuke the thread)`); return; }
+      await client.hide(c.id, pg.page_id);
+      console.log(`${head} → HIDDEN`);
+    } catch (e) { console.log(`  hide err: ${e.message}`); }
     return;
   }
   if (b.action === "ignore") { console.log(`${head} → ignored (no engagement)`); return; }
