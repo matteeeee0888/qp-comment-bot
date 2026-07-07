@@ -71,6 +71,14 @@ console.log(`ad/dark-post objects: ${[...adStories.values()].reduce((n, s) => n 
 let handled = 0;
 const tally = {};
 
+// Only OBVIOUS link/promo spam gets hidden (policy 2026-07-07): a URL or a promo hook. Short or
+// ambiguous "spam" (a lone letter, an emoji, a troll word) is left visible — the classifier over-fires.
+function hasLinkOrPromo(text) {
+  const t = String(text || "");
+  return /(https?:\/\/|www\.[a-z0-9-]+\.[a-z]{2,}|\b[a-z0-9-]{2,}\.(?:com|net|org|io|co|shop|store|xyz|info|biz|link|online|site|app|click|ly|me)\b)/i.test(t)
+    || /\b(dm me|message me|click (?:here|the link)|check (?:out )?my (?:page|profile|bio)|link in bio|cash ?app|venmo|whats ?app|telegram|t\.me|wa\.me|bit\.ly|forex|crypto|bitcoin|invest(?:ment|or)?|earn \$?\d|make (?:money|\$)|work from home|giveaway|you(?:'ve| have) won)\b/i.test(t);
+}
+
 async function act(b, c, pg, product, source) {
   tally[b.category] = (tally[b.category] || 0) + 1;
   const head = `[${pg.page_name}${source === "ad" ? " · AD" : ""}] ${b.category} — "${String(c.message).slice(0, 60)}"`;
@@ -82,14 +90,16 @@ async function act(b, c, pg, product, source) {
   }
   if (b.action === "hide") {
     if (!LIVE) { console.log(`${head} → would hide`); return; }
+    // Policy: only hide OBVIOUS link/promo spam. Leave short/ambiguous "spam" (a lone "R", an emoji, a
+    // troll word) visible — the classifier over-fires and was hiding legit comments.
+    if (!hasLinkOrPromo(c.message)) { console.log(`${head} → not hidden (no link/promo — left visible)`); return; }
     try {
-      // Hiding a parent comment hides its ENTIRE reply thread on Facebook. If the customer-care team
-      // (or the bot) already replied under it, hiding makes that reply vanish — the reported bug.
-      // So never hide a comment that already has replies; only silence truly untouched spam.
+      // Hiding a parent comment hides its ENTIRE reply thread on Facebook. If someone already replied
+      // under it (e.g. customer care), hiding makes that reply vanish — so skip if it has any replies.
       const existing = await client.replies(c.id, pg.page_id);
       if (existing.length) { console.log(`${head} → hide SKIPPED (${existing.length} repl${existing.length > 1 ? "ies" : "y"} present — would nuke the thread)`); return; }
       await client.hide(c.id, pg.page_id);
-      console.log(`${head} → HIDDEN`);
+      console.log(`${head} → HIDDEN (link/promo spam)`);
     } catch (e) { console.log(`  hide err: ${e.message}`); }
     return;
   }
