@@ -21,7 +21,7 @@
     "page_id": "1112110298653755",
     "page_name": "Sofia Rossi",
     "topic": "both",
-    "active_ads": 177,
+    "active_ads": 174,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -39,7 +39,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 373,
+    "active_ads": 367,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -102,7 +102,7 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 83,
+    "active_ads": 77,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -120,8 +120,8 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 8,
-    "tier": "LOW",
+    "active_ads": 22,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
