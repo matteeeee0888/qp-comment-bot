@@ -3,7 +3,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 31,
+    "active_ads": 46,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -12,7 +12,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 150,
+    "active_ads": 65,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -39,7 +39,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 375,
+    "active_ads": 373,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -48,8 +48,8 @@
     "page_id": "1092442657286729",
     "page_name": "Elizabeth Willis",
     "topic": "both",
-    "active_ads": 1,
-    "tier": "LOW",
+    "active_ads": 63,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
@@ -66,7 +66,7 @@
     "page_id": "1031788496687467",
     "page_name": "Tamika Jones",
     "topic": "both",
-    "active_ads": 70,
+    "active_ads": 71,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -84,7 +84,7 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 68,
+    "active_ads": 66,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -102,7 +102,7 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 85,
+    "active_ads": 83,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
