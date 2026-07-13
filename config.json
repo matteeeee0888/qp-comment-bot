@@ -8,15 +8,68 @@
     "endHour": 20
   },
   "tiers": {
-    "HIGH": { "minActiveAds": 50, "daysPattern": [1, 1, 1, 1, 1, 1, 1] },
-    "MID": { "minActiveAds": 10, "daysPattern": [1, 1, 1, 1, 1, 1, 1] },
-    "LOW": { "minActiveAds": 1, "daysPattern": [1, 1, 1, 1, 1, 1, 1] },
-    "DORMANT": { "minActiveAds": 0, "daysPattern": [1, 1, 1, 1, 1, 1, 1] }
+    "HIGH": {
+      "minActiveAds": 50,
+      "daysPattern": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "MID": {
+      "minActiveAds": 10,
+      "daysPattern": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "LOW": {
+      "minActiveAds": 1,
+      "daysPattern": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "DORMANT": {
+      "minActiveAds": 0,
+      "daysPattern": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
   },
   "alwaysInclude": {
-    "1127031013825481": { "name": "Lauren Gargulio", "tier": "MID" },
-    "1188071991047656": { "name": "Bruna Lorrell", "tier": "MID" },
-    "1112110298653755": { "name": "Sofia Rossi", "tier": "MID" }
+    "1127031013825481": {
+      "name": "Lauren Gargulio",
+      "tier": "MID"
+    },
+    "1188071991047656": {
+      "name": "Bruna Lorrell",
+      "tier": "MID"
+    },
+    "1112110298653755": {
+      "name": "Sofia Rossi",
+      "tier": "MID"
+    }
   },
   "includePageIds": [
     "1127031013825481",
@@ -35,10 +88,17 @@
     "1059660273889438",
     "911963812004163",
     "768075889726058",
-    "719343644592338"
+    "719343644592338",
+    "1127112887142637",
+    "1125598737305596",
+    "1040285485838757",
+    "1057436950790838",
+    "1131155456740150",
+    "939630525911349",
+    "1029190046952177"
   ],
   "commentExcludePageIds": [],
-  "commentMaxActionsPerRun": 100,
+  "commentMaxActionsPerRun": 50,
   "weekStartMode": "today",
   "bufferDays": 7,
   "maxScaffoldsPerRun": 200,
