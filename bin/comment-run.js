@@ -44,12 +44,15 @@ const pages = (PAGE ? map.filter((m) => m.page_id === PAGE) : map.filter((m) => 
 console.log(`comment-run: ${pages.length} page(s) ${LIVE ? "LIVE" : "DRY (no actions)"}${exclude.size ? ` · excluding ${exclude.size}` : ""}`);
 
 // Ad/dark-post discovery is expensive — cache it (refresh ~hourly) so a 10-min cron doesn't hammer the API.
+// The cache records WHICH pages it was built for: if the page list changes (a new page activated),
+// it's stale regardless of TTL — otherwise a fresh cache from the old list hides the new pages' ads.
 async function loadAdStoriesCached(pageIds) {
   const file = path.join(repoRoot, "state/ad-stories.json");
   const TTL = 45 * 60 * 1000;
+  const want = [...pageIds].sort().join(",");
   try {
     const c = JSON.parse(await readFile(file, "utf8"));
-    if (c.ts && Date.now() - c.ts < TTL) {
+    if (c.ts && Date.now() - c.ts < TTL && c.pages === want) {
       const m = new Map();
       for (const [k, v] of Object.entries(c.byPage || {})) m.set(k, new Set(v));
       return m;
@@ -61,7 +64,7 @@ async function loadAdStoriesCached(pageIds) {
   const byPage = {};
   for (const [k, v] of m) byPage[k] = [...v];
   await mkdir(path.dirname(file), { recursive: true }).catch(() => {});
-  await writeFile(file, JSON.stringify({ ts: Date.now(), byPage })).catch(() => {});
+  await writeFile(file, JSON.stringify({ ts: Date.now(), pages: want, byPage })).catch(() => {});
   return m;
 }
 
