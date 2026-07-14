@@ -1,6 +1,6 @@
 {
   "id": "2026-07-19__nancy-nichols__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "939630525911349",
   "page_name": "Nancy Nichols",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-19",
   "scheduled_time": "15:43",
-  "message": "",
+  "message": "Planning for emergencies is just as important for our furry friends as it is for us! This resource offers practical tips on how to create a family emergency plan that includes your pets. Have you thought about what your pup would need in case of an unexpected situation?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "939630525911349_122120293701024743",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9b71bb0175917e1b4d7af81f95d135c84d9bc6fd31e28241dae48faafd5efe07",
+  "image_key": "gen"
 }

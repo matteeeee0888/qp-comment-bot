@@ -1,6 +1,6 @@
 {
   "id": "2026-07-20__lori-clay__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1131155456740150",
   "page_name": "Lori Clay",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-20",
   "scheduled_time": "10:48",
-  "message": "",
+  "message": "Planning for emergencies is just as important for our furry friends as it is for us! This resource offers practical tips on how to include your pets in your emergency plans, ensuring everyone stays safe and sound. How do you prepare your pets for the unexpected?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1131155456740150_122118404582733282",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "28dc400ec101803a63b67bac8265a8d778d44dea3883456078f6890a8f83dfb5",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__caroline-williams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1040285485838757",
   "page_name": "Caroline Williams",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "14:31",
-  "message": "",
+  "message": "Dogs are part of our families, and just like us, they need to be prepared for emergencies too! This resource helps you think through what to include in your emergency kit for your furry friend, so you can keep them safe and comfortable. What’s one item you think is essential for your dog’s kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1040285485838757_122120893682983125",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4e723574581dc1b4a759b9b189e9ade6b59ed71d26b9ba73e3552c365b135e7f",
+  "image_key": "gen"
 }

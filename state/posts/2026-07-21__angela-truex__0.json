@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__angela-truex__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127112887142637",
   "page_name": "Angela Truex",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "11:15",
-  "message": "",
+  "message": "Having a furry friend means we need to keep their needs in mind when planning for emergencies too! This resource helps you create a thoughtful family plan that includes every member, even the four-legged ones. How do you include your pets in your preparedness plans?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1127112887142637_122123645234811460",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c147aaf8e8632e6d1bc81209de6f23a4fa5a1de53c8cab6dc29611d129258438",
+  "image_key": "gen"
 }

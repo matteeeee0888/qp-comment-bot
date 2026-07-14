@@ -1,6 +1,6 @@
 {
   "id": "2026-07-19__susan-miller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1029190046952177",
   "page_name": "Susan Miller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-19",
   "scheduled_time": "18:47",
-  "message": "",
+  "message": "Planning ahead can make all the difference in staying calm during unexpected events. This resource offers practical steps to help you create a solid emergency plan for your family. How do you like to prepare for the unexpected?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1029190046952177_122121327122744881",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c96880fa3728270971782adfb8dea2ee9995a5b175d99acc9984d0093db1009e",
+  "image_key": "gen"
 }

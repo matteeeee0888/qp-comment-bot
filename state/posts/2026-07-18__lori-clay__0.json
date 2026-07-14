@@ -1,6 +1,6 @@
 {
   "id": "2026-07-18__lori-clay__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1131155456740150",
   "page_name": "Lori Clay",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-18",
   "scheduled_time": "18:53",
-  "message": "",
+  "message": "The other day, my kids were at it again—arguing over who gets to walk our dog first. I mean, you'd think they were competing for the Olympic gold medal in dog-walking! 🐶 After a few minutes of back-and-forth, I decided to step in and settle the debate. We made a quick list of who walks when, and I even threw in some fun tasks like 'who can teach the dog the best trick.' \n\nIt was a win-win! Not only did it diffuse the tension, but it also got us all thinking about how to work as a team—something we might need to do in case of any surprises at home. You never know when a little organization can go a long way! \n\nHave you ever had to mediate a sibling showdown? What worked for you?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1131155456740150_122118404504733282",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "fd6b003230740b8d80aeba30735cd0405d5bbc0970a55cf2cb44f6d5832b10ae",
+  "image_key": "gen"
 }

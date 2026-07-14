@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "10:01",
-  "message": "",
+  "message": "The other day, I was cleaning out my pantry (a thrilling Saturday, I know!) when I stumbled upon a stash of canned goods I forgot I had. With a storm warning looming, I realized this little find was more than just a dusty can of beans—it was a small win for my preparedness game! \n\nI took a moment to organize everything, checked the expiration dates, and even whipped up a hearty soup with some of them. It felt good knowing I had some essentials ready to go, just in case. \n\nSometimes, it’s the little things that can make a big difference. Have you had any small wins in your prep journey lately? This little refresher helped me, too!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1188071991047656_122121616167350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f64f0c31aacd8ff50000a387c675bcfb93c5d660fff0da4eebac2fa2aafc9879",
+  "image_key": "gen"
 }

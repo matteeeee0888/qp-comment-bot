@@ -1,6 +1,6 @@
 {
   "id": "2026-07-18__susan-miller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1029190046952177",
   "page_name": "Susan Miller",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-18",
   "scheduled_time": "18:53",
-  "message": "",
+  "message": "The other day, I was in the kitchen trying out a new recipe. You know, the kind that *seems* easy until you're juggling timers and trying not to burn the garlic. Well, just as I was about to toss the pasta, I heard a faint beep. My smoke alarm! \n\nI had just replaced the batteries last month during my routine check, and it was such a small win that made a big difference. I rushed to check on the garlic, and thankfully, it was just a little too brown but not burnt! \n\nThat little reminder made me think about how important it is to stay on top of home fire safety, like having an escape plan and checking those alarms regularly. If you haven’t done a check-up lately, this little refresher helped me feel more prepared. \n\nHave you had any small wins in fire safety lately?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1029190046952177_122121327092744881",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "753579f48a2e00a591380108a168fb7f9f8f2f1e5f74cbcd3f2b45a03759cd1c",
+  "image_key": "gen"
 }

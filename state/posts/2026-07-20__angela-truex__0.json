@@ -1,6 +1,6 @@
 {
   "id": "2026-07-20__angela-truex__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127112887142637",
   "page_name": "Angela Truex",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-20",
   "scheduled_time": "19:14",
-  "message": "",
+  "message": "The other day, I found myself sitting on the porch with my dog, Benny, watching him chase after a stick. It hit me—sometimes the best fun doesn’t come from a store but from the simple things. We had a whole afternoon of low-tech joy, just him and that stick. It reminded me how important it is to have a plan for our furry friends, especially when it comes to keeping them safe during emergencies. A little refresher on pet preparedness can go a long way! Have you ever had one of those simple, joyful moments with your pets?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1127112887142637_122123645186811460",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "0a9a10b36e47043d0d6ad155b64cc8ab9224906ce446fd14d76f2d0061a6f087",
+  "image_key": "gen"
 }

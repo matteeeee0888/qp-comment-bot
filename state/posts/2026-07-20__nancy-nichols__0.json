@@ -1,6 +1,6 @@
 {
   "id": "2026-07-20__nancy-nichols__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "939630525911349",
   "page_name": "Nancy Nichols",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-20",
   "scheduled_time": "19:44",
-  "message": "",
+  "message": "Planning for emergencies isn’t just about people—it includes our furry friends too! This resource offers handy tips on how to prepare a plan that keeps everyone safe and sound, including your beloved dog. How do you include your pets in your family plans?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "939630525911349_122120293731024743",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2e2f2949588be0f06e8b5e8fe1287d6c4ce9b132e8b27c02695d348924b838ed",
+  "image_key": "gen"
 }

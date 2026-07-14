@@ -1,6 +1,6 @@
 {
   "id": "2026-07-20__diane-foster__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1057436950790838",
   "page_name": "Diane Foster",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-20",
   "scheduled_time": "16:26",
-  "message": "",
+  "message": "The other day, I was out for a walk with my pup, Charlie, when he decided that chasing a squirrel was far more important than sticking to our path. As I watched him dart off, I realized I hadn’t taken the time to practice our recall commands lately. Thankfully, I remembered my little trick: I always carry treats in my pocket! With a little shake of the bag and a cheerful call, Charlie came bounding back, tail wagging like he just won a prize.\n\nIt was such a small win, but it felt great knowing that a bit of preparedness turned a potential chaos into a fun moment instead. Plus, I think Charlie enjoyed the treats just as much as the chase! \n\nHave you ever had a little win like that with your furry friend?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1057436950790838_122117434220699732",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2647c0a19a25cc79df702f326d8d3cb1da2da1a62b5020e80a6b343bb66030f0",
+  "image_key": "gen"
 }

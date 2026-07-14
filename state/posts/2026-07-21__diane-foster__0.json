@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__diane-foster__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1057436950790838",
   "page_name": "Diane Foster",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "08:27",
-  "message": "",
+  "message": "Planning for emergencies can feel overwhelming, but it’s a lot easier with a solid guide. This resource offers practical steps to help you create a family plan, including our furry friends! How do you include your pets in your preparation plans?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1057436950790838_122117434364699732",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "8986bf54935caf07a1372e2d44e6fe8c9b5df9a7687bf81e33568681e596354c",
+  "image_key": "gen"
 }

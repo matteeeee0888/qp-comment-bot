@@ -1,6 +1,6 @@
 {
   "id": "2026-07-20__susan-miller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1029190046952177",
   "page_name": "Susan Miller",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-20",
   "scheduled_time": "10:48",
-  "message": "",
+  "message": "Hey friends! Power outages can happen anytime, and being prepared makes a big difference. I found a great resource from the Red Cross that covers some handy tips to help you navigate those dark moments with ease. What’s your go-to comfort activity when the lights go out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1029190046952177_122121327176744881",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ed035491c0a0e7cbc665028cc11530bdbac7519663f3d26c7d51acda5114d6a8",
+  "image_key": "gen"
 }

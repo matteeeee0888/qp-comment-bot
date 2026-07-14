@@ -1,6 +1,6 @@
 {
   "id": "2026-07-20__barbara-brown__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1125598737305596",
   "page_name": "Barbara Brown",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-20",
   "scheduled_time": "19:29",
-  "message": "",
+  "message": "Planning for emergencies isn't just about people; our furry friends need a plan too! This resource offers thoughtful tips on how to include pets in your family emergency plans. Have you thought about what your pet would need in an emergency?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1125598737305596_122123448429338776",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "077125fd881c23f79677161c0a48ae5c2c6fd64de1278feb61ae973a889cdc3a",
+  "image_key": "gen"
 }

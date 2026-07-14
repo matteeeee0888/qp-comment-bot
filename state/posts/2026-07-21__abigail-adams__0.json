@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "17:40",
-  "message": "",
+  "message": "The other night, we experienced a surprise blackout. Just as I was settling down with my favorite show, poof—darkness! After a few startled moments, I fumbled around for our trusty flashlight and then grabbed the portable power bank to keep our phones charged. I dug out the lanterns too, which made the living room feel cozy instead of creepy.\n\nThen came the best part: our family group chat lit up with messages. Everyone was sharing their own blackout stories—my sister reminisced about the time she tried to cook in the dark (spoiler: it did not end well), and my dad sent a hilarious meme about camping indoors. It turned into a mini party, with everyone sending funny photos of their makeshift setups.\n\nIt reminded me how important it is to have a few backup plans in place for moments like these. Staying connected and cozy can turn an unexpected outage into a fun memory. \n\nHave you ever had a fun experience during a power outage? I'd love to hear your stories! This little refresher helped too!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "911963812004163_122134854189187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6b120add57cdf5567f9718e53196e1c2e12f99bc5be31c7a7e816cc029846957",
+  "image_key": "gen"
 }

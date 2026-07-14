@@ -1,6 +1,6 @@
 {
   "id": "2026-07-18__diane-foster__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1057436950790838",
   "page_name": "Diane Foster",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-18",
   "scheduled_time": "12:31",
-  "message": "",
+  "message": "Planning for emergencies isn’t just for humans; our furry friends need a plan too! This resource offers practical tips for including your pets in your family’s preparedness efforts. What’s one thing you’ve done to keep your pets safe during unexpected situations?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1057436950790838_122117433968699732",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "a2c7270eb0d6124a54cc2eab8f4c48d6031175e5aac0f975028eb58d08cde611",
+  "image_key": "gen"
 }

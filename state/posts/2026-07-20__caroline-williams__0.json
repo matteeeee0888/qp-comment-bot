@@ -1,6 +1,6 @@
 {
   "id": "2026-07-20__caroline-williams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1040285485838757",
   "page_name": "Caroline Williams",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-20",
   "scheduled_time": "10:30",
-  "message": "",
+  "message": "Planning for emergencies is a bit like walking your dog—it's all about being prepared for the unexpected! I found a great resource that helps you create a family emergency plan, which is super useful for keeping everyone (including our furry friends) safe. What's one thing you always make sure to include in your emergency prep?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1040285485838757_122120893628983125",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9533a490a7d03987b891cad6247a55fb9ea138d422b7a085e607c00948d9b295",
+  "image_key": "gen"
 }

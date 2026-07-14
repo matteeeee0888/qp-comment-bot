@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__barbara-brown__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1125598737305596",
   "page_name": "Barbara Brown",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "11:30",
-  "message": "",
+  "message": "The other day, our pup Max decided it was time to stage a full-on protest against bath time. 🐾 It started with the usual barking, which quickly escalated into a family group chat with everyone chiming in from different rooms. My husband was trying to coax him with treats, while the kids were debating whether it was fair to force him into the tub. The chat was a hilarious mix of memes, encouragements, and even a few 'Max is winning this one' comments. \n\nIn the end, we all rallied together, and I think we learned a thing or two about teamwork (and maybe a little about bribing dogs!). It made me think about how important it is to have a plan for when things get a little chaotic, whether it’s a bath time battle or something bigger. \n\nI found this little refresher helpful for keeping our family prepared. Have you ever had a hilarious family debate like that? What’s your go-to strategy for family teamwork?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1125598737305596_122123448501338776",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4ad42f5aea724f69a4cfe3c783c14ee2a86828e71d706d8a0808c5172fc38545",
+  "image_key": "gen"
 }

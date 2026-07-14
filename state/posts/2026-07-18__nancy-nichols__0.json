@@ -1,6 +1,6 @@
 {
   "id": "2026-07-18__nancy-nichols__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "939630525911349",
   "page_name": "Nancy Nichols",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-18",
   "scheduled_time": "15:49",
-  "message": "",
+  "message": "The other day, I found myself sitting in the backyard with my dog, Max, just enjoying the sunshine. We tossed around a squeaky toy and played a good old-fashioned game of fetch. No gadgets, no distractions—just us, the grass, and a few butterflies fluttering by. It struck me how refreshing it was to take a break from screens and enjoy some low-tech fun.\n\nIt got me thinking about how important it is to have simple joys in our lives, especially when it comes to being prepared for anything. Sometimes, the best way to bond and build resilience is to focus on the basics, like spending quality time with our loved ones—furry or otherwise. \n\nHave you rediscovered any low-tech activities lately? I'd love to hear about it! By the way, this little refresher helped me remember the importance of keeping it simple.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "939630525911349_122120293635024743",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "8027956b300dd4fe193b23e1eef5c8c3ea1c2bbb41be9008799cc8375bf03376",
+  "image_key": "gen"
 }

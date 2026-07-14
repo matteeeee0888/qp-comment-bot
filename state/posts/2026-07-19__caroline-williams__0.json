@@ -1,6 +1,6 @@
 {
   "id": "2026-07-19__caroline-williams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1040285485838757",
   "page_name": "Caroline Williams",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-19",
   "scheduled_time": "18:29",
-  "message": "",
+  "message": "As pet parents, it's so important to include our furry friends in our emergency plans. This resource helps you think through how to keep your dog safe and comfortable when preparing for unexpected situations. How do you involve your pets in your family readiness plans?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1040285485838757_122120893586983125",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "11144fbf712b7f0ef0fc1aabdc770d4aad9d46940e64d2740d9a20541a64ddfa",
+  "image_key": "gen"
 }
