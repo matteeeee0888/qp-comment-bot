@@ -3,7 +3,7 @@
     "page_id": "1125598737305596",
     "page_name": "Barbara Brown",
     "topic": "dog",
-    "active_ads": 53,
+    "active_ads": 58,
     "tier": "HIGH",
     "eligible": true,
     "source": "ads"
@@ -48,7 +48,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 256,
+    "active_ads": 227,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -57,7 +57,7 @@
     "page_id": "1092442657286729",
     "page_name": "Elizabeth Willis",
     "topic": "both",
-    "active_ads": 121,
+    "active_ads": 176,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -111,7 +111,7 @@
     "page_id": "1031788496687467",
     "page_name": "Tamika Jones",
     "topic": "both",
-    "active_ads": 47,
+    "active_ads": 45,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -147,7 +147,7 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 37,
+    "active_ads": 36,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -174,8 +174,8 @@
     "page_id": "962411806966339",
     "page_name": "Susan Sutton",
     "topic": "both",
-    "active_ads": 11,
-    "tier": "MID",
+    "active_ads": 1,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
@@ -210,8 +210,8 @@
     "page_id": "719343644592338",
     "page_name": "Susan Mitchell",
     "topic": "both",
-    "active_ads": 3,
-    "tier": "LOW",
+    "active_ads": 28,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   }
