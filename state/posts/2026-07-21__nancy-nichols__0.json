@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__nancy-nichols__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "939630525911349",
   "page_name": "Nancy Nichols",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "11:45",
-  "message": "",
+  "message": "The other day, my kids were playing fetch with our dog in the backyard, and I got to witness a classic parent-vs-kids moment. While they were running around, barking out commands and giggling, I was trying to remember if I had the emergency dog supplies stocked up. You know, the basics like food, water, and a first-aid kit for our furry friend. 🐶\n\nIt’s funny how we can get so caught up in the fun that we forget about the little things that keep our pets safe. I took a quick inventory while they were busy, and it felt good to know I was prepared for whatever might come our way—dog-related or not. \n\nHave you ever had one of those moments where you’re juggling fun and responsibility? What’s the most unexpected thing you’ve had to prep for? This little refresher helped me out!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "939630525911349_122120363733024743",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4eb46c04f361f296a94a7acf8a64a920b625d9fc4a54cbbe64f7700babbbe236",
+  "image_key": "gen"
 }

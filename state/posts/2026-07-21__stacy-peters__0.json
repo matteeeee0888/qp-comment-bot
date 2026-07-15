@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "18:55",
-  "message": "",
+  "message": "Creating a well-stocked emergency kit is one of the simplest yet most effective ways to prepare for unexpected situations. It’s all about having the essentials ready so you can feel more at ease, no matter what comes your way. What's one item you think is a must-have in your emergency kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1055885867606549_122120533346848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "fef30b0effecbb34a82c3f7a1339c708005b3f355dd785da6a97599cf449c97e",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "18:54",
-  "message": "",
+  "message": "Fires can happen in the blink of an eye, but being prepared can make all the difference. This resource from Ready.gov offers practical tips for keeping your home safe and ensuring you and your loved ones know what to do in case of a fire. What’s one fire safety tip you swear by?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122115279140692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c87647a458781ffb54590dc4b8b4f2dbeb43afc723be1507df7011941d78e51d",
+  "image_key": "gen"
 }

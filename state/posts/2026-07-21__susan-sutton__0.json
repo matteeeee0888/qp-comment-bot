@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "13:49",
-  "message": "",
+  "message": "Hurricane season can be a bit daunting, but being prepared makes all the difference! This resource from the Red Cross offers practical tips on how to stay safe and ready without feeling overwhelmed. Have you ever made an emergency plan for your family?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "962411806966339_122121460010947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "75d55eb2bbc9b76909b5446827ea49a213150ee2d21c81f8df706501737f52a1",
+  "image_key": "gen"
 }

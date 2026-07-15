@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "08:04",
-  "message": "",
+  "message": "The other night, we had a surprise blackout that caught us all off guard! As the lights flickered and then went out, I felt that familiar rush of uncertainty. But instead of panic, I remembered my trusty stash of flashlights and power banks. I quickly rounded up the kids, and we made a little adventure out of it! We illuminated the living room with our flashlights, telling stories and playing games by their glow. It turned into one of those cozy family moments that we'll fondly remember. \n\nIt’s amazing how a small win, like being prepared with some basic supplies, can turn a potentially frustrating situation into a fun night in! Have you ever had a blackout that surprised you, and how did you handle it? This little refresher helped me feel ready for anything!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "968263026380089_122118439706914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "384e75733d275d58e5c0477b723222158346ae67f0e9aaa7e7bb4d00d6236812",
+  "image_key": "gen"
 }

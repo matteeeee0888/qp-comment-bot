@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "09:39",
-  "message": "",
+  "message": "Planning ahead can make a world of difference when it comes to keeping our families safe. I found a great resource that walks you through creating a family emergency plan — it’s super practical and easy to follow! Have you ever sat down with your family to discuss your emergency plans?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1112110298653755_122115569121340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e5dfc4d7f7d5cb7e02b5ce6eace061f98cbfef91dfd994eb218353e2b1dfe350",
+  "image_key": "gen"
 }

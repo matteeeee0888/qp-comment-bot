@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "13:45",
-  "message": "",
+  "message": "The other day, I was reminiscing about the time we had a surprise snowstorm here in the South. I remember waking up to a winter wonderland outside, but my first thought was, \"Uh-oh, did I even bring in the patio furniture?\" Spoiler alert: I didn’t. \n\nAfter a frantic dash outside in my pajamas, I managed to rescue most of it, but not before slipping on some ice and landing right in a heap of snow. Talk about a wake-up call! \n\nThat day taught me that while I can laugh at the situation now, being a little more prepared can save some headaches later. So, whether it’s keeping an eye on the weather or having a few essentials on hand, a little prep goes a long way.  \n\nHas anyone else had a not-so-ready moment like that? I'd love to hear your stories!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "936909452848936_122122216208955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "549e67a9e6b765ba41e41d5fcd6614a30b34da5eb5960051b6a801471234a390",
+  "image_key": "gen"
 }

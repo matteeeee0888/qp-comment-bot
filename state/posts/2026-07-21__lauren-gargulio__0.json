@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "14:33",
-  "message": "",
+  "message": "As storm season approaches, it's always a good idea to brush up on how to prepare for hurricanes. This resource offers practical tips to help you and your family stay safe and ready. Have you checked your emergency supplies lately?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1127031013825481_122108661879335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d6b2b720b2c2a202d931bf798f39ded4c75daa66b232a085c615096931b9e1e0",
+  "image_key": "gen"
 }

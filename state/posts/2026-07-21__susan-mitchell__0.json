@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "15:39",
-  "message": "",
+  "message": "Having a solid plan in place can make all the difference when facing unexpected situations. This resource is a great starting point to help your family prepare together, so you can all feel a bit more at ease. What’s one thing you’ve done to get ready for the unexpected?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "719343644592338_122191469426926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d06b60fd8a82e2019a7a1b7c88182bc1e60e79be5281cc4c5cbed23ba5306ec3",
+  "image_key": "gen"
 }

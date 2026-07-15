@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__susan-miller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1029190046952177",
   "page_name": "Susan Miller",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "14:49",
-  "message": "",
+  "message": "You know that friend who shows up to a picnic with a full-on buffet, a portable grill, and a backup generator? Yeah, that’s me when it comes to storm season. Last winter, while everyone was scrambling for bread and milk ahead of the big blizzard, I was digging through my supplies, unearthing bags of flour, canned beans, and my trusty camping stove. I even had enough hot chocolate mix to keep the neighborhood warm! \n\nWhile my friends raised their eyebrows at the amount of snacks I packed, I couldn’t help but feel a sense of calm. I realized that being a little over-prepared isn’t so bad — it just means you can share the good vibes (and snacks) when the weather takes a turn. \n\nI learned that in the chaos of severe weather, preparation can be the key to keeping things cozy and fun. And let’s be honest, who doesn’t love a hot cocoa party when the snow is piling up outside? \n\nWhat’s your go-to item to have on hand when a storm is brewing?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1029190046952177_122121431786744881",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6eebda216fa8f6f9c85033c2ae007f7eaa90feb148140c35c2304ecb9367ac86",
+  "image_key": "gen"
 }

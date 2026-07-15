@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "11:14",
-  "message": "",
+  "message": "You know that one friend who panics at the slightest hint of danger? Yeah, that’s me. Recently, I was cooking dinner and got a little too caught up in a show while I was sautéing some veggies. Suddenly, I smelled smoke and my heart raced. I dashed to the kitchen, ready to unleash my inner firefighter, only to find my friend waving a towel at the smoke rising from my pan. \n\nIn that moment, I realized how important it is to have a solid escape plan and keep our smoke alarms in check. It’s easy to get lost in the moment (or a great episode), but being prepared helps keep the calm in chaotic moments! \n\nHave you ever had a kitchen mishap that turned into a funny story? This little refresher helped me remember the basics!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122107564580629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "87ff318bba4be39095b15db787ac91973020ef1edc0f867035fdb44547287c2f",
+  "image_key": "gen"
 }

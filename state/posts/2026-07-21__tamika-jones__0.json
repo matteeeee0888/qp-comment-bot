@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "11:33",
-  "message": "",
+  "message": "With storm season upon us, it’s a great time to brush up on some preparedness tips. This resource offers practical guidance on how to stay safe and ready for hurricanes. What’s your go-to tip for getting ready for a storm?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1031788496687467_122118486836849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "2d63c1f471b93a49cc6666dcf7e327c19b048192dace950ec54aa9ddd1dd59e5",
+  "image_key": "gen"
 }

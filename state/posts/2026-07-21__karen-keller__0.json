@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "15:31",
-  "message": "",
+  "message": "You know that feeling when you finally get your act together? Last month, I was the one in the family who had the go-bags ready for our weekend camping trip. I’d spent a few evenings gathering water, snacks, and all those essential documents, and I was feeling pretty proud of myself. \n\nAs we drove up to the mountains, I could see my kids’ faces light up with excitement, and I thought, \"Wow, I actually did it!\" It felt amazing to be the prepared one for once instead of scrambling at the last minute. \n\nIt’s just a little thing, but being ready made the whole experience so much smoother and more enjoyable. I even had time to relax by the campfire instead of worrying about what I forgot! \n\nHave you ever had a moment like that where you felt on top of things? This little refresher helped me a ton!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1003918682810439_122122631493072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "03ce083b64c28dbc467c06da4ea7a1ae5b1e34eef858cc43f9197b5b03281066",
+  "image_key": "gen"
 }

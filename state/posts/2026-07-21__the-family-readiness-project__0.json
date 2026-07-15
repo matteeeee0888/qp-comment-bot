@@ -1,6 +1,6 @@
 {
   "id": "2026-07-21__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-21",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "I came across a great resource that helps you create a solid emergency plan for your family. It’s all about being ready, not stressed! What’s one step you’ve taken to prepare your household?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122135907105281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d8c5052fe233ede328fb484e4d50eec6dc774a2d93130be803232c7599c42eed",
+  "image_key": "gen"
 }
