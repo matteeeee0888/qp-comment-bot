@@ -3,8 +3,8 @@
     "page_id": "1125598737305596",
     "page_name": "Barbara Brown",
     "topic": "dog",
-    "active_ads": 58,
-    "tier": "HIGH",
+    "active_ads": 25,
+    "tier": "MID",
     "eligible": true,
     "source": "ads"
   },
@@ -21,7 +21,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 48,
+    "active_ads": 45,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -30,7 +30,7 @@
     "page_id": "1112110298653755",
     "page_name": "Sofia Rossi",
     "topic": "both",
-    "active_ads": 96,
+    "active_ads": 87,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -48,7 +48,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 238,
+    "active_ads": 223,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -57,7 +57,7 @@
     "page_id": "1092442657286729",
     "page_name": "Elizabeth Willis",
     "topic": "both",
-    "active_ads": 194,
+    "active_ads": 192,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -75,8 +75,8 @@
     "page_id": "1029190046952177",
     "page_name": "Susan Miller",
     "topic": "both",
-    "active_ads": 150,
-    "tier": "HIGH",
+    "active_ads": 25,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -93,8 +93,8 @@
     "page_id": "1131155456740150",
     "page_name": "Lori Clay",
     "topic": "dog",
-    "active_ads": 107,
-    "tier": "HIGH",
+    "active_ads": 32,
+    "tier": "MID",
     "eligible": true,
     "source": "ads"
   },
@@ -147,7 +147,7 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 42,
+    "active_ads": 40,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -165,7 +165,7 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 42,
+    "active_ads": 40,
     "tier": "MID",
     "eligible": true,
     "source": "default"

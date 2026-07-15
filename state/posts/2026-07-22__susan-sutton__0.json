@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "LOW",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "17:50",
-  "message": "",
+  "message": "I’ll never forget the time I decided to channel my inner ‘over-prepared’ self during a winter storm warning. While my neighbors were grabbing a few extra loaves of bread and some milk, I was busy stocking up on everything from batteries to board games. I even made a giant pot of chili, because you know, nothing warms the soul quite like a hearty meal when the wind is howling outside! \n\nWhen the storm hit, we were cozy and entertained, while others were scrambling for candles and snacks. Sure, I might have gone a bit overboard, but it felt good to be ready. \n\nSometimes, it’s nice to be the one who’s ready for anything, even if it makes me the neighborhood oddball! If you’re curious about how to be the gloriously over-prepared person, this little refresher helped me a lot. What’s your go-to item when preparing for a storm?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "962411806966339_122121483302947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "0933355206196e03348ef9d4d4cf0d62ea607545e8c7fb819d298a07d3f0e91e",
+  "image_key": "gen"
 }

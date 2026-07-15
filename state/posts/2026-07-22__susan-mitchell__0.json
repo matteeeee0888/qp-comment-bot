@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "19:40",
-  "message": "",
+  "message": "The other day, I was rummaging through my closet and stumbled upon our family go-bags, which I’d packed a while ago but hadn’t thought about in ages. I decided to check them—just a little refresh, you know? To my surprise, I found a few snacks that had somehow made their way in there (hello, granola bars!) and I also noticed I needed to update some important documents. \n\nWhile it felt like a small win, it really did save the day when my kids came home from school, starving and ready for a snack attack! It reminded me how those little moments of preparedness can really make a difference.  \n\nHave you checked your go-bags recently? What’s your go-to snack for emergency kits?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "719343644592338_122191501064926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "517b35b55d390936fa8c521d3f1564f66811559bfc008385d11ef5125d08ea9e",
+  "image_key": "gen"
 }

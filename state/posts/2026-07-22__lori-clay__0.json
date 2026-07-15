@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__lori-clay__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1131155456740150",
   "page_name": "Lori Clay",
   "topic": "dog",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "18:50",
-  "message": "",
+  "message": "So, the other day, I was out for a walk with my dog, Max, when he decided that the squirrel in the tree was his arch-nemesis. Suddenly, I found myself in an all-out tug-of-war as he lunged toward the furry foe. In the chaos, I realized I hadn’t even brought my phone or any of the usual snacks and water for us—talk about not being ready! \n\nAs I wrestled with Max, I couldn’t help but chuckle at the absurdity of the moment. It reminded me that sometimes, life throws us unexpected curveballs, and while I had a good laugh, I also thought about how a little preparedness goes a long way. \n\nIf only I had a plan for squirrel encounters! 😂 Thankfully, this little refresher helped me think about what to keep handy for our next adventure. What’s your go-to item when you head out with your pet?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1131155456740150_122118559166733282",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "58f2269282629896b9424a847781b96f6d2755c111de25c93311739a302a707f",
+  "image_key": "gen"
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "17:46",
-  "message": "",
+  "message": "As storm season approaches, it's always a good idea to brush up on how to stay safe during extreme heat. This helpful resource offers practical tips to keep you and your loved ones comfortable and protected when temperatures rise. What’s your favorite way to stay cool when the heat hits?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "936909452848936_122122259036955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "0bb4056f2973893dd0b65c3338e3da12f1b9eca5bceea0a8721a0c8ddefcec05",
+  "image_key": "gen"
 }

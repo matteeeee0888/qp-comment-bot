@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "13:36",
-  "message": "",
+  "message": "The other day, I found myself in a classic parent-vs-kids moment. My little ones were busy turning the living room into a makeshift fort, while I was trying to explain the importance of our emergency go-bags. Let’s just say, my detailed description of water storage didn't quite hold their attention like a pirate ship made of cushions! \n\nAfter a few minutes, I decided to pivot. We turned the discussion into a fun game: \"What would you take if we had to leave quickly?\" Suddenly, their eyes lit up, and they were all in. We packed a bag together with snacks, a favorite toy, and even a few silly drawings. \n\nIt reminded me that preparedness doesn’t have to be all serious. Involving the kids not only makes it memorable but also teaches them valuable lessons. Plus, we had a blast! \n\nHas anyone else turned a serious topic into a fun family activity? I’d love to hear your stories! By the way, this little refresher helped us all stay on the same page.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1050667511458583_122121677690950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ea1b31b527339c8c74137cf2d36c0d81d74ac9b6fd0a40a42b364db9897a7654",
+  "image_key": "gen"
 }

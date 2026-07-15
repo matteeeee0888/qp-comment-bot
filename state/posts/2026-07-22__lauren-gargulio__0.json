@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "18:34",
-  "message": "",
+  "message": "Last winter, when the snowstorm hit and we were stuck indoors for days, I found myself rediscovering the joy of low-tech fun. With the power out and screens down, we dusted off our old board games and pulled out some crayons and paper. It was a simple reminder of how much laughter and creativity can fill a space. We built pillow forts and had the most epic family game night by candlelight. It really made me think about how prepping isn’t just about supplies, but also about making memories together when life throws us a curveball. If you’re ever feeling the pinch of a stormy day, try going old school with the family! Have you had any low-tech fun moments that turned into cherished memories?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "1127031013825481_122108689887335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3ba5411f6e9b1bb592f75454d3bff3bd107c07dd7a24fa57fe821ee34f93b990",
+  "image_key": "gen"
 }

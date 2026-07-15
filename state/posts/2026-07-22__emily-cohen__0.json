@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__emily-cohen__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "985048591368725",
   "page_name": "Emily Cohen",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "15:15",
-  "message": "",
+  "message": "The other day, I found myself in the kitchen, attempting to whip up my famous (at least in my family) spaghetti sauce. Everything was going smoothly until I got distracted by a phone call from my sister. You know how it goes – a couple of minutes can feel like seconds when you're chatting away. Suddenly, I caught the faint whiff of something burning. 😳\n\nThanks to our trusty smoke alarm, I was jolted back to reality just in time to save my sauce from a total disaster! It reminded me of the importance of having working smoke alarms and being a little extra mindful when cooking. \n\nAfter that little scare, I took a moment to review our family escape plan, just in case. It felt good to check in on our safety, and honestly, it’s a small win that made me feel like I was really on top of things. \n\nHave you had a little win in your home prep lately? Share your stories!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "985048591368725_122107577486629869",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1deb9bada844898678f38b25a0482fa5c1f200a257f26a1396c8ccb757bab208",
+  "image_key": "gen"
 }

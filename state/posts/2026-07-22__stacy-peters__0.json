@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "10:56",
-  "message": "",
+  "message": "The other day, I realized we hadn't updated our go-bags in a while. You know how life gets busy! So, I decided to turn it into a little family event. I set up a cozy spot in the living room with blankets and snacks, and we made it a fun challenge to see who could find the most important items the quickest. We laughed as we went through our old supplies, finding expired snacks and reminiscing about our last family camping trip. \n\nIn the end, we refreshed our bags together, but more importantly, we created some lovely memories while doing it! It was a nice reminder that preparedness can be about togetherness, not just checklists. \n\nHave you ever turned a chore into a family adventure? I’d love to hear your stories!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1055885867606549_122120561000848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9fffd28517ab0ac648923de430b71cfe7f702ccadfd2dcdc07381e512c784e25",
+  "image_key": "gen"
 }

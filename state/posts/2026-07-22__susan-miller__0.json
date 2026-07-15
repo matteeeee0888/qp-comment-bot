@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__susan-miller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1029190046952177",
   "page_name": "Susan Miller",
   "topic": "storm",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "18:50",
-  "message": "",
+  "message": "As we brace for stormy weather, it’s a great time to think about how to stay safe and comfortable at home. Ready.gov has some helpful tips on how to prepare for extreme heat, which can be just as important during a storm. What’s your go-to strategy for keeping cool when the temperatures rise?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1029190046952177_122121464150744881",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4966224829cd303a7df451a106463bcebc72c6d05957508fd4bf687dcb6c705f",
+  "image_key": "gen"
 }

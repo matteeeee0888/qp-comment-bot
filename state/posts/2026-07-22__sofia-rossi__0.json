@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "13:40",
-  "message": "",
+  "message": "Building an emergency kit is a smart step for any household. This resource offers practical tips to help you gather essentials that can make a difference in uncertain times. Have you started your kit yet, or do you have a favorite go-to item for preparedness?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1112110298653755_122115604065340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e846adcec7b8f668470cc44556d9b8b33d26b61dfd36c92c1841a9054d25ee48",
+  "image_key": "gen"
 }

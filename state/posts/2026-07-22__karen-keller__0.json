@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "19:32",
-  "message": "",
+  "message": "Building a well-stocked emergency kit is a smart way to be prepared for whatever life throws our way. This resource offers practical tips on what to include, making it easier for us to feel ready without the stress. What’s one item you think is essential for your kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1003918682810439_122122654329072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e885da88103d425436e4b05c09674cb73d065bcd0c4fce64f9cf7b29024b226a",
+  "image_key": "gen"
 }

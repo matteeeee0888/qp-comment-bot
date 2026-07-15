@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "10:55",
-  "message": "",
+  "message": "Home fires can happen when we least expect them, making it essential to be prepared. This resource offers practical tips and guidance to help keep your loved ones safe. Have you thought about your family's fire safety plan?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1124746537378992_122115305186692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "95c0a8f63916a02a62562fb62d1d3fe27353143087195bcdc09d6605bfb445ca",
+  "image_key": "gen"
 }

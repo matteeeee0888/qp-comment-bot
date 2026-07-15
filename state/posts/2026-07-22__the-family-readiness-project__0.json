@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,13 @@
   "tier": "MID",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "11:44",
-  "message": "",
+  "message": "So, the other day, I was trying to be all prepared and organized. I thought, \"Hey, let’s check the go-bags and make sure we have everything we need.\" I opened mine up, and what did I find? A half-eaten granola bar from last summer, a pair of mismatched socks, and my kid’s old toy dinosaur! Not exactly the emergency supplies I was hoping for. \n\nIt was a hilarious reminder that being ready isn’t just about having the right gear—it's about keeping it updated and relevant to our lives. \n\nI ended up having a little laugh with my family as we sorted through the bags together, making it a fun family activity. We even discovered some things we really could use! \n\nIf nothing else, it sparked a great conversation about what we’d really need in a pinch. Sometimes, a little comedy goes a long way in preparedness, right?  \n\nHave you ever found something silly in your emergency supplies?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122135930403281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e5ae5c186dde2fdb7b2eb1b6aa45a2312fddbec7bf1423cc5f7eb5f254275daf",
+  "image_key": "gen"
 }

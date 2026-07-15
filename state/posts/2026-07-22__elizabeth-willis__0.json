@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__elizabeth-willis__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1092442657286729",
   "page_name": "Elizabeth Willis",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "HIGH",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "18:51",
-  "message": "",
+  "message": "Hey friends! I found this really useful resource on home fire safety that offers clear tips for prevention and preparedness. It’s always good to know how to keep our homes and loved ones safe, right? What’s one fire safety tip you've always remembered?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "1092442657286729_122119474316693329",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ebb3ebbc8a005b1b912ce8cca54f6fac832623a785ed1925ce31bccc4c5642b0",
+  "image_key": "gen"
 }

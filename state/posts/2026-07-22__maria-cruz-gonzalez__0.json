@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "12:05",
-  "message": "",
+  "message": "Power outages can catch us off guard, but being prepared can make all the difference. This resource offers practical tips on how to stay safe and comfortable during a blackout. Have you ever experienced a power outage, and how did you handle it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122118464708914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "aeeaf65167bf58e45edeb3884bdd74b43bea50ed0e9a27b78572c1406aaaa478",
+  "image_key": "gen"
 }

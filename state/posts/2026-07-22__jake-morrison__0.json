@@ -1,6 +1,6 @@
 {
   "id": "2026-07-22__jake-morrison__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "768075889726058",
   "page_name": "Jake Morrison",
   "topic": "fire",
@@ -8,13 +8,13 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-07-22",
   "scheduled_time": "09:31",
-  "message": "",
+  "message": "The other evening, my kids and I had a little fire safety drill that turned into an unexpected adventure! We made it a game to practice our escape plan. We pretended we were spies navigating a secret mission, and I couldn't stop chuckling at their antics as they crawled under tables and whispered to each other. It was a lovely reminder that safety doesn’t have to be all serious business—it can be low-tech fun, too! \n\nThis little refresher helped us remember the importance of smoke alarms and kitchen safety while creating some silly memories along the way. Have you ever turned a safety lesson into a fun family activity?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/home-fires",
+  "post_id": "768075889726058_122142361419028905",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "35a4f247a44e50acd14563e4357af6d96f9c77a310110a3abe93acddfd9164a3",
+  "image_key": "gen"
 }
