@@ -120,8 +120,8 @@
     "page_id": "968263026380089",
     "page_name": "Maria Cruz-Gonzalez",
     "topic": "both",
-    "active_ads": 3,
-    "tier": "LOW",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "default"
   },
@@ -183,7 +183,7 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 58,
+    "active_ads": 60,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
