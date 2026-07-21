@@ -12,7 +12,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 0,
+    "active_ads": 5,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -21,7 +21,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 0,
+    "active_ads": 25,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -30,7 +30,7 @@
     "page_id": "1112110298653755",
     "page_name": "Sofia Rossi",
     "topic": "both",
-    "active_ads": 44,
+    "active_ads": 63,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -48,8 +48,8 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 37,
-    "tier": "MID",
+    "active_ads": 100,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
@@ -57,8 +57,8 @@
     "page_id": "1092442657286729",
     "page_name": "Elizabeth Willis",
     "topic": "both",
-    "active_ads": 9,
-    "tier": "LOW",
+    "active_ads": 38,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -84,7 +84,7 @@
     "page_id": "1127112887142637",
     "page_name": "Angela Truex",
     "topic": "dog",
-    "active_ads": 62,
+    "active_ads": 60,
     "tier": "HIGH",
     "eligible": true,
     "source": "ads"
@@ -111,8 +111,8 @@
     "page_id": "1031788496687467",
     "page_name": "Tamika Jones",
     "topic": "both",
-    "active_ads": 7,
-    "tier": "LOW",
+    "active_ads": 18,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -147,8 +147,8 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 7,
-    "tier": "LOW",
+    "active_ads": 16,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -165,7 +165,7 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 14,
+    "active_ads": 29,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -183,7 +183,7 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 38,
+    "active_ads": 29,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -192,8 +192,8 @@
     "page_id": "911963812004163",
     "page_name": "Abigail Adams",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 9,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
@@ -210,8 +210,8 @@
     "page_id": "719343644592338",
     "page_name": "Susan Mitchell",
     "topic": "both",
-    "active_ads": 3,
-    "tier": "LOW",
+    "active_ads": 13,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   }
