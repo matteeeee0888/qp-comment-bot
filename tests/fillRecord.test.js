@@ -78,3 +78,42 @@ test("rejects a reused sourced image", async () => {
   assert.equal(r.ok, false);
   assert.match(r.reason, /reused|image/i);
 });
+
+test("rejects a link already used by another page on the same day", async () => {
+  const { storeDir, workDir, dedupFile, rec } = await setup();
+  const url = "https://www.ready.gov/plan";
+  const r1 = await fillRecord({ storeDir, workDir, dedupFile, id: rec.id, message: "page one framing", imageSource: "none", link: url, postType: "link" });
+  assert.equal(r1.ok, true);
+  const rec2 = { ...rec, id: "2026-06-02__lori-clay__0", page_id: "9", page_name: "Lori Clay" }; // SAME date
+  await writeRecord(storeDir, rec2);
+  const r2 = await fillRecord({ storeDir, workDir, dedupFile, id: rec2.id, message: "page two framing", imageSource: "none", link: url, postType: "link" });
+  assert.equal(r2.ok, false);
+  assert.match(r2.reason, /link/i);
+});
+
+test("accepts a remote (http) image without needing a local file, and persists post_type", async () => {
+  const { storeDir, workDir, dedupFile, rec } = await setup();
+  const r = await fillRecord({
+    storeDir, workDir, dedupFile, id: rec.id, message: "a cozy lantern evening",
+    imagePath: "https://example.supabase.co/storage/v1/object/public/us-brands-images/posts/2026-06-02/x.png",
+    imageSource: "generated", postType: "photo", scene: "a lantern on a table (warm light)",
+  });
+  assert.equal(r.ok, true);
+  const after = await readRecord(storeDir, rec.id);
+  assert.equal(after.image_source, "generated");
+  assert.ok(after.image_path.startsWith("https://"), "remote image URL kept as-is, no local copy");
+  assert.equal(after.post_type, "photo");
+  assert.equal(after.scene, "a lantern on a table (warm light)");
+});
+
+test("rejects a photo scene reused within the window", async () => {
+  const { storeDir, workDir, dedupFile, rec } = await setup();
+  const sceneHash = "abc123def456";
+  const r1 = await fillRecord({ storeDir, workDir, dedupFile, id: rec.id, message: "scene one", imageSource: "generated", imagePath: "https://x/a.png", postType: "photo", sceneHash });
+  assert.equal(r1.ok, true);
+  const rec2 = { ...rec, id: "2026-06-05__janet-harper__0", scheduled_date: "2026-06-05" };
+  await writeRecord(storeDir, rec2);
+  const r2 = await fillRecord({ storeDir, workDir, dedupFile, id: rec2.id, message: "scene two", imageSource: "generated", imagePath: "https://x/b.png", postType: "photo", sceneHash });
+  assert.equal(r2.ok, false);
+  assert.match(r2.reason, /scene/i);
+});

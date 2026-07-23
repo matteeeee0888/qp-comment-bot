@@ -30,6 +30,10 @@ jobs:
           TEXT_ENGINE: openai                               # Anthropic drained → OpenAI gpt-4o-mini
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}     # free photoreal images for photo posts
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
         run: node bin/generate-day.js
       - name: Schedule on Facebook
         env:

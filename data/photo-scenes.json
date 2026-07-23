@@ -1,0 +1,52 @@
+{
+  "_note": "Photoreal 'casual smartphone photo' scenes per pillar for Gemini-generated photo posts (bin/generate-day.js). Effective pool = scenes x _variations, so the 45-day scene-dedup window (lib/dedup.js) never starves. NO people/faces, NO text/logos — must look like a normal person's home photo, not a branded graphic.",
+  "blackout": [
+    "a battery lantern glowing on a kitchen table with a half-played board game",
+    "a drawer neatly filled with flashlights and spare batteries",
+    "a phone charging from a power bank on a windowsill on a grey afternoon",
+    "a shelf with a hand-crank radio, candles unlit, and a jug of water",
+    "a cozy living room lit by a single camping lantern in the evening",
+    "a kitchen counter with a flashlight, matches in a jar, and a notepad",
+    "a headlamp and a stack of playing cards on a coffee table",
+    "a windowsill lined with solar garden lights brought indoors"
+  ],
+  "storm": [
+    "rain streaking a living-room window with a blanket and thermos in the foreground",
+    "a weather radio and a jug of water on a laundry-room shelf",
+    "a cozy armchair by a rain-blurred window with a mug of tea",
+    "sandbags and a rolled tarp tidy in a garage corner",
+    "a windowsill herb garden with heavy grey clouds outside",
+    "a kitchen table with a printed weather map and a full water bottle",
+    "boots and a raincoat by the back door, puddles outside",
+    "a snug reading nook by a frosted winter window"
+  ],
+  "fire": [
+    "a hand testing a smoke alarm on a hallway ceiling from a small stepladder",
+    "a compact fire extinguisher mounted inside a tidy pantry door",
+    "a kitchen counter with a lid resting on a pan, stovetop clean",
+    "a family escape-plan sketch held by magnets on a fridge",
+    "a nightstand with a flashlight and a fresh 9-volt battery",
+    "a smoke detector on a bedroom ceiling in soft morning light",
+    "a fire blanket folded on a kitchen shelf next to oven mitts"
+  ],
+  "preparedness": [
+    "a packed go-bag by the front door next to a pair of sneakers",
+    "a folder of family documents on a kitchen counter with a labelled pouch",
+    "a pantry shelf neatly lined with canned food and bottled water",
+    "a small first-aid kit open on a bathroom counter, restocked",
+    "a car trunk with a tidy emergency kit and a folded blanket",
+    "a kitchen drawer organized with batteries, tape, and a flashlight",
+    "a backpack with water bottles and granola bars on a bench by the door",
+    "a labelled bin of emergency supplies on a closet shelf"
+  ],
+  "_variations": [
+    "in soft morning light",
+    "late evening, warm lamp light",
+    "on a rainy afternoon",
+    "golden-hour light through a window",
+    "slightly cluttered, lived-in room",
+    "overcast daylight",
+    "just after cleanup, everything tidy",
+    "close-up, shallow depth of field"
+  ]
+}

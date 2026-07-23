@@ -6,10 +6,10 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { readFile, copyFile, mkdir } from "node:fs/promises";
 import { readRecord, updateRecord } from "../lib/store.js";
-import { loadDedup, saveDedup, hashBody, isDuplicateBody, isReusedImage, recordUsage } from "../lib/dedup.js";
+import { loadDedup, saveDedup, hashBody, isDuplicateBody, isReusedImage, isLinkTakenOnDate, isSceneRecentlyUsed, recordUsage } from "../lib/dedup.js";
 import { isValidImage } from "../lib/imageCheck.js";
 
-export async function fillRecord({ storeDir, workDir, dedupFile, id, message, imagePath, imageSource, sourceUrl, link }) {
+export async function fillRecord({ storeDir, workDir, dedupFile, id, message, imagePath, imageSource, sourceUrl, link, postType, scene, sceneHash }) {
   const record = await readRecord(storeDir, id);
   const msg = String(message || "").trim();
   if (!msg) return { ok: false, reason: "empty message" };
@@ -21,12 +21,22 @@ export async function fillRecord({ storeDir, workDir, dedupFile, id, message, im
   const imageKey = imageSource === "sourced" ? String(sourceUrl || "") : "gen";
   if (isReusedImage(dedup, imageKey)) return { ok: false, reason: "reused sourced image" };
 
+  // Anti-collision: no two pages carry the same link on the same day; no repeated photo scene.
+  if (link && isLinkTakenOnDate(dedup, record.scheduled_date, link)) return { ok: false, reason: "link already used by another page today" };
+  if (sceneHash && isSceneRecentlyUsed(dedup, sceneHash, record.scheduled_date)) return { ok: false, reason: "photo scene used recently" };
+
   let finalImagePath = "";
   if (imageSource && imageSource !== "none") {
-    if (!(await isValidImage(imagePath))) return { ok: false, reason: "invalid or missing image file" };
-    await mkdir(workDir, { recursive: true });
-    finalImagePath = path.join(workDir, `${id}${path.extname(imagePath) || ".png"}`);
-    await copyFile(imagePath, finalImagePath);
+    if (/^https?:\/\//.test(String(imagePath))) {
+      // A remote image (e.g. a Supabase URL from a Gemini photo) — the upload already validated the
+      // bytes, and the URL must survive a re-run on a fresh CI runner, so keep it as-is (no local copy).
+      finalImagePath = imagePath;
+    } else {
+      if (!(await isValidImage(imagePath))) return { ok: false, reason: "invalid or missing image file" };
+      await mkdir(workDir, { recursive: true });
+      finalImagePath = path.join(workDir, `${id}${path.extname(imagePath) || ".png"}`);
+      await copyFile(imagePath, finalImagePath);
+    }
   }
 
   await updateRecord(storeDir, id, {
@@ -36,11 +46,13 @@ export async function fillRecord({ storeDir, workDir, dedupFile, id, message, im
     image_source: finalImagePath ? imageSource : "none",
     source_url: String(sourceUrl || ""),
     link: String(link || ""),
+    post_type: postType || record.post_type || "",
+    scene: scene || "",
     body_hash: bodyHash,
     image_key: imageKey,
     error_reason: "",
   });
-  await saveDedup(dedupFile, recordUsage(dedup, { pageId: record.page_id, bodyHash, imageKey, topic: record.topic }));
+  await saveDedup(dedupFile, recordUsage(dedup, { pageId: record.page_id, bodyHash, imageKey, topic: record.topic, link: String(link || ""), date: record.scheduled_date, sceneHash }));
   return { ok: true };
 }
 

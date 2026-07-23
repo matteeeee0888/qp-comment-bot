@@ -1,0 +1,32 @@
+{
+  "_note": "Curated, evergreen, authoritative preparedness links per pillar. Every URL audited 200 on 2026-07-23. Used by bin/generate-day.js for link posts; the anti-collision gate (lib/dedup.js) ensures no two pages post the same URL on the same day.",
+  "blackout": [
+    { "url": "https://www.ready.gov/power-outages", "outlet": "Ready.gov" },
+    { "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html", "outlet": "the Red Cross" }
+  ],
+  "storm": [
+    { "url": "https://www.ready.gov/hurricanes", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/winter-weather", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/floods", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/thunderstorms-lightning", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/heat", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/tornadoes", "outlet": "Ready.gov" },
+    { "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html", "outlet": "the Red Cross" },
+    { "url": "https://www.weather.gov/safety/flood", "outlet": "the National Weather Service" }
+  ],
+  "fire": [
+    { "url": "https://www.ready.gov/home-fires", "outlet": "Ready.gov" },
+    { "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html", "outlet": "the Red Cross" },
+    { "url": "https://www.usfa.fema.gov/prevention/home-fires/", "outlet": "the U.S. Fire Administration" },
+    { "url": "https://www.nfpa.org/education-and-research/home-fire-safety", "outlet": "the NFPA" }
+  ],
+  "preparedness": [
+    { "url": "https://www.ready.gov/kit", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/plan", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/car", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/kids", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/financial-preparedness", "outlet": "Ready.gov" },
+    { "url": "https://www.ready.gov/safety-skills", "outlet": "Ready.gov" },
+    { "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html", "outlet": "the Red Cross" }
+  ]
+}

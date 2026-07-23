@@ -1,0 +1,11 @@
+{
+  "_note": "Per-page voice OVERRIDES only. Every other page gets a deterministic persona derived from its page_id in lib/persona.js. Keys are page_id -> partial persona {archetype, tone, emoji, length, questionStyle, person}. The two brand/community pages speak as 'we', not a single persona.",
+  "1050667511458583": {
+    "archetype": "the TerraShell community page — a friendly team that shares practical readiness tips",
+    "person": "we"
+  },
+  "1059660273889438": {
+    "archetype": "the Family Readiness Project — a warm neighborly community page about being prepared together",
+    "person": "we"
+  }
+}
