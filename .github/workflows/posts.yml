@@ -1,11 +1,20 @@
 name: daily-posts
-# Generates and schedules one link-post per page per day (stories + news, no images —
-# Facebook renders the link-preview card). Text via ANTHROPIC_API_KEY.
+# Generates and schedules ONE post per page per day — a per-page mix of story (text) / link /
+# photo (Gemini photoreal image), each in that page's own persona voice. Text via OpenAI gpt-4o-mini.
 on:
   schedule:
     - cron: "0 10 * * *"   # daily ~10:00 UTC (≈06:00 ET, before the 8-20 ET posting window)
     - cron: "0 15 * * *"   # catch-up: retries anything unpublished (e.g. after a Meta rate-limit)
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      dry:
+        description: "Dry run — generate & print previews only, do NOT fill/publish"
+        type: boolean
+        default: false
+      preview_max:
+        description: "Dry run: how many previews to generate"
+        type: string
+        default: "17"
 permissions:
   contents: write
 concurrency:
@@ -34,13 +43,19 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           SUPABASE_BUCKET: ${{ secrets.SUPABASE_BUCKET }}
-        run: node bin/generate-day.js
+        run: |
+          if [ "${{ github.event.inputs.dry }}" = "true" ]; then
+            node bin/generate-day.js --dry --max ${{ github.event.inputs.preview_max }}
+          else
+            node bin/generate-day.js
+          fi
       - name: Schedule on Facebook
+        if: ${{ github.event.inputs.dry != 'true' }}
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
         run: node bin/publish.js
       - name: Persist post state
-        if: always()
+        if: ${{ always() && github.event.inputs.dry != 'true' }}
         run: |
           git config user.name "qp-post-bot"
           git config user.email "qp-post-bot@users.noreply.github.com"
