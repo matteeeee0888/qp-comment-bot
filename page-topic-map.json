@@ -3,8 +3,8 @@
     "page_id": "1125598737305596",
     "page_name": "Barbara Brown",
     "topic": "dog",
-    "active_ads": 25,
-    "tier": "MID",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "ads"
   },
@@ -12,7 +12,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 115,
+    "active_ads": 187,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -30,7 +30,7 @@
     "page_id": "1112110298653755",
     "page_name": "Sofia Rossi",
     "topic": "both",
-    "active_ads": 63,
+    "active_ads": 91,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -48,7 +48,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 100,
+    "active_ads": 142,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -57,7 +57,7 @@
     "page_id": "1092442657286729",
     "page_name": "Elizabeth Willis",
     "topic": "both",
-    "active_ads": 34,
+    "active_ads": 29,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -66,8 +66,8 @@
     "page_id": "1057436950790838",
     "page_name": "Diane Foster",
     "topic": "dog",
-    "active_ads": 1,
-    "tier": "LOW",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "ads"
   },
@@ -75,8 +75,8 @@
     "page_id": "1029190046952177",
     "page_name": "Susan Miller",
     "topic": "both",
-    "active_ads": 25,
-    "tier": "MID",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "default"
   },
@@ -84,8 +84,8 @@
     "page_id": "1127112887142637",
     "page_name": "Angela Truex",
     "topic": "dog",
-    "active_ads": 60,
-    "tier": "HIGH",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "ads"
   },
@@ -93,8 +93,8 @@
     "page_id": "1131155456740150",
     "page_name": "Lori Clay",
     "topic": "dog",
-    "active_ads": 31,
-    "tier": "MID",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "ads"
   },
@@ -129,8 +129,8 @@
     "page_id": "1040285485838757",
     "page_name": "Caroline Williams",
     "topic": "dog",
-    "active_ads": 25,
-    "tier": "MID",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "ads"
   },
@@ -138,8 +138,8 @@
     "page_id": "939630525911349",
     "page_name": "Nancy Nichols",
     "topic": "dog",
-    "active_ads": 27,
-    "tier": "MID",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "ads"
   },
@@ -147,7 +147,7 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 16,
+    "active_ads": 33,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -165,8 +165,8 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 29,
-    "tier": "MID",
+    "active_ads": 58,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
@@ -183,7 +183,7 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 46,
+    "active_ads": 45,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -210,7 +210,7 @@
     "page_id": "719343644592338",
     "page_name": "Susan Mitchell",
     "topic": "both",
-    "active_ads": 31,
+    "active_ads": 25,
     "tier": "MID",
     "eligible": true,
     "source": "default"
