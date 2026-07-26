@@ -1033,7 +1033,24 @@
     "50c01cec3ecc7866b1556d03ece31646695e085edc33217cf0151f1f505701f6",
     "011a87294c1941ab07de9cb0463fdbab60465a32c722889337bf21cd73ef6a45",
     "94f00fac2d18267e2ede427afbfe3653adf3d693fccc68241b6347e203772f3e",
-    "74dbac7284834d76bc7eb74a8715fa7bcbefd59947d2c8e6cba92e44617e3f9e"
+    "74dbac7284834d76bc7eb74a8715fa7bcbefd59947d2c8e6cba92e44617e3f9e",
+    "9a97ddfcf3d0b5fac81cfd0e24b55f7761cf81a86b2fafc3e4c562225a6332da",
+    "340e738c1f675400b2899d3e3f6c8e01bfbc724a35aa13b8db3cd81e5c833d07",
+    "f13b88a5dc27d3ebebe9663ce648fd8bec790d2e0a6c71cac209c95b5367aaf3",
+    "2c535b77e704ca9adab9693dcd7d09d6b0e260a6bf1130672affb5aa2d61c529",
+    "f0ad04d6f331a2dcd25d7213553ce8d1d9c04c6cdd0b936ef7500513a8d7b919",
+    "635c843f64bf6a438665a0168b51891bebc33a1fdc61fd644f11b7c078ef67b9",
+    "bc4575e7c330a6aace3ea3d4b024492fa20827f6040009202f767056546343dd",
+    "5c882299e271f9254b36090b8489e8b0742894cc76f005d53b401ae40b1c8556",
+    "d021f6a7711f7540218cf220347a4175b09489ba6b07087d5a4e32b74a281bf5",
+    "519922d632e4c396bce1f2fd9d68a4b7c7a0fcf5a73c8e6418b5dcebe4c68998",
+    "39cac4e256bff3728133881dcf9a2b234472c3c411d56ba1e3049b6168fd3eba",
+    "99ef8a953444d6b3ef90ec450ffc0c73a32a47a47ef10ed0fc886eb681803981",
+    "633942309851e45b176af694efac849d03a88bbe939d8b95b8d5bd31103877d9",
+    "7094cb0e40a10f62ff489addeb6cf1c2d53f452462ec9b2b103d602138a38017",
+    "4927eb2a6d6cf355d70d2b90c82916769237dbc02a79aaa3d5af7753248c0bc5",
+    "58022bb08e51e416ba6ac18956e874730e2e835685a5f9749d7fb0cf3d7f27a9",
+    "c48aefac5ecd43d7d17a6cb4c8c6ae8ec8d1acf18b4cf6c22f574f15a541cce1"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1558,7 +1575,16 @@
     "2026-08-01|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
     "2026-08-01|https://www.ready.gov/car",
     "2026-08-01|https://www.ready.gov/heat",
-    "2026-08-01|https://www.ready.gov/tornadoes"
+    "2026-08-01|https://www.ready.gov/tornadoes",
+    "2026-08-02|https://www.ready.gov/power-outages",
+    "2026-08-02|https://www.weather.gov/safety/flood",
+    "2026-08-02|https://www.ready.gov/home-fires",
+    "2026-08-02|https://www.ready.gov/hurricanes",
+    "2026-08-02|https://www.ready.gov/winter-weather",
+    "2026-08-02|https://www.ready.gov/kit",
+    "2026-08-02|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
+    "2026-08-02|https://www.ready.gov/financial-preparedness",
+    "2026-08-02|https://www.ready.gov/safety-skills"
   ],
   "sceneUses": [
     {
