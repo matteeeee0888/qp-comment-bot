@@ -39,7 +39,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 123,
+    "active_ads": 122,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -57,8 +57,8 @@
     "page_id": "1055885867606549",
     "page_name": "Stacy Peters",
     "topic": "both",
-    "active_ads": 8,
-    "tier": "LOW",
+    "active_ads": 15,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -111,7 +111,7 @@
     "page_id": "962411806966339",
     "page_name": "Susan Sutton",
     "topic": "both",
-    "active_ads": 1,
+    "active_ads": 6,
     "tier": "LOW",
     "eligible": true,
     "source": "default"
@@ -120,7 +120,7 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 190,
+    "active_ads": 200,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -129,8 +129,8 @@
     "page_id": "911963812004163",
     "page_name": "Abigail Adams",
     "topic": "both",
-    "active_ads": 9,
-    "tier": "LOW",
+    "active_ads": 23,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },

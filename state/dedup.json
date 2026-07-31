@@ -1118,7 +1118,21 @@
     "16bbff0f040f74e1e48d89a91e904861eca7a457cb56b5c854efae4e75488b13",
     "359f93c6f902c8a27be1506ee7ec1ef9190f10fddded5342dc8a03cdc08a39d3",
     "715b97d1b42e2c36e10358ea673783ab78f9fe767b58e9c11a59ca75532e1e46",
-    "13001146baeb40b33b69dfde20d9c84ded1cec17c81e795c75ccb6fba0c7bafd"
+    "13001146baeb40b33b69dfde20d9c84ded1cec17c81e795c75ccb6fba0c7bafd",
+    "08176fa826728edc5f53d7950ce68feda5ce7875daa77b82643b6932edcc033d",
+    "b92ce02654faf983839808c4cd04dfd82052bcb62b6d358e2c59f755cacd8aa8",
+    "4bf455cfacbda434497bff35f86abe8f7ca8aef326e7076025f5c774bdc7cc23",
+    "b9cf33218eb233bcbf9992c6849a405a8ca74f61d8810b234ccb914d4201c233",
+    "af8b0c2c857a61e8a9139c92df4cdef25a90705c9fb348dca159e61791e57094",
+    "aba4a973b17fc8704eb30da9030f97406e4ecebd538b6546afc8d3ea5cf4a23e",
+    "2bfcad1df54e5bf072e2e0796cc49fe33c3387c98b388a2221084c78d047954b",
+    "9abf8bf51aa08e2ab652a14aa7e0274af809d8dd51dc921d76fa1aef5847695b",
+    "a9cacd8eabbbb93c0b6c15688b81eb45b2dc2050c22c272e264088bc5646d14f",
+    "07954d4f9710ca6383e312580853c946f6ea78547c07a1b81405a181fd809ffc",
+    "33af1ccf83440789dba5ea4aaa94f6304b98274372cd45ec88196e4b2ba65522",
+    "daf38e54b1f1a58a33d029baf8aeac4808fc7c95a7d4c60a8eff29ab30205ca7",
+    "fd4ac0cb0e27d18dc7b05fbb231d4be9c644ef313f8fa61103348eb90f69fe70",
+    "dc981e9fbdf49e2dce6410b7a83c542cbfb40e4f5dc6c5025db47e47a1d5df38"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1677,7 +1691,12 @@
     "2026-08-06|https://www.ready.gov/safety-skills",
     "2026-08-06|https://www.ready.gov/thunderstorms-lightning",
     "2026-08-06|https://www.ready.gov/kids",
-    "2026-08-06|https://www.weather.gov/safety/flood"
+    "2026-08-06|https://www.weather.gov/safety/flood",
+    "2026-08-07|https://www.ready.gov/floods",
+    "2026-08-07|https://www.nfpa.org/education-and-research/home-fire-safety",
+    "2026-08-07|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+    "2026-08-07|https://www.ready.gov/plan",
+    "2026-08-07|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html"
   ],
   "sceneUses": [
     {
@@ -1739,6 +1758,18 @@
     {
       "h": "4d3c08e91c9ab1a7",
       "date": "2026-08-06"
+    },
+    {
+      "h": "b16e84d008e0e551",
+      "date": "2026-08-07"
+    },
+    {
+      "h": "b77db8f305f38045",
+      "date": "2026-08-07"
+    },
+    {
+      "h": "1a5447533ddc531c",
+      "date": "2026-08-07"
     }
   ]
 }
