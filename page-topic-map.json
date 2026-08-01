@@ -12,7 +12,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 33,
+    "active_ads": 49,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -84,7 +84,7 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 23,
+    "active_ads": 28,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -120,7 +120,7 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 200,
+    "active_ads": 216,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -138,8 +138,8 @@
     "page_id": "768075889726058",
     "page_name": "Jake Morrison",
     "topic": "both",
-    "active_ads": 4,
-    "tier": "LOW",
+    "active_ads": 12,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },

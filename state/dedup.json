@@ -1132,7 +1132,20 @@
     "33af1ccf83440789dba5ea4aaa94f6304b98274372cd45ec88196e4b2ba65522",
     "daf38e54b1f1a58a33d029baf8aeac4808fc7c95a7d4c60a8eff29ab30205ca7",
     "fd4ac0cb0e27d18dc7b05fbb231d4be9c644ef313f8fa61103348eb90f69fe70",
-    "dc981e9fbdf49e2dce6410b7a83c542cbfb40e4f5dc6c5025db47e47a1d5df38"
+    "dc981e9fbdf49e2dce6410b7a83c542cbfb40e4f5dc6c5025db47e47a1d5df38",
+    "a6da70e964acb620a65ddcdfb827943496e6582dcd24b63110ba5053d8c5dbc8",
+    "7f9ed41ebeedea809d90d01f2afcf6265d9c66219595cd17c3d37e50cad24600",
+    "b10b40d50f30ba702839d306d00e9eecd8a57be8925701441a93b6ab2da8a37a",
+    "cfbd5ac3c99cac0419eacb313e1f0473c55419a3c15f2834040d4ecfd52432b7",
+    "efea89d6baaba2ad6cbe5097b0b9a6ab89fca00ef8f3365d0e6ea23133226043",
+    "46e9489c729e0e1786b5d840dba2fbf6057a642e18fb6b1753ef773dbf541f7d",
+    "fb1d285de21964ef98435e81066b6c1b667ae2ac5359f5bf5f6ae251006dc665",
+    "e77db1508c7e1348635cd14ef3bcfbdd06ed498cea9b88b3940bac60d7ccbd33",
+    "ecd5b316f59a7a0b1363f8f15310927d0644e5b8aa9fd7294310d0209d9d2cae",
+    "eb18654f0f82ee5824e157dfb8d5c07a459ef71c3c186cfed959b2fe680704eb",
+    "aa5ddc3104240fe3f5caa61357e66cef44ba6b8b4285a6520a0a78dd705f4e1c",
+    "f869d150bdd4218b0759af92e3709b4a7325cfeb68c987b5ec7f98ad0e78f339",
+    "6b9201f4f03eec07308581f493bb81202d279eb75393847d7a6be40115e1e2b7"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1696,7 +1709,13 @@
     "2026-08-07|https://www.nfpa.org/education-and-research/home-fire-safety",
     "2026-08-07|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
     "2026-08-07|https://www.ready.gov/plan",
-    "2026-08-07|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html"
+    "2026-08-07|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+    "2026-08-08|https://www.usfa.fema.gov/prevention/home-fires/",
+    "2026-08-08|https://www.ready.gov/plan",
+    "2026-08-08|https://www.ready.gov/winter-weather",
+    "2026-08-08|https://www.ready.gov/power-outages",
+    "2026-08-08|https://www.ready.gov/kids",
+    "2026-08-08|https://www.nfpa.org/education-and-research/home-fire-safety"
   ],
   "sceneUses": [
     {
@@ -1770,6 +1789,10 @@
     {
       "h": "1a5447533ddc531c",
       "date": "2026-08-07"
+    },
+    {
+      "h": "e68c30ec41a9ce3d",
+      "date": "2026-08-08"
     }
   ]
 }
