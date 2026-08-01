@@ -1,6 +1,6 @@
 {
   "id": "2026-08-08__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-08",
   "scheduled_time": "13:39",
-  "message": "",
+  "message": "We've all had those family group chats where we share tips and tricks for being ready for anything life throws our way. 🌟 One resource we find super helpful is a guide that covers essential safety skills for emergencies. It's like a friendly reminder of simple things we can all do to feel a bit more prepared without the stress. Taking a little time to learn and discuss these skills together can make a big difference for our loved ones. \n\nWhat’s a safety tip or trick you’ve shared with your family lately?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/safety-skills",
+  "post_id": "1050667511458583_122123917406950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f526b31ef32010d9e4022e7cb5ea3b0989184ae862af4b5c8e4819f7704fe0b8",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

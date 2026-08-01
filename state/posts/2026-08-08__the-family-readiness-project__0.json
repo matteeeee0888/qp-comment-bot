@@ -1,6 +1,6 @@
 {
   "id": "2026-08-08__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-08",
   "scheduled_time": "11:47",
-  "message": "",
+  "message": "We’ve all had those moments in our family group chat, right? You know, the ones where we discuss what we’d need in an emergency? It’s a little like packing for a road trip: you want to be ready for anything, but you also don’t want to overstuff the car! \n\nThat’s why it’s so helpful to have a clear list of supplies for our emergency kits. It keeps us organized and gives us peace of mind knowing we’re prepared together. Let’s make sure we have what we need, so we can focus on each other when it matters most. 🧡",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+  "post_id": "1059660273889438_122138323941281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f5e8dabac4f0ac7a7014dc9c7ee81cd0e03e8b18a540a161f3d170b8c7761f0f",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

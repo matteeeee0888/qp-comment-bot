@@ -1,6 +1,6 @@
 {
   "id": "2026-08-07__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-07",
   "scheduled_time": "13:48",
-  "message": "",
+  "message": "I’ve always found storms to be a bit dramatic, don’t you think? Just when you’re cozying up with a cup of tea, the power decides to play hide and seek. That’s why I appreciate having a reliable resource on hand for thunderstorms and lightning. It’s a good reminder to have a plan in place—especially when our phones and gadgets might not be so reliable when we need them most. Just a little prep can keep the calm in the chaos. 🌩️",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/thunderstorms-lightning",
+  "post_id": "936909452848936_122124777986955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "79014d0f82dfb4818e4f9abf7676bf961b69449fbb94472ba681a315b22795ac",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

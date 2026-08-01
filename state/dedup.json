@@ -1145,7 +1145,14 @@
     "eb18654f0f82ee5824e157dfb8d5c07a459ef71c3c186cfed959b2fe680704eb",
     "aa5ddc3104240fe3f5caa61357e66cef44ba6b8b4285a6520a0a78dd705f4e1c",
     "f869d150bdd4218b0759af92e3709b4a7325cfeb68c987b5ec7f98ad0e78f339",
-    "6b9201f4f03eec07308581f493bb81202d279eb75393847d7a6be40115e1e2b7"
+    "6b9201f4f03eec07308581f493bb81202d279eb75393847d7a6be40115e1e2b7",
+    "79014d0f82dfb4818e4f9abf7676bf961b69449fbb94472ba681a315b22795ac",
+    "8cc80a38a54d7c53a1c95231630938b836271fff9198b563e9dc3b339dcc56ca",
+    "8e62fd204e88237accbf920231ff81fab51227c413ca72e9db31aea36e1cb223",
+    "d525bf108822977145ecc3167119c5f26bb24607de49e385df34fd16bec2047f",
+    "e317854e4b7da419deeaebfca86bb268d41d7f1e29cba0c78bdba46afa64bdf8",
+    "f526b31ef32010d9e4022e7cb5ea3b0989184ae862af4b5c8e4819f7704fe0b8",
+    "f5e8dabac4f0ac7a7014dc9c7ee81cd0e03e8b18a540a161f3d170b8c7761f0f"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1715,7 +1722,13 @@
     "2026-08-08|https://www.ready.gov/winter-weather",
     "2026-08-08|https://www.ready.gov/power-outages",
     "2026-08-08|https://www.ready.gov/kids",
-    "2026-08-08|https://www.nfpa.org/education-and-research/home-fire-safety"
+    "2026-08-08|https://www.nfpa.org/education-and-research/home-fire-safety",
+    "2026-08-07|https://www.ready.gov/thunderstorms-lightning",
+    "2026-08-07|https://www.ready.gov/kids",
+    "2026-08-07|https://www.ready.gov/financial-preparedness",
+    "2026-08-08|https://www.ready.gov/financial-preparedness",
+    "2026-08-08|https://www.ready.gov/safety-skills",
+    "2026-08-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html"
   ],
   "sceneUses": [
     {

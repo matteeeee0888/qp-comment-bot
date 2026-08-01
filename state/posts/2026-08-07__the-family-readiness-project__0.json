@@ -1,6 +1,6 @@
 {
   "id": "2026-08-07__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-07",
   "scheduled_time": "19:46",
-  "message": "",
+  "message": "We all have that one friend who panics at the slightest hint of trouble, don’t we? 😊 It’s important to have a plan for unexpected bumps in the road, especially when it comes to our finances. This resource is a great way to think about how we can prepare ourselves financially for whatever life might throw our way. Taking small, practical steps can really help us feel more in control and less anxious. Let’s take a moment to reflect on our own financial readiness—what’s one small thing we can do today to feel more prepared?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/financial-preparedness",
+  "post_id": "1059660273889438_122138323893281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "8e62fd204e88237accbf920231ff81fab51227c413ca72e9db31aea36e1cb223",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

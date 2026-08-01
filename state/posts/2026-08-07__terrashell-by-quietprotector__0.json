@@ -1,6 +1,6 @@
 {
   "id": "2026-08-07__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-07",
   "scheduled_time": "09:38",
-  "message": "",
+  "message": "We've all had those moments when we wish we were a little more prepared, right? 🤔 This resource is a fantastic way to help our kids understand what to do in emergencies, which can make all the difference when the unexpected happens. By starting these conversations early and using the tools available, we can feel more confident and ready for anything that comes our way.\n\nLet’s turn our intentions into actions and be the prepared ones for a change! Do you have any tips for getting kids involved in preparedness?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kids",
+  "post_id": "1050667511458583_122123917370950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "8cc80a38a54d7c53a1c95231630938b836271fff9198b563e9dc3b339dcc56ca",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

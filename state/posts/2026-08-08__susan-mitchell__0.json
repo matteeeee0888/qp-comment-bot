@@ -1,6 +1,6 @@
 {
   "id": "2026-08-08__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-08",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "You know, there’s something a bit funny about being caught off guard. Like the time I thought I’d whip up a gourmet dinner, only to realize I was missing half the ingredients! 🍳 It’s the same with being prepared for unexpected events — a little planning goes a long way. This resource on financial preparedness is a great reminder that a little foresight can help us navigate life’s surprises with a bit more grace. Have you ever had a moment where you wished you’d been more ready?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/financial-preparedness",
+  "post_id": "719343644592338_122193869006926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d525bf108822977145ecc3167119c5f26bb24607de49e385df34fd16bec2047f",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
