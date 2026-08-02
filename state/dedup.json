@@ -1152,7 +1152,23 @@
     "d525bf108822977145ecc3167119c5f26bb24607de49e385df34fd16bec2047f",
     "e317854e4b7da419deeaebfca86bb268d41d7f1e29cba0c78bdba46afa64bdf8",
     "f526b31ef32010d9e4022e7cb5ea3b0989184ae862af4b5c8e4819f7704fe0b8",
-    "f5e8dabac4f0ac7a7014dc9c7ee81cd0e03e8b18a540a161f3d170b8c7761f0f"
+    "f5e8dabac4f0ac7a7014dc9c7ee81cd0e03e8b18a540a161f3d170b8c7761f0f",
+    "24ac78b5f5546fe8674199ea2787150afddb93174ff963e1d583657ccc0deb10",
+    "cc034ba429964a3a0edc94f8f86ec5c5bb09f3d30cc8becdbe9afcdc3461d31c",
+    "35aaf3cdd406e167d77c2396a09f41b7ead62931d0228213619b083fa1b97440",
+    "0dab6d794fa5d09ffbc512bee8b59fc663eb707c6562447f1e1e4607ff7fbf61",
+    "8d18cf626ed50c41c2835d40fac28f09369290d232e8faab6072cd16a325132b",
+    "0716a5005952f7171f7aa6fb4eb39af004f0b7f73883b6a40d8533e0a6a44508",
+    "3db2935776d67f599994d684d8885b31f0bb6bc0677bd2c286cd0cd6d1646759",
+    "491beb113e4d19d50fe31f0b614730ceabf98065c25d33f5014d722cae6b769c",
+    "bd0fa110311094c09d04ee5d84e33e4ab36e0878c64e8bae097eb3797445566a",
+    "8f27a8e8e231e12d873390dada63e63d816c76de9e04c50fe6c0809bf60e6f78",
+    "e22264b1f9547c88c12a7b6f226c3e0d48a12110cae145beeeb265b3a4ecbb82",
+    "7f64c9cdb55e31a3150af4d17cc552fd2f83f6bbd90c278eed69ebaa1f76b28a",
+    "c21064b1874da880e41d2f0d305275c805e572e1fd9ca49516aca9a6b7b1f505",
+    "06a696ac2c71c7d35fe714ee71d1534c5d6c2f61f06a18ca6a2e0ce3d1c54186",
+    "8329690a2bc047611f3cb82f3f3233e6a0f9110481cc53e65291047a5cfee780",
+    "c70be1c736fbededfb43d9cae9977bd8735f987eda181a23d9808be4eed3d785"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1728,7 +1744,12 @@
     "2026-08-07|https://www.ready.gov/financial-preparedness",
     "2026-08-08|https://www.ready.gov/financial-preparedness",
     "2026-08-08|https://www.ready.gov/safety-skills",
-    "2026-08-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html"
+    "2026-08-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+    "2026-08-09|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "2026-08-09|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
+    "2026-08-09|https://www.usfa.fema.gov/prevention/home-fires/",
+    "2026-08-09|https://www.ready.gov/hurricanes",
+    "2026-08-09|https://www.ready.gov/heat"
   ],
   "sceneUses": [
     {
@@ -1806,6 +1827,22 @@
     {
       "h": "e68c30ec41a9ce3d",
       "date": "2026-08-08"
+    },
+    {
+      "h": "40299da20ec960b9",
+      "date": "2026-08-09"
+    },
+    {
+      "h": "6900bbb1fb5e8459",
+      "date": "2026-08-09"
+    },
+    {
+      "h": "42206e1bc42da953",
+      "date": "2026-08-09"
+    },
+    {
+      "h": "d960512eb141a815",
+      "date": "2026-08-09"
     }
   ]
 }
