@@ -1,6 +1,6 @@
 {
   "id": "2026-08-09__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-09",
   "scheduled_time": "13:37",
-  "message": "",
+  "message": "The other day, I took a moment to review some simple car emergency tips, and I was pleasantly surprised at how much peace of mind it brought me. It’s amazing what a little preparation can do—just knowing I’m ready for those unexpected roadside hiccups feels like a small win that saved the day. \n\nFrom checking my spare tire to keeping snacks in the glove compartment, these little things can really make a difference. It’s all about feeling secure on the road, isn’t it? Have you taken a moment to check your car’s readiness lately?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/car",
+  "post_id": "1112110298653755_122118769971340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "314bd8cf1caacb0721d6adba8378569a6acbbf1630370099105b58b4ed8a02c0",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
