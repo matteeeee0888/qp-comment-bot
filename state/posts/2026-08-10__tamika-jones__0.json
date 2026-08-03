@@ -1,6 +1,6 @@
 {
   "id": "2026-08-10__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-10",
   "scheduled_time": "19:32",
-  "message": "",
+  "message": "The other day, I found myself staring out the window at a rather aggressive storm, wondering if I should start building an ark. Instead, I took a moment to check a reliable weather resource that offered some practical tips on flood safety. It was a small win that saved the day—no need for the boat after all. Have you ever had a moment where a little prep made a big difference?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.weather.gov/safety/flood",
+  "post_id": "1031788496687467_122120568722849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "482f24e38358e5f38a3bd3c4c44b6184b0f413ba6e91b4687de17ecf4afcc714",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
