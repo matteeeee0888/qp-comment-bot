@@ -1,6 +1,6 @@
 {
   "id": "2026-08-11__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-11",
   "scheduled_time": "13:45",
-  "message": "",
+  "message": "The other day, as I was sipping my morning coffee, I remembered a time when a storm rolled in unexpectedly. I had a little checklist tucked away that helped me prepare without a fuss. It's amazing how a few simple tips can turn a big, blustery day into a small win. It's all about being ready, so you can enjoy the cozy indoors. 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/floods",
+  "post_id": "936909452848936_122125311002955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "62db5e4d6b6f6b774f976e982412bf4f725f5ab2fa9d8967f9fc3bfa668b3a73",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
