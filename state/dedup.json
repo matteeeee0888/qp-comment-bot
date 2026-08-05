@@ -1203,7 +1203,21 @@
     "36cd7ce291cbbffac67607f526c1071c510629181745f6bee7420bc505fa3c0f",
     "50bd43b189ef6091b588662480628e108e4e1c9933f578d81911ff38708e01be",
     "3dee47fcdf6a6f029ea2ebb16a0abd907bb40d4dbaf6352be7a4a5e631de2505",
-    "62db5e4d6b6f6b774f976e982412bf4f725f5ab2fa9d8967f9fc3bfa668b3a73"
+    "62db5e4d6b6f6b774f976e982412bf4f725f5ab2fa9d8967f9fc3bfa668b3a73",
+    "37a3518fe40a5678cdb1ca6207241f322c57806b0c3197cb76cd9805fcab0e99",
+    "471a0287e1ff60b2fff44422322bdba0acca906fc692330c74e1c7cb42f04996",
+    "8091fc5e9be6ac0ebfbd4cf8b947ab4da8cc1e11162305601c4c9a0dc1cc9411",
+    "99480fb003d607c9991dbe1c2d543e15a8463b54977507af1d6369d5f932cea9",
+    "34966b24151f5a45b1281b1994ed4aed1bebbc0ace57a515422c7ec360a5d19c",
+    "cbb604608aa8d8b4d3caf4d051dd54ffdad0d611d5e6439400504dda81c70c94",
+    "1874a99ea10e5a730b116374b5ab52c55bcf9eae015435d31e92a1a3767226b0",
+    "8de1db7f10e9fb326cfa9ee92c83c33382af522aea09e7b922bbe45217facddb",
+    "0800e66487f3d7316d214c880c87b682ec8d32e75bb6e20318600460242e7f34",
+    "f030a4a3cdb29ac7663acde547c9062099aaa5cda675eacce2e459ddef030458",
+    "3f6fb4aa243b63bf87032cd6ebb48391f0d44cf78a93a22b9be62d7855e540d7",
+    "041c8eb2e04852562c9db19b300e62b7c4f6499db0ab11f8ca263ff67a4ab1ac",
+    "7509db45bb995cb06e68bef067e256cb2b8e26a961945f1451c60a1bdc6ce5b9",
+    "7cce84d6ac9e005bb3ff5333508ec172ea526c77b1c97f0ee6d28ebe30af238c"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1803,7 +1817,12 @@
     "2026-08-11|https://www.ready.gov/home-fires",
     "2026-08-11|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
     "2026-08-11|https://www.ready.gov/plan",
-    "2026-08-11|https://www.ready.gov/floods"
+    "2026-08-11|https://www.ready.gov/floods",
+    "2026-08-12|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
+    "2026-08-12|https://www.ready.gov/hurricanes",
+    "2026-08-12|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+    "2026-08-12|https://www.ready.gov/heat",
+    "2026-08-12|https://www.ready.gov/tornadoes"
   ],
   "sceneUses": [
     {
@@ -1901,6 +1920,14 @@
     {
       "h": "c05288f95e9bb5a6",
       "date": "2026-08-10"
+    },
+    {
+      "h": "f75409d4fd954b1d",
+      "date": "2026-08-12"
+    },
+    {
+      "h": "61462e52b6ce2b09",
+      "date": "2026-08-12"
     }
   ]
 }
