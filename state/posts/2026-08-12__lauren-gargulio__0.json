@@ -1,6 +1,6 @@
 {
   "id": "2026-08-12__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-12",
   "scheduled_time": "18:34",
-  "message": "",
+  "message": "You know, there’s something oddly satisfying about being the one who’s prepared when a storm rolls in. I stumbled upon this handy resource that covers winter weather tips, and I think it’s time I finally embrace my inner Boy Scout—minus the awkward uniforms. It feels good to be ready, doesn’t it? What’s your go-to tip for staying cozy during a storm?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/winter-weather",
+  "post_id": "1127031013825481_122111506899335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "bc05933a34813a8b66bc60694fde2a690196a70a97c2592c3a621f4a0031e36f",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
