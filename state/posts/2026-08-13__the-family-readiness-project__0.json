@@ -1,6 +1,6 @@
 {
   "id": "2026-08-13__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-13",
   "scheduled_time": "15:45",
-  "message": "",
+  "message": "We all know that one person who seems gloriously over-prepared for every little thing, right? I remember a family gathering when one of our friends arrived with a go-bag that could rival a small army's supply kit. It was filled with snacks, first-aid supplies, extra socks, and even a portable water filter! At first, we chuckled, but as the evening wore on, we found ourselves reaching for her stash during a surprise rainstorm. \n\nIt made us think about the value of being a little extra prepared. Sure, we might not need a portable water filter for a picnic, but having a few essentials on hand can turn a minor hiccup into a minor inconvenience instead. Who knows, maybe we could all take a page from her book and start our own little stash! 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1059660273889438_122139221241281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6245dbbaeae0ae02799e38dd537492a74ba5c91cdc01b0deb02f58bdad9fbea5",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

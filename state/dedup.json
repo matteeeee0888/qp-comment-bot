@@ -1230,7 +1230,18 @@
     "1330070b93721a4cf42c1b986ac252f79759c29fd09a85bb3acd385523be4e14",
     "001139b28058b24c39a8242b19d5d9f9fbba5c05cbc48129fb4193c257aba8cf",
     "824c38e8fa5dc8f861a92103052a197133b82ec556ac08ed68d8707c43db246e",
-    "0a6fd7f9c198f814143fd72188e684afdbd1141a4c93943762ec321dff68d867"
+    "0a6fd7f9c198f814143fd72188e684afdbd1141a4c93943762ec321dff68d867",
+    "15a2a3579d42be3f37322094e4da48f5752011617325d141568811f8f7d5f74a",
+    "6b391ea933dcd7f70b72bf1ab315f059a6d2a2d29d057de548d626e280eb260e",
+    "6245dbbaeae0ae02799e38dd537492a74ba5c91cdc01b0deb02f58bdad9fbea5",
+    "4666e40e2152d6813ca7420fefee329ed698fdeb1ed9c852099d67fb7c418c8e",
+    "3a4b8b41deb80ac2bbfd097f3901a7c23c08951ed52796d1eaa3cf358935a9f3",
+    "6794e2d83fd1256a684a281ecceb082ea3472bec8a5d732639c3738243b5a9a0",
+    "ca0e2600a2fbca42219073eec15f41915b00b89a4b8def678c5848e9f5c2bc14",
+    "c6eafd43ed461413cb9e3068899080bb106f35344a858838303e1035607aedf8",
+    "5eaf813aa03a64f5ac32951adc5aab80ead58a34d26b52c02d0e102df41ab111",
+    "450583fabd6f3317e9b46d070abc127c975890c3d879baace977114e2f556dc6",
+    "2340945b712686ef1ecbd3a1c9fff985f174b4b8644a83b66ff943c084d62b1c"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1839,7 +1850,14 @@
     "2026-08-12|https://www.ready.gov/winter-weather",
     "2026-08-13|https://www.weather.gov/safety/flood",
     "2026-08-13|https://www.ready.gov/financial-preparedness",
-    "2026-08-13|https://www.ready.gov/home-fires"
+    "2026-08-13|https://www.ready.gov/home-fires",
+    "2026-08-12|https://www.ready.gov/kit",
+    "2026-08-14|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "2026-08-14|https://www.nfpa.org/education-and-research/home-fire-safety",
+    "2026-08-14|https://www.ready.gov/home-fires",
+    "2026-08-14|https://www.ready.gov/kids",
+    "2026-08-14|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+    "2026-08-14|https://www.ready.gov/power-outages"
   ],
   "sceneUses": [
     {
@@ -1949,6 +1967,10 @@
     {
       "h": "df2ea2439ce5308b",
       "date": "2026-08-13"
+    },
+    {
+      "h": "d5086057aece8994",
+      "date": "2026-08-14"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-08-13__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-13",
   "scheduled_time": "17:37",
-  "message": "",
+  "message": "You know that one friend who seems to have a go-bag for every occasion? We’re talking about the gloriously over-prepared person who has snacks for road trips, extra batteries for camping, and enough bottled water to float a small boat. 😄 I used to roll my eyes a bit, but after a recent weekend trip where we faced an unexpected storm, I found myself wishing I had packed even half of what they had. It’s funny how those little moments can shift our perspectives on readiness. \n\nIn the end, preparedness doesn’t have to look perfect; it just has to work for us. What’s your own little tip or trick for staying ready, even if it feels a bit extra sometimes?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1050667511458583_122124677756950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6b391ea933dcd7f70b72bf1ab315f059a6d2a2d29d057de548d626e280eb260e",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

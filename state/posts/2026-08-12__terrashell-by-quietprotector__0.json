@@ -1,6 +1,6 @@
 {
   "id": "2026-08-12__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-12",
   "scheduled_time": "13:36",
-  "message": "",
+  "message": "Preparing for the unexpected can feel a bit daunting, but we like to think of it as a cozy project to tackle together! 🛠️ Building an emergency kit is a great way to ensure we have what we need, no matter what life throws our way. It’s not just about supplies; it’s about creating a sense of security and peace of mind for our families. Plus, it’s a wonderful opportunity to gather the family and turn this task into a fun little event—complete with a checklist and maybe even some snacks! What’s your favorite tip or trick for prepping an emergency kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1050667511458583_122124677744950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "15a2a3579d42be3f37322094e4da48f5752011617325d141568811f8f7d5f74a",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
