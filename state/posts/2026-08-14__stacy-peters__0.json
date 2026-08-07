@@ -1,6 +1,6 @@
 {
   "id": "2026-08-14__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-14",
   "scheduled_time": "18:58",
-  "message": "",
+  "message": "As a busy parent, I know how crucial it is to have a plan in place—especially when technology can fail us at the worst possible moment. Having a backup plan for emergencies can really save the day, whether it’s a power outage or a sudden storm. If you haven't yet thought about your family's emergency plan, I encourage you to check out some helpful resources. What’s your go-to tip for staying prepared when tech lets you down? 🌟",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122123202410848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d12cd7e8412706b695312dd9e0add7ec6752fc229f49fa757365452fbb83a6c9",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

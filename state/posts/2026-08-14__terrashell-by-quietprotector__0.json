@@ -1,6 +1,6 @@
 {
   "id": "2026-08-14__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-14",
   "scheduled_time": "09:38",
-  "message": "",
+  "message": "We've all been there—your phone dies right when you need it most. That's why it's so important to have a solid plan for getting around during emergencies, even if technology lets us down. This resource from Ready.gov offers some great tips on car safety and preparedness that can keep us a step ahead when things don’t go as planned. 🚗\n\nIt’s all about knowing what to do before we hit the road, so we can navigate any bumps in the journey with ease. What’s your go-to tip for staying ready on the road?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/car",
+  "post_id": "1050667511458583_122124708914950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "79da93c70a7ebec024a18c8f25797a60bb076f968b95a21b5a22d503c204eb4b",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

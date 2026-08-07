@@ -1,6 +1,6 @@
 {
   "id": "2026-08-14__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-14",
   "scheduled_time": "19:46",
-  "message": "",
+  "message": "In our journey toward being better prepared, we often focus on the essentials like food and water, but we shouldn't overlook the importance of financial readiness. This resource offers insightful tips on budgeting and planning, helping us navigate unexpected situations with a bit more ease. It's a gentle reminder that preparing doesn't always have to be high-tech; sometimes, a little old-fashioned budgeting can bring us great peace of mind.\n\nAs we explore these ideas together, let’s remember that preparedness can also be a chance to bond and share stories over a cup of coffee. What’s one financial tip you’ve found helpful?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/financial-preparedness",
+  "post_id": "1059660273889438_122139276465281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e6d611ee060cb1e77cfda3ca3c1dc68c6de785a0c98798c5eadfd69292f2cfb9",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

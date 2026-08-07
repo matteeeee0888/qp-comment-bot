@@ -1,6 +1,6 @@
 {
   "id": "2026-08-12__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-12",
   "scheduled_time": "11:44",
-  "message": "",
+  "message": "As we navigate the busy world of parenting, it’s easy to overlook the importance of being prepared for the unexpected. We often focus on our kids' needs, but fostering a sense of readiness within our families can empower everyone, young and old. \n\nThe resource we’re sharing offers practical steps for creating a family emergency plan, which can actually be a fun activity to do together. Engaging our kids in the planning process not only teaches them valuable skills but also reassures them that we’re in this together. \n\nHow do you think your little ones would react to helping create a plan? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122139276357281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d847126412ae7a9f33c55cf8924e58f48b9fcd52bc0eaa8697433fedc9cbeb8b",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

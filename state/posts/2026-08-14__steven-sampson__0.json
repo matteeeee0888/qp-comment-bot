@@ -1,6 +1,6 @@
 {
   "id": "2026-08-14__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-14",
   "scheduled_time": "18:57",
-  "message": "",
-  "image_path": "",
-  "image_source": "none",
+  "message": "Just wrapped up a cozy cooking session, and I always make sure to keep things tidy before I step away. A clean kitchen feels like a warm hug, don’t you think? 🍳",
+  "image_path": "https://jpxrzhqwutshluiurchs.supabase.co/storage/v1/object/public/us-brands-images/posts/2026-08-14/2026-08-14__steven-sampson__0.png",
+  "image_source": "generated",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "122117961836692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "401a23dee4cd86ca4f29f413d7a2db17a2ec48b3a84627f409f9679d9342d248",
+  "image_key": "gen",
+  "post_type": "photo",
+  "scene": "a kitchen counter with a lid resting on a pan, stovetop clean (just after cleanup, everything tidy)"
 }

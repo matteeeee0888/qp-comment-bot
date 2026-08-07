@@ -1,6 +1,6 @@
 {
   "id": "2026-08-13__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-13",
   "scheduled_time": "11:33",
-  "message": "",
+  "message": "You know that one friend who always seems to panic at the mention of emergencies? 🙈 I think having the right resources can help ease those worries! This site is a great place for kids to learn about preparedness in a fun and engaging way. It’s amazing what kids can do when they feel empowered! What’s your go-to tip for getting little ones involved in preparedness?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kids",
+  "post_id": "1003918682810439_122125574943072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4285235bfc124122b1a46b185b777dfec1268989622f13d05c4fdaf8e11fbeba",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

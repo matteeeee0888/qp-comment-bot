@@ -1,6 +1,6 @@
 {
   "id": "2026-08-14__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-14",
   "scheduled_time": "13:52",
-  "message": "",
+  "message": "I remember the time we had a big storm warning, and my neighbor, bless her heart, turned into a one-woman emergency preparedness show. She had enough bottled water to start a small convenience store and was offering everyone in the neighborhood homemade beef jerky. I stood there with my one extra flashlight and a can of soup, feeling a tad underprepared. But you know what? I realized that sometimes, a little over-preparedness can be a comfort, especially when the winds start howling. So, I took her up on that jerky and we hunkered down with a game of cards while the storm passed. \n\nWhat’s your go-to tip for feeling ready when the weather turns? 🌧️",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "962411806966339_122123982098947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d6ebf1779c121373c3474f9d203172bbea0376186a2e0a19cc7f1bc6c9aad08c",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

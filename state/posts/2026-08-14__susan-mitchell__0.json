@@ -1,6 +1,6 @@
 {
   "id": "2026-08-14__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-14",
   "scheduled_time": "15:42",
-  "message": "",
+  "message": "The other day, my friend Janet called in a bit of a tizzy—she had just seen a news segment about emergency preparedness and was feeling overwhelmed. I listened patiently as she rattled off her worries about go-bags and water supplies. I told her how I keep a little checklist for our family, so we can tackle one thing at a time instead of letting it all pile up. Sometimes it’s just about taking a deep breath and breaking things down into manageable bits, isn’t it? 😊 How do you keep your calm in a storm?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "719343644592338_122194770728926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4f3414394b5202e0d9a424a5a1c68347ee053b9fefd42c40d73c1dfd9e62b841",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }
