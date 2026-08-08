@@ -1,6 +1,6 @@
 {
   "id": "2026-08-15__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-15",
   "scheduled_time": "17:53",
-  "message": "",
+  "message": "You know, as the winds pick up and the snow starts to swirl, I find myself missing the simple joys of a good old-fashioned snow day. Remember when we’d bundle up and head outside to build snowmen, only to return inside for hot chocolate? Those low-tech moments are the ones that stick with me. \n\nI recently stumbled upon a resource that offers some practical tips for staying safe during winter weather. It’s a gentle reminder to prepare without all the fuss — just like my grandma used to do. \n\nSo, if you’re looking for ways to enjoy the season while staying cozy and safe, why not check it out? And what’s your favorite snow day activity? ❄️",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/winter-weather",
+  "post_id": "962411806966339_122124075752947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "08e3225cf4d0645ce16b30a780f86b7fd26a9bd636d3ece64c130e7bf3554966",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

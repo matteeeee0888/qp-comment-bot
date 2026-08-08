@@ -1,6 +1,6 @@
 {
   "id": "2026-08-13__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-13",
   "scheduled_time": "14:57",
-  "message": "",
+  "message": "I recently shared a great resource in our family group chat about making emergency plans. It’s a reminder that being prepared doesn’t have to be stressful—it can actually bring us closer together. I love how we can all contribute our ideas and feel more confident as a family. What’s your go-to tip for staying prepared? 🏡",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1055885867606549_122123301626848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4bab9fdcc61993c58a23ada0911867a0668e780405a834790835c04840ba248f",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-08-15__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-15",
   "scheduled_time": "13:39",
-  "message": "",
+  "message": "We recently had a little scare when a storm was headed our way. As the winds picked up, we gathered in the living room with our go-bags and a few snacks, turning what could have been a stressful situation into a cozy family event. We shared stories about our favorite adventures and even played a few rounds of cards by candlelight. 🌪️\n\nIt reminded us that being prepared isn’t just about the supplies we have; it’s also about how we come together as a family. So, whether it’s creating a plan or packing your go-bags, let’s find ways to make these moments feel warm and connected. What’s your favorite way to turn a preparedness plan into a family experience?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1050667511458583_122124818858950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "cc7df794b8dba9de7a96afc81caddd009beb3b089a68d8f78f5a98b38c93541c",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

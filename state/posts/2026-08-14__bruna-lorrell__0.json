@@ -1,6 +1,6 @@
 {
   "id": "2026-08-14__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-14",
   "scheduled_time": "10:04",
-  "message": "",
+  "message": "Storm season is upon us, and it’s easy to get lost in the chaos of the moment. I’ve learned the hard way that tech can fail right when you need it most, so having some solid info on hand is a lifesaver. Check out this resource from the National Weather Service to stay one step ahead. Remember, a little preparation goes a long way.",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.weather.gov/safety/flood",
+  "post_id": "1188071991047656_122128310667350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e9fb3c9c01ffa8ff0ddc0c2e75d046f81837cb014fe0cd50cf3bee1446113bf6",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

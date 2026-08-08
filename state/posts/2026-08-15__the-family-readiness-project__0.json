@@ -1,6 +1,6 @@
 {
   "id": "2026-08-15__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-15",
   "scheduled_time": "11:47",
-  "message": "",
+  "message": "The other evening, we found ourselves having a little family meeting about our emergency plans. Instead of diving into the serious stuff, we turned it into a cozy event—snuggling on the couch with popcorn and hot cocoa. As we chatted about our go-bags and what documents we need handy, we laughed about our favorite snacks to include and who would be in charge of the family playlist. It was a reminder that preparedness doesn’t have to feel heavy; it can be a chance to bond and be a little silly together. \n\nWhat’s something you’d want to pack that would make any situation feel a bit more like home? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1059660273889438_122139382413281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f77ce2e7e5e3dfdaf2394fd399c3eff576cf795ff44325965a783dac6e5981f4",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

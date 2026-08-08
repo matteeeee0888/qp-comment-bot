@@ -1,6 +1,6 @@
 {
   "id": "2026-08-13__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-13",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "You know, sometimes preparing for the unexpected can feel a bit daunting, but I like to think of it as an opportunity to gather cozy essentials. I stumbled upon a helpful resource that outlines what to include in a survival kit, and it got me thinking — packing those supplies could turn into a fun little family project! 🧺 The best part? It’s a chance to share stories and laughter while we create our own safety net. What’s your go-to item for being prepared?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+  "post_id": "719343644592338_122194903940926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "906029b09f6b7fd16296805b38292906329b08572a9f8421c609a28d339f113d",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
