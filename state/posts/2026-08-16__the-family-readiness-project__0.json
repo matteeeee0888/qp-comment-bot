@@ -1,6 +1,6 @@
 {
   "id": "2026-08-16__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-16",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "We all have that one friend who tends to panic when things get a little dicey. 🤔 But being prepared doesn’t have to mean feeling overwhelmed! This resource is a gentle reminder that we can equip ourselves with simple safety skills to navigate unexpected situations. It’s all about empowering ourselves and our loved ones, so we can stay calm and collected when it matters most. Let's take a moment to explore what we can learn together and make preparedness a part of our everyday lives. After all, a little knowledge goes a long way, right?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/safety-skills",
+  "post_id": "1059660273889438_122139474063281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e382b77e6baade5658cc4805007b663557975d893274b20f43186b9b8e451279",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

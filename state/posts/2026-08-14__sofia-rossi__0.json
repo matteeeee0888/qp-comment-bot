@@ -1,6 +1,6 @@
 {
   "id": "2026-08-14__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-14",
   "scheduled_time": "09:42",
-  "message": "",
+  "message": "I remember the time my phone died right as I was trying to find my way home during a storm. It was a reminder of how crucial it is to be prepared, not just for the big things, but for those little moments when technology fails us. Having a well-thought-out kit can make all the difference, providing comfort and essentials when you need them most. \n\nWhether it’s a power outage or a sudden change in plans, it’s nice to have peace of mind knowing you’re ready for anything. What’s one item you think is essential to have in your own kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1112110298653755_122119850295340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "51a127906f8ea2080facbe5cecf46829c27ddd3f3da7cefc0a434adff841f2b4",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
