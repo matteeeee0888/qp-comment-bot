@@ -1,6 +1,6 @@
 {
   "id": "2026-08-17__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-17",
   "scheduled_time": "17:34",
-  "message": "",
+  "message": "We've all had those family group chats where someone brings up the \"what ifs\" of an emergency, right? It's a good reminder that while we hope for the best, being prepared for the unexpected is something we can all benefit from. 💡  \nThis resource offers practical steps on financial preparedness, helping us think through what we might need in uncertain times. It’s always a good time to reflect on our plans, and maybe even share some tips with our loved ones. What’s one financial tip you’d share with the family to keep everyone ready?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/financial-preparedness",
+  "post_id": "1050667511458583_122125070054950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f45955988176e873b883e5e58bdc3d88b176846210859e51d0e3b8d40a36f429",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

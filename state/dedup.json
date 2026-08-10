@@ -1299,7 +1299,12 @@
     "3e929efaa32aafd75185b9bfca05913a53419db0d034ee57b3b7c0fd06f2672d",
     "8a2d2cd41337189c816f765ccd87c864c82f0838c956ee2d921e57baf9108832",
     "9dd3c45485cd8492a956929466935095e45f09d9d10d728979cb5c8a5cf494c6",
-    "7223e90aafe9063263e7489067bcedad5fa052e93bde9c5f52d56f0b42dcf4ee"
+    "7223e90aafe9063263e7489067bcedad5fa052e93bde9c5f52d56f0b42dcf4ee",
+    "d9804f5769eff0de5aac70a718ddc84f915453c9813461a2e1081ceebc5ca7e3",
+    "22fd15272706983b63d5fbb7e5f440881b9b8e77084c4f9f9b9caac20cd59822",
+    "dd772e67d9878541a8c42af1b59fa92fe3d29f9d36c6b453076086cb1a9f2391",
+    "65b0fd89b25ec94d233d2c1021d48633016f1b99ddd30d52e7e03e3454e52888",
+    "f45955988176e873b883e5e58bdc3d88b176846210859e51d0e3b8d40a36f429"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1914,7 +1919,12 @@
     "2026-08-17|https://www.ready.gov/car",
     "2026-08-17|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
     "2026-08-17|https://www.ready.gov/kit",
-    "2026-08-17|https://www.weather.gov/safety/flood"
+    "2026-08-17|https://www.weather.gov/safety/flood",
+    "2026-08-16|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+    "2026-08-17|https://www.ready.gov/thunderstorms-lightning",
+    "2026-08-17|https://www.ready.gov/safety-skills",
+    "2026-08-17|https://www.ready.gov/hurricanes",
+    "2026-08-17|https://www.ready.gov/financial-preparedness"
   ],
   "sceneUses": [
     {

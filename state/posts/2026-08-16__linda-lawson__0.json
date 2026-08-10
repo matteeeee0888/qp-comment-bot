@@ -1,6 +1,6 @@
 {
   "id": "2026-08-16__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-16",
   "scheduled_time": "17:43",
-  "message": "",
+  "message": "You know that feeling when the storm is brewing, and your phone decides to take a nap right when you need it most? 🙄 It’s good to have a backup plan—like knowing what to do when the winds start howling. I found a solid resource on hurricane preparedness that might just save you some last-minute scrambling. Just remember, sometimes the best tech is a little bit of good old-fashioned knowledge!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "936909452848936_122126355926955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d9804f5769eff0de5aac70a718ddc84f915453c9813461a2e1081ceebc5ca7e3",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

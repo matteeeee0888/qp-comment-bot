@@ -1,6 +1,6 @@
 {
   "id": "2026-08-17__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-17",
   "scheduled_time": "11:38",
-  "message": "",
+  "message": "You know, sometimes preparing for the unexpected can feel like a cozy gathering of sorts. I recently stumbled upon a wonderful resource that offers some practical safety skills we can all learn. It’s like gathering around the kitchen table to share tips and tricks, making sure our loved ones know what to do in different situations. After all, being ready means we can focus more on the moments that matter, don’t you think?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/safety-skills",
+  "post_id": "719343644592338_122195205692926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "dd772e67d9878541a8c42af1b59fa92fe3d29f9d36c6b453076086cb1a9f2391",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

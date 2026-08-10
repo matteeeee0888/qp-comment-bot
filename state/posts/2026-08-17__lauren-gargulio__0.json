@@ -1,6 +1,6 @@
 {
   "id": "2026-08-17__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-17",
   "scheduled_time": "10:32",
-  "message": "",
+  "message": "You know that one friend who turns every little storm into an epic saga? 🌩️ Well, it’s good to be prepared, even if you’re not the panicky type. I found a handy guide on thunderstorms and lightning that breaks it down nicely. It’s a great reminder that a little knowledge goes a long way in keeping our families safe and calm. Have you ever found yourself caught in a storm? What did you do?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/thunderstorms-lightning",
+  "post_id": "1127031013825481_122112092751335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "22fd15272706983b63d5fbb7e5f440881b9b8e77084c4f9f9b9caac20cd59822",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

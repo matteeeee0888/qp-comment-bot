@@ -1,6 +1,6 @@
 {
   "id": "2026-08-17__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-17",
   "scheduled_time": "09:48",
-  "message": "",
+  "message": "You know that friend who gets a little too worked up when the clouds start looking grumpy? Well, I’ve got a resource that might just calm their nerves. It’s like a cozy blanket for your mind when storm season rolls around. This guide has some handy tips for getting ready, so you can focus on the important stuff—like what to bake if you’re stuck inside. \n\nRemember, preparedness doesn’t have to be a panic party! What’s your go-to tip for staying calm during a storm?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/hurricanes",
+  "post_id": "962411806966339_122124281348947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "65b0fd89b25ec94d233d2c1021d48633016f1b99ddd30d52e7e03e3454e52888",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
