@@ -1,6 +1,6 @@
 {
   "id": "2026-08-17__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-17",
   "scheduled_time": "15:42",
-  "message": "",
+  "message": "Hey friends! 🌼 As we gather in our family group chat discussing our plans for the upcoming season, it's a great time to think about our preparedness. Having a solid plan can really ease our minds and help us support one another when it counts. We can share ideas, resources, and even check off our essentials together! Let's take a moment to reflect on how we can be ready, just in case. What’s one thing you’d like to add to our family plan?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122139663843281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "67846ba8f14498c63fd90a2628b9e982cc132a7dd2eaabc36f7c52699322a0a7",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

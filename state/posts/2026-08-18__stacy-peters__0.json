@@ -1,6 +1,6 @@
 {
   "id": "2026-08-18__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-18",
   "scheduled_time": "18:55",
-  "message": "",
+  "message": "As a busy parent, I often find myself juggling a million things at once, but one small win that’s truly saved the day for me is having an emergency kit ready at home. It’s comforting to know that I have essential items organized and easily accessible, just in case we need them. If you haven't thought about it yet, now might be a great time to check out some simple ideas for putting together your own kit! What’s your go-to tip for being prepared?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1055885867606549_122123639186848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "02e2031a01a252676238bb67850540fce69b55b70a3d28a6acf10afc2773e813",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-08-18__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-18",
   "scheduled_time": "15:31",
-  "message": "",
+  "message": "I recently found a great resource about car emergency preparedness and it got me thinking about our family group chat. It's so reassuring to share tips like keeping an emergency kit in the car or knowing what to do in case of a breakdown. 🛠️ What’s your go-to tip for staying prepared on the road?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/car",
+  "post_id": "1003918682810439_122126034063072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "72a1effdec8b88be2070c4c6b81762a9cb9a2c75780b171be141da59a9437db5",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

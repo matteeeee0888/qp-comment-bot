@@ -1,6 +1,6 @@
 {
   "id": "2026-08-18__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-18",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "You know that moment when you're relying on your phone for something important, and it suddenly dies? 😩\n\nWe had one of those experiences recently while trying to navigate a new area during a family road trip. Just as we were about to find a local park, our GPS app froze and then went dark. Thankfully, we had a paper map stashed in the glove compartment (a little old school, but it saved the day!).\n\nIt reminded us how essential it is to have a back-up plan, especially when it comes to our family’s safety and readiness. Maybe it’s time for a quick family chat about our go-bags and ensuring we have all our important documents ready—just in case. Have any of you had a tech fail at the worst moment? 🤔",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1059660273889438_122139663867281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "55bfa442343ee4f8c29c0540aa7fde306de7ba2e6cbf33afb4f3479633e0c632",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }
