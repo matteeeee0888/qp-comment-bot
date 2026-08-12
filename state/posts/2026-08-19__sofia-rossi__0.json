@@ -1,6 +1,6 @@
 {
   "id": "2026-08-19__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-19",
   "scheduled_time": "13:40",
-  "message": "",
+  "message": "I’ve been thinking a lot about the simple joys of life lately, and how a little preparedness can actually lead to some low-tech fun. Gathering supplies for an emergency kit isn’t just practical; it can turn into a family project. Imagine using this time to reminisce, share stories, and even get creative with what to include. \n\nIt's a wonderful way to engage with loved ones, and you might even stumble upon some forgotten treasures along the way. After all, being ready can also mean making memories together. What’s your favorite way to prepare with family?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+  "post_id": "1112110298653755_122120366871340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "faeeeba55b07ff15abb3b7879bd14f022defddcfe2ed0272f57cbe50a2a5f1d4",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

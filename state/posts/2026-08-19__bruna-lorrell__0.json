@@ -1,6 +1,6 @@
 {
   "id": "2026-08-19__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-19",
   "scheduled_time": "14:02",
-  "message": "",
+  "message": "So, I just read a solid guide about floods. It’s incredible how many ways we can be caught off guard—like being surprised by your own laundry piling up. This resource is a gentle reminder that a little prep can go a long way. Are you ready for the unexpected, or are you just winging it like I often do?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/floods",
+  "post_id": "1188071991047656_122129274489350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "af5b3a0cabca0b8c6129a85d5326ce481f7b6037c76d314f8d752f460dbd1373",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
