@@ -3,7 +3,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 161,
+    "active_ads": 201,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -30,8 +30,8 @@
     "page_id": "1124746537378992",
     "page_name": "Steven Sampson",
     "topic": "both",
-    "active_ads": 4,
-    "tier": "LOW",
+    "active_ads": 25,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -57,8 +57,8 @@
     "page_id": "1055885867606549",
     "page_name": "Stacy Peters",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 24,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -111,8 +111,8 @@
     "page_id": "962411806966339",
     "page_name": "Susan Sutton",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 107,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
@@ -129,7 +129,7 @@
     "page_id": "911963812004163",
     "page_name": "Abigail Adams",
     "topic": "both",
-    "active_ads": 28,
+    "active_ads": 31,
     "tier": "MID",
     "eligible": true,
     "source": "default"
