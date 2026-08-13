@@ -1,6 +1,6 @@
 {
   "id": "2026-08-20__maria-cruz-gonzalez__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "968263026380089",
   "page_name": "Maria Cruz-Gonzalez",
   "topic": "blackout",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-20",
   "scheduled_time": "16:06",
-  "message": "",
+  "message": "As someone who loves the outdoors, I've learned that being over-prepared can turn potential hiccups into mere bumps in the road! 🌟 Check out this great resource from the Red Cross on how to navigate power outages. It’s all about having a plan and the right supplies ready, so when the lights go out, I can stay calm and carry on. What’s your go-to tip for staying cozy during a blackout?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "968263026380089_122121786626914983",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "1879afc8e07c779256fd9a678a75ddba4a691eb86edcf9859325297b4ff76a67",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

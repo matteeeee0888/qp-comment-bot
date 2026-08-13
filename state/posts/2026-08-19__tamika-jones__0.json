@@ -1,6 +1,6 @@
 {
   "id": "2026-08-19__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-19",
   "scheduled_time": "15:34",
-  "message": "",
+  "message": "I remember a stormy night when my phone decided to take a nap right when I needed it most. It’s a good reminder that when the weather gets wild, having a plan and knowing what to do can really save the day. What’s your go-to strategy when the skies turn gray?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/tornadoes",
+  "post_id": "1031788496687467_122121722564849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "0fcdbb43140dd5dfeb5075a33be734cfb989c601c935b2989d3cbdea3db00b69",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

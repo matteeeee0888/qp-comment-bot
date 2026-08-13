@@ -1,6 +1,6 @@
 {
   "id": "2026-08-20__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-20",
   "scheduled_time": "15:45",
-  "message": "",
+  "message": "You know that moment when you finally get around to packing those go-bags we’ve been talking about for ages? Well, we had a little storm yesterday that turned out to be more than just a drizzle. As we huddled inside, I felt an odd mix of relief and that smug ‘I told you so’ feeling when I saw our bags packed and ready. \n\nIt was a gentle reminder that being prepared isn’t about being paranoid; it’s about peace of mind. So, here’s to those little actions we take today that might just make tomorrow a bit smoother. Have you had any ‘I told you so’ moments lately? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1059660273889438_122140053861281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "d4a6f77fbba06a2ef6cd868fb03cd1542d5208f0f85ef537d302c5938a0349cd",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }
