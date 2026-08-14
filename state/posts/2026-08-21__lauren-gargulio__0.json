@@ -1,6 +1,6 @@
 {
   "id": "2026-08-21__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-21",
   "scheduled_time": "14:36",
-  "message": "",
+  "message": "You know, for someone who grew up with the phrase \"April showers bring May flowers\" ringing in my ears, I’ve always found storms a bit unnerving. But this time, I’m determined to be the prepared one for once! I stumbled upon some great tips on navigating thunderstorms and lightning, and it feels good to finally feel a bit more in control. What’s your go-to storm prep tip? 🌩️",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/thunderstorms-lightning",
+  "post_id": "1127031013825481_122112588477335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ad2cfba898ad62b5678de0c2ce21385edcf62091a659a79ed64498814de0d34d",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

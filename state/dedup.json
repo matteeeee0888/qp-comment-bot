@@ -1368,7 +1368,10 @@
     "cf92b64093f0cd26a09b588102afec10ced8f65fa19d6d32a584525cc4bb3bc4",
     "2a2a0d5644ae0637e73f2621e76315d09ba392975b34f60e9162d41c49fff744",
     "658f844e24a432510636caa762b49b62b939d2d494b2aa3c23c6e41a732a9f59",
-    "606d6c918e38b60eb162f7f0450ee307044bd5992e066e23d3462ff01a782478"
+    "606d6c918e38b60eb162f7f0450ee307044bd5992e066e23d3462ff01a782478",
+    "afad94091bc593f2c81b4970264a13742992dbd93cd630efb639af4c1283c6e5",
+    "ad2cfba898ad62b5678de0c2ce21385edcf62091a659a79ed64498814de0d34d",
+    "bdb29cfe2546a1e046a44181891112150c7c6bdfd605c01485613e0275e39055"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -1993,7 +1996,10 @@
     "2026-08-21|https://www.nfpa.org/education-and-research/home-fire-safety",
     "2026-08-21|https://www.ready.gov/safety-skills",
     "2026-08-21|https://www.ready.gov/kit",
-    "2026-08-21|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html"
+    "2026-08-21|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+    "2026-08-21|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "2026-08-21|https://www.ready.gov/thunderstorms-lightning",
+    "2026-08-21|https://www.ready.gov/heat"
   ],
   "sceneUses": [
     {

@@ -1,6 +1,6 @@
 {
   "id": "2026-08-21__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-21",
   "scheduled_time": "13:48",
-  "message": "",
+  "message": "You know, I always thought I could handle a little heat—after all, I’ve survived family gatherings in July! But it turns out that being prepared for a storm (or a sudden heatwave) is a bit more complicated than just staying indoors with a fan and a cold drink. It’s a good reminder that a little planning goes a long way. So, maybe take a peek at some resources to get yourself ready. After all, we all want to avoid the comedy of NOT being ready. ☀️",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "936909452848936_122126992220955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "bdb29cfe2546a1e046a44181891112150c7c6bdfd605c01485613e0275e39055",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

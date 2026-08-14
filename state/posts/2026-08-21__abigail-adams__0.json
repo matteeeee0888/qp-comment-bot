@@ -1,6 +1,6 @@
 {
   "id": "2026-08-21__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-21",
   "scheduled_time": "17:43",
-  "message": "",
+  "message": "I’ve always been a fan of being gloriously over-prepared, especially when it comes to power outages. It’s amazing how a little planning can turn a blackout into an opportunity for some cozy family time or a fun game night. I found this helpful resource from the Red Cross that’s packed with tips on how to navigate those unexpected moments. How do you keep the good vibes flowing when the lights go out?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "911963812004163_122138019261187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "afad94091bc593f2c81b4970264a13742992dbd93cd630efb639af4c1283c6e5",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
