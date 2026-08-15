@@ -1,6 +1,6 @@
 {
   "id": "2026-08-21__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-21",
   "scheduled_time": "19:46",
-  "message": "",
+  "message": "As parents, we often find ourselves navigating the delicate balance between keeping our kids informed and not overwhelming them. When it comes to being prepared for emergencies in our vehicles, it's essential to have open conversations with our little ones about safety without causing anxiety. This resource gives us practical tips on what we can do together to ensure our family is ready for anything that might come our way while on the road. \n\nLet’s take a moment to explore these ideas as a family and maybe even turn it into a fun learning experience. After all, preparedness doesn’t have to be a chore! 🚗",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/car",
+  "post_id": "1059660273889438_122140253955281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9b0185e523ad06b46a0951296a661eafe0151987b761cbaad12436ea4b907c72",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-08-21__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-21",
   "scheduled_time": "09:38",
-  "message": "",
+  "message": "As parents, we often find ourselves balancing the delicate dance of keeping our kids informed without overwhelming them. One of the best ways to prep for emergencies is to involve them in creating a survival kit! It's a great opportunity to teach them about safety while also making it a fun family project. 🌟\n\nWe can use resources like the Red Cross to guide us on what to include, making it easier to ensure we're ready without the stress. Plus, engaging our kids in this process helps them feel empowered and aware.\n\nWhat are some ways you've involved your kiddos in getting prepared?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+  "post_id": "1050667511458583_122125668368950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f90d8257d82192800e646d26a2a3e24737bd74cea949462c0f75682a68ef722f",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-08-22__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-22",
   "scheduled_time": "11:47",
-  "message": "",
+  "message": "We all know that feeling of being caught off guard, whether it’s a sudden storm or a little household mishap. Finding ways to prepare ourselves can feel daunting, but it can also be a series of small wins that add up to a sense of calm and confidence. This resource offers practical safety skills that we can easily incorporate into our daily lives, making us a bit more ready for whatever comes our way. \n\nLet’s embrace these small steps together; they might just save the day when we least expect it! What simple preparation have you found makes a difference for your family? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/safety-skills",
+  "post_id": "1059660273889438_122140253973281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5145e39de428ebfab5e2742ece03a1433a8ab2ba750dbd60b308d33769d1af34",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
