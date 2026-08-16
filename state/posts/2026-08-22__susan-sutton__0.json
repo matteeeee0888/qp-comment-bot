@@ -1,6 +1,6 @@
 {
   "id": "2026-08-22__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-22",
   "scheduled_time": "17:53",
-  "message": "",
+  "message": "You know, when a storm rolls in, it can feel like a showdown between me and the kids. They’re all about the excitement, while I’m just trying to keep my cool and make sure we’re ready. I stumbled upon a handy resource that lays out some smart steps for dealing with tornadoes. It’s like having a game plan—so I can focus on keeping the peace instead of running in circles. \n\nHow do you handle storm prep with your little ones? Any tips to share?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/tornadoes",
+  "post_id": "962411806966339_122125073786947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4cedca32d293e56fcfa4e8568da8b4af3d678aefe51eaa17fa362ab1a7acf1f3",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

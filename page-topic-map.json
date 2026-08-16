@@ -30,7 +30,7 @@
     "page_id": "1124746537378992",
     "page_name": "Steven Sampson",
     "topic": "both",
-    "active_ads": 44,
+    "active_ads": 34,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -39,7 +39,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 94,
+    "active_ads": 74,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -57,7 +57,7 @@
     "page_id": "1055885867606549",
     "page_name": "Stacy Peters",
     "topic": "both",
-    "active_ads": 121,
+    "active_ads": 119,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -111,7 +111,7 @@
     "page_id": "962411806966339",
     "page_name": "Susan Sutton",
     "topic": "both",
-    "active_ads": 160,
+    "active_ads": 138,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"

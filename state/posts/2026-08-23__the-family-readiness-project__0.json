@@ -1,6 +1,6 @@
 {
   "id": "2026-08-23__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-23",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "The other day, we were cleaning out our closet and stumbled upon some old board games from when our kids were little. It got us reminiscing about those family nights filled with laughter and friendly competition. As we set up the games again, we realized how refreshing it felt to unplug from our screens and just enjoy each other's company. \n\nIt made us think about how important it is to have low-tech fun, especially when we talk about being prepared. Sometimes, it’s the simple joys that help us connect and build resilience together. \n\nHave you rediscovered any old hobbies or games lately? 🎲",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1059660273889438_122140356855281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "6985fbcc3ec71a652088bd9ee53cd492aa40eac858463baa745f6cefb63cd269",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

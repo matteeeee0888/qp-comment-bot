@@ -1,6 +1,6 @@
 {
   "id": "2026-08-22__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-22",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "Oh, the satisfaction of being prepared! I remember the time I put together my emergency kit—it felt a bit silly at first, but now I feel like the wise owl in the room. 🦉 It’s such a simple way to cover all bases for those unexpected moments life throws our way. So if you haven't yet, maybe take a peek at what essentials to gather. After all, a little foresight goes a long way, doesn't it?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "719343644592338_122196177266926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "20c4e73931827a850e60dda2ac4d9a294c62d652117a06f27fcff8d962dfe09b",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

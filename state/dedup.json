@@ -1399,7 +1399,11 @@
     "57abea78331e83b72c19546610650a73a7ecf3229ce0f5a268603eb1e46d3f27",
     "bd1009c989ec643d15d78f93349b46b4d2a36cd2a29988b50daf915ab03602ab",
     "e35924dafdf1bdcd4dd5aa5c32c66fe37dfb077ddb3a00c19e27095dfaa30a76",
-    "162844a922f3801a99e747b60ad881758d99404e082bf999561f864a7b04b3aa"
+    "162844a922f3801a99e747b60ad881758d99404e082bf999561f864a7b04b3aa",
+    "20c4e73931827a850e60dda2ac4d9a294c62d652117a06f27fcff8d962dfe09b",
+    "4cedca32d293e56fcfa4e8568da8b4af3d678aefe51eaa17fa362ab1a7acf1f3",
+    "8701cb4a65b609adc0cad30a05ed202f399c524465522475121c6f470021679c",
+    "6985fbcc3ec71a652088bd9ee53cd492aa40eac858463baa745f6cefb63cd269"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -2025,7 +2029,9 @@
     "2026-08-23|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
     "2026-08-23|https://www.usfa.fema.gov/prevention/home-fires/",
     "2026-08-23|https://www.ready.gov/hurricanes",
-    "2026-08-23|https://www.ready.gov/heat"
+    "2026-08-23|https://www.ready.gov/heat",
+    "2026-08-22|https://www.ready.gov/kit",
+    "2026-08-22|https://www.ready.gov/tornadoes"
   ],
   "sceneUses": [
     {
