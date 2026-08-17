@@ -30,7 +30,7 @@
     "page_id": "1124746537378992",
     "page_name": "Steven Sampson",
     "topic": "both",
-    "active_ads": 34,
+    "active_ads": 18,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -57,7 +57,7 @@
     "page_id": "1055885867606549",
     "page_name": "Stacy Peters",
     "topic": "both",
-    "active_ads": 119,
+    "active_ads": 117,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -93,8 +93,8 @@
     "page_id": "1050667511458583",
     "page_name": "TerraShell by QuietProtector",
     "topic": "both",
-    "active_ads": 50,
-    "tier": "HIGH",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "default"
   },
@@ -102,8 +102,8 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 23,
-    "tier": "MID",
+    "active_ads": 8,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
@@ -111,7 +111,7 @@
     "page_id": "962411806966339",
     "page_name": "Susan Sutton",
     "topic": "both",
-    "active_ads": 138,
+    "active_ads": 62,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -129,7 +129,7 @@
     "page_id": "911963812004163",
     "page_name": "Abigail Adams",
     "topic": "both",
-    "active_ads": 21,
+    "active_ads": 14,
     "tier": "MID",
     "eligible": true,
     "source": "default"
