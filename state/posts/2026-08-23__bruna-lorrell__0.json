@@ -1,6 +1,6 @@
 {
   "id": "2026-08-23__bruna-lorrell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1188071991047656",
   "page_name": "Bruna Lorrell",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-23",
   "scheduled_time": "13:59",
-  "message": "",
+  "message": "With winter storms on the horizon, it's a great time to explore some low-tech fun indoors while staying prepared. This resource is a handy reminder of simple ways to weather those chilly days—who knew hunkering down could inspire board games and hot cocoa? How do you keep the family entertained when the weather outside is frightful?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/winter-weather",
+  "post_id": "1188071991047656_122130627615350476",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "715e9920265d348b93ee4c74c7d07c605a6f11437316c20e5bc75d9be27bf726",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

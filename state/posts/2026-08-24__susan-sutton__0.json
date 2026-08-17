@@ -1,6 +1,6 @@
 {
   "id": "2026-08-24__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-24",
   "scheduled_time": "09:48",
-  "message": "",
+  "message": "With storms rolling in, I’ve been rediscovering the joy of low-tech fun. It’s amazing how a little thunder and lightning can make everyone huddle together with a deck of cards or a good book instead of screens. I found a handy guide on thunderstorms and lightning that’s full of practical tips, but honestly, the best part is the excuse to put on those cozy socks and enjoy some family time. \n\nWhat’s your favorite way to pass the time during a storm? ☔",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/thunderstorms-lightning",
+  "post_id": "962411806966339_122125180076947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "f3f8ba24cdc175909af1adf6d4f00d74b47c1d0ee27ec5da14b75aec281a2a36",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

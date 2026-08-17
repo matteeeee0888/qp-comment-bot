@@ -1,6 +1,6 @@
 {
   "id": "2026-08-24__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-24",
   "scheduled_time": "15:42",
-  "message": "",
+  "message": "We were sitting around the dinner table the other night, and I couldn’t help but bring up the go-bags we had put together a while back. My partner rolled their eyes, remembering my insistence on having them ready. \n\nBut when a storm warning popped up later that evening, there was a little smugness in my voice as I pointed to the bags tucked away by the door. It was a light-hearted moment, but it reminded us both how simple preparations can turn into peace of mind. \n\nSometimes, it feels good to be the ‘I told you so’ person, doesn’t it? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1059660273889438_122140494279281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c47ed18e4099c673604fb9e749edc96cb915760ffee97edbc78a265cdc0a9cb1",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

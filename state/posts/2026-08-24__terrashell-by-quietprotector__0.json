@@ -1,6 +1,6 @@
 {
   "id": "2026-08-24__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-24",
   "scheduled_time": "17:34",
-  "message": "",
+  "message": "We remember a rainy afternoon when the storm warnings were buzzing on the radio. Instead of feeling anxious, we decided to turn it into a cozy event. We gathered our emergency go-bags, double-checked our water supplies, and spent the time discussing our family plan over hot cocoa. 🌧️ It felt less like a chore and more like a family project, bonding over readiness while staying warm and snug. \n\nIt’s funny how a little preparation can transform a potentially stressful moment into a cherished memory. What’s your favorite way to make preparedness feel more inviting?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1050667511458583_122125952570950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "18f40ed653b8e119689e1b15f6d66f86d80908b8e57ed0dbb7b98346a006bc58",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }
