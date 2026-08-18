@@ -1,6 +1,6 @@
 {
   "id": "2026-08-25__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-25",
   "scheduled_time": "13:49",
-  "message": "",
+  "message": "Last winter, we had one of those surprise snowstorms that caught everyone off guard. I remember my neighbor, a real skeptic about my little emergency stash, chuckling as I filled up my car with gas and stocked up on bread and milk. Fast forward to the next day when his driveway was buried under two feet of snow while I was cozy with hot cocoa, my pantry brimming with snacks. \n\nI couldn’t help but feel a little smug as I waved to him from my well-prepared fortress. \n\nSometimes, a little bit of preparation can turn a potential headache into a warm and cozy day at home. What little tricks do you have up your sleeve for those surprise weather moments?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "962411806966339_122125333940947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c11342024fbcb05e6f0bffb8cf186a8d60fe30114adb45f95af03c4af749e28b",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

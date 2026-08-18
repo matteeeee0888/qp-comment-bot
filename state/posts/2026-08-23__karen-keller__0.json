@@ -1,6 +1,6 @@
 {
   "id": "2026-08-23__karen-keller__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1003918682810439",
   "page_name": "Karen Keller",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-23",
   "scheduled_time": "19:29",
-  "message": "",
+  "message": "As someone who believes in being gloriously over-prepared, I find that having a solid emergency kit ready can really give me peace of mind. It’s all about being ready for the unexpected without the stress! 🌟 Do you have any favorite items you keep in your kit?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kit",
+  "post_id": "1003918682810439_122126841789072843",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3b94deea4924329d7eeb6894f45a29147a719f42d52dfe7b08a73e3cbcf58955",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

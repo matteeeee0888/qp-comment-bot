@@ -1,6 +1,6 @@
 {
   "id": "2026-08-23__sofia-rossi__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1112110298653755",
   "page_name": "Sofia Rossi",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-23",
   "scheduled_time": "13:37",
-  "message": "",
+  "message": "I was chatting with my neighbor the other day about the times our phones seemed to choose the worst moments to lose battery or signal. It got me thinking about how crucial it is to have a plan for those unexpected situations when technology lets us down. \n\nHaving a solid preparedness plan that includes everyone in your family can really make a difference. It’s about knowing what to do and where to go when things get a little unpredictable. \n\nSometimes, just a little foresight can help us feel more at ease. Have you thought about your family's plan lately?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1112110298653755_122121294897340859",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "79fdc3eebb288212b268472d8f2f11a67b3a91ee1f8a3b6de6effef209605621",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

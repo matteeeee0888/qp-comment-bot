@@ -1,6 +1,6 @@
 {
   "id": "2026-08-25__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-25",
   "scheduled_time": "19:43",
-  "message": "",
+  "message": "We all have that one friend who tends to panic at the first sign of trouble, right? 😅 But when it comes to preparedness, a little planning can go a long way in helping us all feel more at ease. This resource is a fantastic guide to help us create our own emergency plans together, ensuring we know what to do when life throws us a curveball. \n\nLet’s take a moment to think about our own families and communities — what steps can we take today to feel a bit more secure tomorrow? 🌼",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1059660273889438_122140618137281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "dc41f83efaeb9baf394c2c27f897fead35650dbd687aecd71ca5f2054f5098f5",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

@@ -3,7 +3,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 166,
+    "active_ads": 50,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -57,8 +57,8 @@
     "page_id": "1055885867606549",
     "page_name": "Stacy Peters",
     "topic": "both",
-    "active_ads": 117,
-    "tier": "HIGH",
+    "active_ads": 0,
+    "tier": "DORMANT",
     "eligible": true,
     "source": "default"
   },

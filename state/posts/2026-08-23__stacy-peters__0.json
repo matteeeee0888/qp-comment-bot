@@ -1,6 +1,6 @@
 {
   "id": "2026-08-23__stacy-peters__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1055885867606549",
   "page_name": "Stacy Peters",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-23",
   "scheduled_time": "10:53",
-  "message": "",
+  "message": "I’ve had those moments when my phone dies just when I need it most, and it’s a bit unnerving! That’s why I find it so helpful to brush up on essential safety skills. They remind me that being prepared isn’t just about having the latest tech—it’s about knowing what to do when things don’t go as planned. What’s your favorite tip for staying calm and prepared? 😊",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/safety-skills",
+  "post_id": "1055885867606549_122124597026848941",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "ff197681e8d52f6b7aecd547d89b24577f95c49c55900ee0afde3bfba68ea114",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

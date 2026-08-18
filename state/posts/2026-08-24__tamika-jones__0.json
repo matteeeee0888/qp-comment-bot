@@ -1,6 +1,6 @@
 {
   "id": "2026-08-24__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-24",
   "scheduled_time": "19:32",
-  "message": "",
+  "message": "When the storms roll in, I've found that some of the best memories come from low-tech fun. A little creativity can turn a power outage into a game night or a cozy reading marathon. What’s your favorite way to pass the time when the weather keeps you indoors?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/heat",
+  "post_id": "1031788496687467_122122291850849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "21e80a7d1754724a39805483761e8e855d59ac9e6f58ee3d1220e4b35f4e0bc8",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

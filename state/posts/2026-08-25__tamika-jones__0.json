@@ -1,6 +1,6 @@
 {
   "id": "2026-08-25__tamika-jones__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1031788496687467",
   "page_name": "Tamika Jones",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-25",
   "scheduled_time": "11:33",
-  "message": "",
+  "message": "I remember one winter when the snow piled up so high that we couldn’t even see the front porch. Instead of worrying, I dug out some old board games, made a big pot of chili, and we had ourselves a cozy little snowed-in party. Sometimes, being prepared just means turning an unexpected situation into a chance to enjoy some quality time. What’s your favorite way to make the best of a stormy day?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1031788496687467_122122291880849311",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "22f3f4c931bde5ed88c1cbd30358c1242532b58607f0fa2e23637ab5247ae38a",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

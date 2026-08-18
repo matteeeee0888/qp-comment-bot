@@ -1,6 +1,6 @@
 {
   "id": "2026-08-25__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-25",
   "scheduled_time": "09:35",
-  "message": "",
+  "message": "We all have that one friend who panics at the first sign of trouble, right? 😊 Sometimes it’s good to be a bit of a planner, and having a solid emergency kit can really help ease those worries. The Red Cross offers a great resource to help us gather essential supplies that can make a difference when unexpected situations arise. Taking a little time to prepare can be a calming act in itself, and it might just give that friend a bit of relief too! What’s your favorite tip for staying ready and calm in the face of uncertainty?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+  "post_id": "1050667511458583_122126092916950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7e62960d79e7bb7be63929afa4754b34ad79bdf5caebf2f143c49e8bd7a87dc3",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
