@@ -3,7 +3,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 50,
+    "active_ads": 60,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -12,7 +12,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 18,
+    "active_ads": 22,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -21,7 +21,7 @@
     "page_id": "1112110298653755",
     "page_name": "Sofia Rossi",
     "topic": "both",
-    "active_ads": 56,
+    "active_ads": 72,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -39,7 +39,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 74,
+    "active_ads": 94,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -48,7 +48,7 @@
     "page_id": "1092442657286729",
     "page_name": "Elizabeth Willis",
     "topic": "both",
-    "active_ads": 26,
+    "active_ads": 34,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -84,7 +84,7 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 4,
+    "active_ads": 6,
     "tier": "LOW",
     "eligible": true,
     "source": "default"
@@ -102,8 +102,8 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 8,
-    "tier": "LOW",
+    "active_ads": 12,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -120,7 +120,7 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 270,
+    "active_ads": 244,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -129,7 +129,7 @@
     "page_id": "911963812004163",
     "page_name": "Abigail Adams",
     "topic": "both",
-    "active_ads": 14,
+    "active_ads": 18,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -147,8 +147,8 @@
     "page_id": "719343644592338",
     "page_name": "Susan Mitchell",
     "topic": "both",
-    "active_ads": 8,
-    "tier": "LOW",
+    "active_ads": 12,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   }
