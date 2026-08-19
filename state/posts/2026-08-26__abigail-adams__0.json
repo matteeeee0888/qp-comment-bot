@@ -1,6 +1,6 @@
 {
   "id": "2026-08-26__abigail-adams__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "911963812004163",
   "page_name": "Abigail Adams",
   "topic": "blackout",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-26",
   "scheduled_time": "09:41",
-  "message": "",
+  "message": "We've all been there—you're in the middle of an important call or binge-watching your favorite show when suddenly, the power goes out. It's a good reminder to have a plan in place for those moments when our tech takes a break. I found a really handy resource that offers tips on what to do during a blackout. How do you stay prepared for unexpected power outages?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "911963812004163_122138599299187534",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "c9f073cc27e3d8b55f17bdcc2fb60fcf64678857b228004ad11abc44de377190",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

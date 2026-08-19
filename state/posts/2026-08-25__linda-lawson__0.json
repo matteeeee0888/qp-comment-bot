@@ -1,6 +1,6 @@
 {
   "id": "2026-08-25__linda-lawson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "936909452848936",
   "page_name": "Linda Lawson",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "LOW",
   "scheduled_date": "2026-08-25",
   "scheduled_time": "13:45",
-  "message": "",
+  "message": "With the stormy weather rolling in, I found myself reminiscing about simpler times—like cozying up with a stack of board games instead of scrolling through screens. The National Weather Service has a handy guide on flood safety that I think is worth a peek. It’s a useful reminder to prepare, but also a great excuse to gather the family for some good old-fashioned fun indoors. What’s your favorite rainy day activity? ☔️",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.weather.gov/safety/flood",
+  "post_id": "936909452848936_122127735944955388",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "e2a2b8be50588d724add50e1c4456819e3a3f74d61e1c6356196d6e99844e41a",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

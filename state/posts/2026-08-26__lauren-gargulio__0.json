@@ -1,6 +1,6 @@
 {
   "id": "2026-08-26__lauren-gargulio__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1127031013825481",
   "page_name": "Lauren Gargulio",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-26",
   "scheduled_time": "18:34",
-  "message": "",
+  "message": "You know, getting the kids to understand the importance of storm preparedness is like trying to get them to eat their vegetables—lots of eye-rolling and playful grumbling. But I’ve found that having a little chat about what to do when a storm is brewing can really help. It’s not just about the snacks you stash away; it’s about keeping everyone on the same page, even if that page is a bit soggy from the rain. How do you get your little ones involved in emergency prep? 🌧️",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+  "post_id": "1127031013825481_122113196475335222",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "bf48811093302547ebab2423267dc472ef230313d19c7ef3ee13b0a2b294b155",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

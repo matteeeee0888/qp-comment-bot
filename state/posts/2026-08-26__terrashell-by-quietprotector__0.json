@@ -1,6 +1,6 @@
 {
   "id": "2026-08-26__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-26",
   "scheduled_time": "13:36",
-  "message": "",
+  "message": "We like to think of ourselves as the gloriously over-prepared folks in our circle, and honestly, it feels pretty good! Having a solid plan in place can make all the difference when unexpected moments arise. This resource is a treasure trove of practical tips for creating a family emergency plan that covers all the bases. 🗺️\n\nIt's all about being ready without the stress, so we can focus on what really matters when it counts. Do you have any favorite strategies for planning ahead? We'd love to hear your tips!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/plan",
+  "post_id": "1050667511458583_122126242118950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7a7054b9892d474b1fc0966f91f1db0e03de75647d7b25b8c08ea0050fb800bd",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

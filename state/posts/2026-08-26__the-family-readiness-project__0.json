@@ -1,6 +1,6 @@
 {
   "id": "2026-08-26__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-26",
   "scheduled_time": "11:44",
-  "message": "",
+  "message": "We all know that feeling when we’re just a little too prepared for anything life might throw our way. 📦 It’s like having a secret superpower! One area we can really shine in is ensuring our vehicles are ready for the unexpected. From emergency kits to roadside assistance, being prepared in our cars can make all the difference. \n\nLet’s take a moment to think about what we might need on the road. After all, it’s not just about being ready; it’s about embracing the peace of mind that comes with it. What’s one item you always keep in your car just in case?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/car",
+  "post_id": "1059660273889438_122140763025281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "eb35fc4c90bebb76d8e77f26425899ebd1a1224a58688f5b99835a2f6d317473",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }
