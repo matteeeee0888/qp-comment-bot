@@ -95,7 +95,17 @@
     "1206707192530278",
     "862740673581462"
   ],
-  "commentExcludePageIds": [],
+  "commentExcludePageIds": [
+    "1088327747705669",
+    "1116441188223203",
+    "1149657604892592",
+    "1186372244558406",
+    "1191827770673884",
+    "1201592776363278",
+    "1222258980966722",
+    "1228949726957391",
+    "1420635597788569"
+  ],
   "commentMaxActionsPerRun": 100,
   "weekStartMode": "today",
   "bufferDays": 7,
@@ -111,5 +121,19 @@
   "github": {
     "commitState": false
   },
-  "imageMissingPolicy": "skip"
+  "imageMissingPolicy": "skip",
+  "_blockedPetNetwork": {
+    "_note": "Pagine pet di NuumiPet (altra azienda, ad account NuumiPet #1 / campagne CCL_DOG). NON attivare mai: postare o commentare qui pubblicherebbe contenuti QuietProtector sulle pagine di terzi. Stesso caso di CalmiCollar (lug 2026).",
+    "pages": {
+      "1228949726957391": "Andrea Cutarms",
+      "1191827770673884": "Lucy Malpass",
+      "1186372244558406": "Laura Johnson",
+      "1222258980966722": "Kelly Keating",
+      "1201592776363278": "Caroline Stones",
+      "1088327747705669": "Sarah Miller",
+      "1149657604892592": "Diane C. Roberts",
+      "1116441188223203": "Linda H. Dye",
+      "1420635597788569": "Andrea Anderson"
+    }
+  }
 }
