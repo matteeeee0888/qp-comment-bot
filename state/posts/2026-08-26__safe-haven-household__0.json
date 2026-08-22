@@ -1,0 +1,22 @@
+{
+  "id": "2026-08-26__safe-haven-household__0",
+  "status": "scheduled",
+  "page_id": "1177568348782847",
+  "page_name": "Safe Haven Household",
+  "topic": "storm",
+  "format": "fact",
+  "tier": "HIGH",
+  "scheduled_date": "2026-08-26",
+  "scheduled_time": "12:41",
+  "message": "You know that moment when you realize you forgot to check the weather before planning your weekend? I've been there, and it’s not pretty! The National Weather Service has some great tips on staying prepared for storms and floods, so you can avoid the comedy of not being ready. What’s your go-to trick for staying informed during stormy weather?",
+  "image_path": "",
+  "image_source": "none",
+  "source_url": "",
+  "link": "https://www.weather.gov/safety/flood",
+  "post_id": "1177568348782847_122101849791446738",
+  "error_reason": "",
+  "body_hash": "5ffce9e7573dc2d8436aea3da924d08976e07bd045622e57e699270677f49ebf",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
+}
