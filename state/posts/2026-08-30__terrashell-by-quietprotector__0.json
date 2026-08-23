@@ -1,6 +1,6 @@
 {
   "id": "2026-08-30__terrashell-by-quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1050667511458583",
   "page_name": "TerraShell by QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "DORMANT",
   "scheduled_date": "2026-08-30",
   "scheduled_time": "13:33",
-  "message": "",
+  "message": "As parents, we often find ourselves navigating the delicate balance between keeping our kids informed and not overwhelming them. That’s why we’re excited to share a wonderful resource that helps our little ones understand emergency preparedness in a fun and engaging way. It’s all about turning what could be a daunting topic into a family conversation! 😊\n\nBy involving kids in the process, we can teach them valuable skills while making it a bonding experience. What are some of your favorite tips for talking to kids about being prepared?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/kids",
+  "post_id": "1050667511458583_122126851190950186",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "3e8d19cc6d6bd8456dae96d8cf346da28cb363f0cab43c5c17c3457ef9548395",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

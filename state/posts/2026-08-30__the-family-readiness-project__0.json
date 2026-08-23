@@ -1,6 +1,6 @@
 {
   "id": "2026-08-30__the-family-readiness-project__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1059660273889438",
   "page_name": "The Family Readiness Project",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-30",
   "scheduled_time": "11:41",
-  "message": "",
+  "message": "As we navigate the busy lives of being parents, it's easy to overlook the importance of financial preparedness. Teaching our kids about managing money and planning for the unexpected can feel like a daunting task, but it’s a valuable lesson that can set them up for a more secure future. This resource offers useful guidance on how to approach financial preparedness together, helping to foster open conversations and teamwork between us and our kids. \n\nLet's take a moment to reflect on how we can make this a family affair—what small steps can we take together today? 💡",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/financial-preparedness",
+  "post_id": "1059660273889438_122141325501281758",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "7c69848afb780a1aa80478f34e8908791d9156d314b92f5930ed2376eee141f6",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-08-30__steven-sampson__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1124746537378992",
   "page_name": "Steven Sampson",
   "topic": "fire",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-30",
   "scheduled_time": "10:52",
-  "message": "",
+  "message": "I stumbled upon this great resource from the U.S. Fire Administration that really breaks down how to keep our homes safe from fires. It’s full of useful tips and simple steps that can feel like a small win in protecting what matters most. Sometimes, it’s the little things that save the day! 🔥",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.usfa.fema.gov/prevention/home-fires/",
+  "post_id": "1124746537378992_122119937396692122",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "b7f977763916f6c1b2a18dbd9cfc4f3b28df03ee763702494d684d96bf726037",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

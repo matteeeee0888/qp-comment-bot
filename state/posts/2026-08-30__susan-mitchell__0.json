@@ -1,6 +1,6 @@
 {
   "id": "2026-08-30__susan-mitchell__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "719343644592338",
   "page_name": "Susan Mitchell",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-30",
   "scheduled_time": "19:37",
-  "message": "",
+  "message": "The other day, I decided it was high time to check our go-bags. I opened mine and found a half-eaten granola bar from last summer—and a very confused sock. 😅 It hit me how easy it is to forget what we have tucked away for emergencies. It’s a bit comical, really, but it reminded me that staying prepared doesn’t have to be a chore; it can just be a little check-in every now and then. What’s the most surprising thing you’ve found in your go-bag?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "719343644592338_122197445552926262",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "9330edefb2c28d6a5c5f3cd4266cbee8a77690a47f97c0a988d19d38593870bb",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

@@ -1551,7 +1551,14 @@
     "3c7cca1f77975367ed819b5bd75de163b64f7a074360d790bc3fee06e363bce8",
     "1820d89443a21f7e64fc4f26587fbb2db895db1eecc4dc94e465da9ab018f654",
     "459fc6f08fbf65927e19d1a97eda14fe5b98b801c55dd87512cc6b60bc8b456a",
-    "39f378287999c8cf498c9061c77f397c35a0e4de0b608da86b95a118f3960005"
+    "39f378287999c8cf498c9061c77f397c35a0e4de0b608da86b95a118f3960005",
+    "b7f977763916f6c1b2a18dbd9cfc4f3b28df03ee763702494d684d96bf726037",
+    "9330edefb2c28d6a5c5f3cd4266cbee8a77690a47f97c0a988d19d38593870bb",
+    "802bbe74ea14c90ad3bd214c91e7deef08887080d6a9b0805f7df1ce7bc9a6a4",
+    "3f53c1af3e2323d54595bddb8f72b9883e8888858a003870e9f77e21bbc7ccf4",
+    "3e8d19cc6d6bd8456dae96d8cf346da28cb363f0cab43c5c17c3457ef9548395",
+    "128ed77b9de274ee0a60025745de831dd3bffca406b9cad2ae41b7d1a6dc9036",
+    "7c69848afb780a1aa80478f34e8908791d9156d314b92f5930ed2376eee141f6"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -2092,6 +2099,7 @@
       "preparedness",
       "blackout",
       "storm",
+      "fire",
       "fire"
     ]
   },
@@ -2242,7 +2250,10 @@
     "2026-08-30|https://www.ready.gov/power-outages",
     "2026-08-30|https://www.ready.gov/tornadoes",
     "2026-08-30|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
-    "2026-08-30|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html"
+    "2026-08-30|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+    "2026-08-30|https://www.usfa.fema.gov/prevention/home-fires/",
+    "2026-08-30|https://www.ready.gov/kids",
+    "2026-08-30|https://www.ready.gov/financial-preparedness"
   ],
   "sceneUses": [
     {

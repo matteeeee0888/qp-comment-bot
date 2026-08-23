@@ -1,6 +1,6 @@
 {
   "id": "2026-08-30__terrastrike-by-quiet-protector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1206707192530278",
   "page_name": "Terrastrike By Quiet Protector ",
   "topic": "fire",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-30",
   "scheduled_time": "18:08",
-  "message": "",
+  "message": "So, there I was, trying to make dinner and completely zoning out while the smoke alarm decided to throw a mini tantrum. In the midst of my kitchen chaos, my family group chat lit up with everyone checking in: \"Is the kitchen on fire?\" \"Do we need to call 911?\" It was hilarious and a bit chaotic, but it reminded me that having a plan really helps. We ended up laughing about it, but it’s a good nudge to make sure our escape plan is solid and that those smoke alarms are working! How do you keep your family in the loop about safety?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1206707192530278_122109609417420065",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "128ed77b9de274ee0a60025745de831dd3bffca406b9cad2ae41b7d1a6dc9036",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

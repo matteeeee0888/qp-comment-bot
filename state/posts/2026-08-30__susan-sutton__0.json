@@ -1,6 +1,6 @@
 {
   "id": "2026-08-30__susan-sutton__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "962411806966339",
   "page_name": "Susan Sutton",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-30",
   "scheduled_time": "17:47",
-  "message": "",
+  "message": "The other day, as I was putting away the last of the summer decorations, I couldn’t help but chuckle. I remembered the time I was caught off guard by a surprise snowstorm while my neighbors were all cozy with their emergency kits. \n\nThis year, I decided enough was enough! I finally made my own kit—complete with extra blankets, snacks, and a trusty flashlight. It felt good to finally be the one ready for whatever the weather had in store. \n\nNow, when the forecast calls for a storm, I can kick back and sip my tea, knowing I’m prepared. \n\nWhat’s your favorite tip for staying ready during storm season? ☕",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "962411806966339_122125913918947450",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "802bbe74ea14c90ad3bd214c91e7deef08887080d6a9b0805f7df1ce7bc9a6a4",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }
