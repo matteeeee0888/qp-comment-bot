@@ -1,6 +1,6 @@
 {
   "id": "2026-08-29__terrastrike-by-quiet-protector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1206707192530278",
   "page_name": "Terrastrike By Quiet Protector ",
   "topic": "fire",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-29",
   "scheduled_time": "18:14",
-  "message": "",
+  "message": "As a parent, I often find myself in the role of the calm voice when it comes to fire safety. It's not just about having the right tools but also teaching our kids what to do in an emergency. The Red Cross has some fantastic tips that can help us prepare together and turn those serious conversations into learning moments. How do you talk to your kids about safety in a way that keeps it light but informative?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
+  "post_id": "1206707192530278_122109514761420065",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "4cc4d278427c1e9d185585070dde1d3d3cd5e7f001318da3e33e50bf05f8d969",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

@@ -1,6 +1,6 @@
 {
   "id": "2026-08-28__terrastrike-by-quiet-protector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1206707192530278",
   "page_name": "Terrastrike By Quiet Protector ",
   "topic": "storm",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-28",
   "scheduled_time": "14:13",
-  "message": "",
+  "message": "You know that feeling when you’ve prepped for something and then it happens? Well, storms can be pretty unpredictable, but having a plan makes all the difference. I recently came across a great resource that breaks down what to do when tornadoes are in the forecast. It’s a handy reminder that a little preparation goes a long way. Have you ever had a moment where your planning paid off?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/tornadoes",
+  "post_id": "1206707192530278_122109514707420065",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "5c887475138b05fa1f42895fccdcc1bd0a02b9d5c94642dd36624a25a0e9c47e",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

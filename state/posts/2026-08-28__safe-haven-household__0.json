@@ -1,6 +1,6 @@
 {
   "id": "2026-08-28__safe-haven-household__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1177568348782847",
   "page_name": "Safe Haven Household",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-28",
   "scheduled_time": "08:43",
-  "message": "",
+  "message": "As a parent, I know that getting kids on board with emergency preparedness can feel like a challenge. But having a solid plan for your car can make all the difference in keeping everyone calm during unexpected situations. It’s a great resource for making sure your family is ready for anything – what are some ways you keep your kids engaged in safety planning?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/car",
+  "post_id": "1177568348782847_122102545113446738",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "978ad8230cdeaf9055ae7c510345b4337a20b4c6c3e4e578ee62dd43005f0272",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

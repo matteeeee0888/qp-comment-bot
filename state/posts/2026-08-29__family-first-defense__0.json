@@ -1,6 +1,6 @@
 {
   "id": "2026-08-29__family-first-defense__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1171720999367903",
   "page_name": "Family First Defense",
   "topic": "blackout",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-29",
   "scheduled_time": "18:00",
-  "message": "",
+  "message": "You know those family group chats that get a little chaotic during a blackout? I've found that having a solid plan can turn that panic into a little family bonding time. This resource offers some handy tips on what to do when the lights go out, from keeping food safe to staying connected. Remember, a little prep goes a long way — and who knows, you might even discover a few new favorite activities in the dark!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
-  "link": "",
-  "post_id": "",
+  "link": "https://www.ready.gov/power-outages",
+  "post_id": "1171720999367903_122107792893437149",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "cdf43ff82dc669be457706e11b6ddbb5332384017d717d150cf1ef145df0aac2",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
 }

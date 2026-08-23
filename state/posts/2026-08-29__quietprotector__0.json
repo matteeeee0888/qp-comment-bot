@@ -1,6 +1,6 @@
 {
   "id": "2026-08-29__quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "947987688392246",
   "page_name": "QuietProtector",
   "topic": "blackout",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-29",
   "scheduled_time": "17:08",
-  "message": "",
+  "message": "The other night, we had a little power outage. At first, I was scrambling to find the flashlights and power banks, but then I noticed how cozy it felt with all the lights out. I grabbed a couple of lanterns and set them up around the living room. \n\nWe made it a fun evening, playing card games by lantern light and enjoying some snacks from the fridge before they got too warm. It reminded me that sometimes, a little unexpected situation can turn into a lovely memory. \n\nHave you ever made the best of a blackout? I'd love to hear your tips for cozying up during power outages!",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "947987688392246_122139876345153590",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "480693291c5dc4b1b7a169a1e702dc1ccd7ef699347e7deafdb3bc01becf2cd1",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

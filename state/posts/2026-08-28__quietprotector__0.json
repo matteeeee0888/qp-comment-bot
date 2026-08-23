@@ -1,6 +1,6 @@
 {
   "id": "2026-08-28__quietprotector__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "947987688392246",
   "page_name": "QuietProtector",
   "topic": "preparedness",
@@ -8,13 +8,15 @@
   "tier": "MID",
   "scheduled_date": "2026-08-28",
   "scheduled_time": "13:07",
-  "message": "",
+  "message": "You know, sometimes I get so wrapped up in all the gadgets and apps meant to keep us prepared that I forget about the simple joys. The other day, I stumbled upon an old board game while sorting through some boxes. It was a delightful reminder of how much fun my family used to have playing together, no screens involved! \n\nWhile it’s important to have our go-bags ready and plans in place, I think we can also find value in those low-tech moments that bring us closer together. \n\nSo, my little tip for today: rediscover those classic games or activities that you loved. They can be a great way to connect and even spark conversations about preparedness in a light-hearted way. \n\nWhat’s your favorite low-tech fun activity?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "947987688392246_122139876315153590",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "08df6180bb88b6db028d39eeac92e80d55ef581773ff84fd576ed202261e7671",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }

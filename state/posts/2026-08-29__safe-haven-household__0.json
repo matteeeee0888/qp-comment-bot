@@ -1,6 +1,6 @@
 {
   "id": "2026-08-29__safe-haven-household__0",
-  "status": "scaffolded",
+  "status": "scheduled",
   "page_id": "1177568348782847",
   "page_name": "Safe Haven Household",
   "topic": "blackout",
@@ -8,13 +8,15 @@
   "tier": "HIGH",
   "scheduled_date": "2026-08-29",
   "scheduled_time": "12:44",
-  "message": "",
+  "message": "Last weekend, we had an unexpected blackout while watching a movie. I was so glad I had charged my power bank and dug out those trusty flashlights! We ended up playing board games by flashlight, and it turned into a cozy family night. Sometimes, a little prep can turn a hiccup into a fun memory. What’s your go-to activity during a power outage?",
   "image_path": "",
   "image_source": "none",
   "source_url": "",
   "link": "",
-  "post_id": "",
+  "post_id": "1177568348782847_122102545203446738",
   "error_reason": "",
-  "body_hash": "",
-  "image_key": ""
+  "body_hash": "def63be04b912d214aedff7de651d7ae81bbb90a84155b8603cbd0c847e70ac8",
+  "image_key": "gen",
+  "post_type": "story",
+  "scene": ""
 }
