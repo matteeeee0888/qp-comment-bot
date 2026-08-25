@@ -1579,7 +1579,28 @@
     "19fc109fa83f9bbcd0ded23ec92325a2aa12878d8b5898af2b5791769f5b0c9f",
     "8ab759e7b21ec132b2ff092eb7c9f83a4bb29303d6ba8cc72d3ea2d6a53f8dec",
     "03ca69d4b633f3a106ec5b43aaa1b27655f93bf3598cd7f19c7d7c5c469e7d9f",
-    "32fd05283ba4fa4f0a91c99705d93bd9f51a6001a041c94c52bef650424272c5"
+    "32fd05283ba4fa4f0a91c99705d93bd9f51a6001a041c94c52bef650424272c5",
+    "032364d5e0a78bba5fe1aade1f6035f10e9c8f6f939a2fe412c85f9ea188c6c9",
+    "66471a577a43df1950a54a849a83d83479aa148cbf070cc96b3c71b2a93dd782",
+    "3db77a038247a3cba244ba423dc03e449fc4678b4ece12d9bb29211c27a019d1",
+    "a7df62e71a39a98f0c3d6b38776ef02f4946250e1aaaf91826b392e7784598a8",
+    "74f2eb78e9230294fcf442e688bcdf395b9507784a38acd1764a759356ebf9bf",
+    "70b02ae54c9dcb0f2856367b8339b430f86a681ae8a034d9e4c69d36a8315e9d",
+    "fd0d6ca30a040fc2fdc78294ef62e5ac1ac5f51f190135d961f7393c2d9faf61",
+    "0aa9ed2bead8656dfac4550b26732675a6a5333604e0229125e23405c9d0c518",
+    "3c2ddbb4e8c756ac8c868ce0653b6506b7f0ac8074396ec7dc513879c711cf44",
+    "07afebfda754de2d88e25c225fe833b71392222d6028edeb37db794d24b139b3",
+    "f921662d66a3ab86434c444146d94ce35349832866344a33fa4c269a51d26ad4",
+    "f496b0dbb49103825d9d49918c84e1e62ba5f8a76d72b538ea56d6bb790a83cd",
+    "1f2c5dc87181d442d2aa6703b2cc344590b2ac4499f3971a6d17c0c839736b27",
+    "3dd7680ddce2da29c61b0fc7234513def5bef75c8b6b9338a7ac63940e326e23",
+    "98afe7cd1782ad4c909fdc3758e7169fe152fafe1186bdd4f82c9d0bf241fe66",
+    "eabf4f149643e10cff38d373000233302b13d3bd26d4f432a2672a12de3a24c0",
+    "44c009f353de4f483ba49403964818feb700ec40d0000c657260781d8d22de35",
+    "7be80794b8d0512be7d4fc5ab9a92445c83932255aa95b99d2cf66e3e114d47e",
+    "7ee7c618b0aec8c1230f8e5212e2121db0c7ddbc967bf48f56302f2ad4beb3ff",
+    "2978e2ee822b4f978e482b6e4b4a23d9ac52c11d79afedf511aeade72a6ac74f",
+    "e79486cdee5432f16826f621f8d2fe919875fe922cb9fe0e6e5dc2f206c943f8"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -2092,6 +2113,7 @@
       "preparedness",
       "blackout",
       "blackout",
+      "blackout",
       "blackout"
     ],
     "947987688392246": [
@@ -2101,6 +2123,7 @@
       "storm",
       "fire",
       "preparedness",
+      "blackout",
       "blackout",
       "blackout",
       "blackout"
@@ -2114,6 +2137,7 @@
       "preparedness",
       "blackout",
       "blackout",
+      "blackout",
       "blackout"
     ],
     "1206707192530278": [
@@ -2125,28 +2149,17 @@
       "storm",
       "fire",
       "fire",
+      "fire",
       "fire"
     ]
   },
   "linkDayKeys": [
-    "2026-08-17|https://www.ready.gov/power-outages",
-    "2026-08-17|https://www.ready.gov/home-fires",
-    "2026-08-17|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
-    "2026-08-17|https://www.ready.gov/car",
-    "2026-08-17|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
-    "2026-08-17|https://www.ready.gov/kit",
-    "2026-08-17|https://www.weather.gov/safety/flood",
-    "2026-08-17|https://www.ready.gov/thunderstorms-lightning",
-    "2026-08-17|https://www.ready.gov/safety-skills",
-    "2026-08-17|https://www.ready.gov/hurricanes",
-    "2026-08-17|https://www.ready.gov/financial-preparedness",
     "2026-08-18|https://www.ready.gov/floods",
     "2026-08-18|https://www.nfpa.org/education-and-research/home-fire-safety",
     "2026-08-18|https://www.ready.gov/thunderstorms-lightning",
     "2026-08-18|https://www.ready.gov/kids",
     "2026-08-18|https://www.ready.gov/safety-skills",
     "2026-08-18|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
-    "2026-08-17|https://www.ready.gov/plan",
     "2026-08-18|https://www.ready.gov/car",
     "2026-08-18|https://www.ready.gov/kit",
     "2026-08-19|https://www.usfa.fema.gov/prevention/home-fires/",
@@ -2283,7 +2296,19 @@
     "2026-08-31|https://www.weather.gov/safety/flood",
     "2026-08-31|https://www.ready.gov/hurricanes",
     "2026-08-31|https://www.ready.gov/financial-preparedness",
-    "2026-08-31|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html"
+    "2026-08-31|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+    "2026-09-01|https://www.ready.gov/winter-weather",
+    "2026-09-01|https://www.ready.gov/power-outages",
+    "2026-09-01|https://www.usfa.fema.gov/prevention/home-fires/",
+    "2026-09-01|https://www.ready.gov/kids",
+    "2026-09-01|https://www.ready.gov/floods",
+    "2026-09-01|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "2026-09-01|https://www.ready.gov/financial-preparedness",
+    "2026-09-01|https://www.ready.gov/plan",
+    "2026-09-01|https://www.nfpa.org/education-and-research/home-fire-safety",
+    "2026-09-01|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+    "2026-09-01|https://www.ready.gov/tornadoes",
+    "2026-09-01|https://www.ready.gov/home-fires"
   ],
   "sceneUses": [
     {
