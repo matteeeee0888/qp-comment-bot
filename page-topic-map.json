@@ -30,7 +30,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 123,
+    "active_ads": 170,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -39,7 +39,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 24,
+    "active_ads": 22,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -48,7 +48,7 @@
     "page_id": "1112110298653755",
     "page_name": "Sofia Rossi",
     "topic": "both",
-    "active_ads": 90,
+    "active_ads": 79,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -57,7 +57,7 @@
     "page_id": "1124746537378992",
     "page_name": "Steven Sampson",
     "topic": "both",
-    "active_ads": 18,
+    "active_ads": 32,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -66,7 +66,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 128,
+    "active_ads": 125,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -75,8 +75,8 @@
     "page_id": "1092442657286729",
     "page_name": "Elizabeth Willis",
     "topic": "both",
-    "active_ads": 38,
-    "tier": "MID",
+    "active_ads": 78,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
@@ -84,7 +84,7 @@
     "page_id": "1055885867606549",
     "page_name": "Stacy Peters",
     "topic": "both",
-    "active_ads": 66,
+    "active_ads": 70,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -93,7 +93,7 @@
     "page_id": "1031788496687467",
     "page_name": "Tamika Jones",
     "topic": "both",
-    "active_ads": 10,
+    "active_ads": 13,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -102,8 +102,8 @@
     "page_id": "968263026380089",
     "page_name": "Maria Cruz-Gonzalez",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 7,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
@@ -111,7 +111,7 @@
     "page_id": "936909452848936",
     "page_name": "Linda Lawson",
     "topic": "both",
-    "active_ads": 7,
+    "active_ads": 6,
     "tier": "LOW",
     "eligible": true,
     "source": "default"
@@ -129,8 +129,8 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 47,
-    "tier": "MID",
+    "active_ads": 93,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
@@ -138,7 +138,7 @@
     "page_id": "962411806966339",
     "page_name": "Susan Sutton",
     "topic": "both",
-    "active_ads": 63,
+    "active_ads": 82,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -147,7 +147,7 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 292,
+    "active_ads": 281,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -156,7 +156,7 @@
     "page_id": "911963812004163",
     "page_name": "Abigail Adams",
     "topic": "both",
-    "active_ads": 20,
+    "active_ads": 18,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -174,8 +174,8 @@
     "page_id": "768075889726058",
     "page_name": "Jake Morrison",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 12,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
@@ -183,7 +183,7 @@
     "page_id": "719343644592338",
     "page_name": "Susan Mitchell",
     "topic": "both",
-    "active_ads": 14,
+    "active_ads": 12,
     "tier": "MID",
     "eligible": true,
     "source": "default"
