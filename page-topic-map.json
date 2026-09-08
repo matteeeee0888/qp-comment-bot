@@ -3,7 +3,7 @@
     "page_id": "1177568348782847",
     "page_name": "Safe Haven Household",
     "topic": "both",
-    "active_ads": 246,
+    "active_ads": 259,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -12,7 +12,7 @@
     "page_id": "1171720999367903",
     "page_name": "Family First Defense",
     "topic": "both",
-    "active_ads": 162,
+    "active_ads": 174,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -21,8 +21,8 @@
     "page_id": "1206707192530278",
     "page_name": "Terrastrike By Quiet Protector ",
     "topic": "both",
-    "active_ads": 48,
-    "tier": "MID",
+    "active_ads": 53,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
@@ -48,7 +48,7 @@
     "page_id": "1112110298653755",
     "page_name": "Sofia Rossi",
     "topic": "both",
-    "active_ads": 80,
+    "active_ads": 81,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -66,7 +66,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 120,
+    "active_ads": 124,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -129,7 +129,7 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 84,
+    "active_ads": 140,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -138,7 +138,7 @@
     "page_id": "962411806966339",
     "page_name": "Susan Sutton",
     "topic": "both",
-    "active_ads": 62,
+    "active_ads": 63,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -147,7 +147,7 @@
     "page_id": "1059660273889438",
     "page_name": "The Family Readiness Project",
     "topic": "both",
-    "active_ads": 285,
+    "active_ads": 287,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -165,7 +165,7 @@
     "page_id": "947987688392246",
     "page_name": "QuietProtector",
     "topic": "both",
-    "active_ads": 47,
+    "active_ads": 49,
     "tier": "MID",
     "eligible": true,
     "source": "default"
