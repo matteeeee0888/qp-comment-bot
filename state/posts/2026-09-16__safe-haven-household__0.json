@@ -1,0 +1,22 @@
+{
+  "id": "2026-09-16__safe-haven-household__0",
+  "status": "scheduled",
+  "page_id": "1177568348782847",
+  "page_name": "Safe Haven Household",
+  "topic": "blackout",
+  "format": "fact",
+  "tier": "HIGH",
+  "scheduled_date": "2026-09-16",
+  "scheduled_time": "12:41",
+  "message": "We've all been there—your phone is on 5% and the lights go out! I found this resource from the Red Cross that gives great tips on how to prepare for a power outage. It’s all about staying calm and having a plan, so you can keep your cool when the tech goes dark. What’s your go-to strategy for handling unexpected blackouts?",
+  "image_path": "",
+  "image_source": "none",
+  "source_url": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1177568348782847_122110909089446738",
+  "error_reason": "",
+  "body_hash": "128689c2d11dc171dde65a320b3949079da2f87b5be9157d247e8430d51bc59f",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
+}
