@@ -1936,7 +1936,28 @@
     "904ecd426aae86039a0fa5e6cc35f24a3fa106e10d2cf05ead46e62647bcbf79",
     "93e485507be7995f0a6c201dd45860d9bd13a1f3ab1312a77abad58b6bfa00e0",
     "59b4623d667dc269ca0b25f5f93fced14c293f939e89d1081cbcb103369d0757",
-    "ab4fedec97f6deb7004fd678944dd26b887c5f1c23d80d8d4e2c98790aba660e"
+    "ab4fedec97f6deb7004fd678944dd26b887c5f1c23d80d8d4e2c98790aba660e",
+    "f9fb90255182a789571d2c2b3b8324297c10cb2c330f6352331409ac3e29f320",
+    "4e24225762441a45f3114ba4f5ccb8eadc70ebb2c03ab230e40dd9e33ac46238",
+    "2321ec11af20cd6968807de409e5e849ab7c64b2707f7ed2bc9f6cd7fc7a843e",
+    "8986d0b2a2ac68f677fbc3be4bc493e97e7ef00c7aa6d39fb39135a91a6f61fe",
+    "e533084538e60f5a7f74cc2b0f9ce8c637dcbbee1c721ba108fe7d34d8825a89",
+    "8be9d61b31ed187f7b3d80f59996dd92086e9bea48508223603303f761c77f24",
+    "647fc0b69931c2e7f20395bea7b87d5a64dcd609471172c930cd1162ce99f3ef",
+    "54f44ee1a6d95429a5b8be0afa258370096c285810867d07504102a473b73bfd",
+    "0a4d54138b2e3b23ec01d5a77d34cbf2ea15548e0375e8b9d3fa5405016acae1",
+    "02c99c16968acf103a5bc5017a42fd563a04dd971e4726f479700e07c3675425",
+    "ea19eeb1f3da597558ac1dd7de60a10389467fdbba03c5c4997895960cbf97da",
+    "a7499692aa3568b3f4d619b3ddbb8096d583f147d339d4c3462903039585806b",
+    "c86bba0366623b76f224380d780c9a000b57a321b70751f222af19d962fb229c",
+    "5e12dba85b7974970b909db2be92a6a41fe86a35e4f1bf21a2604bdf83379399",
+    "1146d07eefc272d064f2e51eb4c76740d1a28fa7ba42e59af852448913f3520c",
+    "7e483407b723a954f5c48aa10dd5f25d3a2d389187509cd8506827cb91ccb4d0",
+    "3283c1f95193bc5514f4928bd112a0a464d2a0df30d42f2537451c6751cd19ba",
+    "2928d75b2757248eebe008c57b9376f9ce7da52affb998c53ce8c95966f85009",
+    "e400773500283155da23d3ff5c7c2588dc96bc0865fb1c9cce9fb6657dab79a7",
+    "9dd9c4faddb895b4fce670d4fcc97a96ba0f867166c89b4abd72f0c8c8834dd8",
+    "bdee5bc1717f35ed39f296a886f4e3b34eb636c47f7aca462508c5505f816899"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -2530,14 +2551,6 @@
     ]
   },
   "linkDayKeys": [
-    "2026-09-03|https://www.ready.gov/power-outages",
-    "2026-09-03|https://www.ready.gov/home-fires",
-    "2026-09-03|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
-    "2026-09-03|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
-    "2026-09-03|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
-    "2026-09-03|https://www.weather.gov/safety/flood",
-    "2026-09-03|https://www.ready.gov/financial-preparedness",
-    "2026-09-03|https://www.ready.gov/thunderstorms-lightning",
     "2026-09-04|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
     "2026-09-04|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
     "2026-09-04|https://www.nfpa.org/education-and-research/home-fire-safety",
@@ -2692,29 +2705,22 @@
     "2026-09-17|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
     "2026-09-17|https://www.ready.gov/heat",
     "2026-09-17|https://www.ready.gov/financial-preparedness",
-    "2026-09-17|https://www.ready.gov/hurricanes"
+    "2026-09-17|https://www.ready.gov/hurricanes",
+    "2026-09-18|https://www.ready.gov/power-outages",
+    "2026-09-18|https://www.ready.gov/thunderstorms-lightning",
+    "2026-09-18|https://www.ready.gov/home-fires",
+    "2026-09-18|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "2026-09-18|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
+    "2026-09-18|https://www.ready.gov/heat",
+    "2026-09-18|https://www.ready.gov/tornadoes",
+    "2026-09-18|https://www.ready.gov/kids",
+    "2026-09-18|https://www.ready.gov/safety-skills",
+    "2026-09-18|https://www.weather.gov/safety/flood",
+    "2026-09-18|https://www.ready.gov/financial-preparedness",
+    "2026-09-18|https://www.usfa.fema.gov/prevention/home-fires/",
+    "2026-09-18|https://www.ready.gov/kit"
   ],
   "sceneUses": [
-    {
-      "h": "b672e99652e8c793",
-      "date": "2026-08-03"
-    },
-    {
-      "h": "aa78bf7f4494a941",
-      "date": "2026-08-03"
-    },
-    {
-      "h": "a51e8b80c3516a15",
-      "date": "2026-08-03"
-    },
-    {
-      "h": "d4e789650b080356",
-      "date": "2026-08-03"
-    },
-    {
-      "h": "20f37410ee332aee",
-      "date": "2026-08-03"
-    },
     {
       "h": "6444bffc2ae6567e",
       "date": "2026-08-04"
