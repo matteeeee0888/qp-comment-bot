@@ -3,7 +3,7 @@
     "page_id": "1177568348782847",
     "page_name": "Safe Haven Household",
     "topic": "both",
-    "active_ads": 382,
+    "active_ads": 402,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -12,7 +12,7 @@
     "page_id": "1171720999367903",
     "page_name": "Family First Defense",
     "topic": "both",
-    "active_ads": 189,
+    "active_ads": 191,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -138,8 +138,8 @@
     "page_id": "962411806966339",
     "page_name": "Susan Sutton",
     "topic": "both",
-    "active_ads": 48,
-    "tier": "MID",
+    "active_ads": 66,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
