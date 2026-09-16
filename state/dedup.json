@@ -2041,7 +2041,28 @@
     "4b69964706b1bf8c93e5dcc4f9bc1b5d983b35c94a5b1689c61715eea98c5157",
     "5610375bc7db4244f5c61e1519c8ae08b1729de7f7c69caa73bea0419f15833d",
     "27cc672dac474deed02ba1fdc6759dc26b1ea055c62e864259c3a4f596bbb6fd",
-    "cb678e4829091562e8ca11008ad0f2407ede90de3fccde0998b6aeaee9cc9d20"
+    "cb678e4829091562e8ca11008ad0f2407ede90de3fccde0998b6aeaee9cc9d20",
+    "8ffe48eebe8200fa3cdc4ef25d2b01864dd12d87bcd9ee85d2804eea8df37641",
+    "075016d2492e8b2737865b6c14063684548ccd428b4f74b40baff934f186c529",
+    "d65fb75c6c9dfb354418b479a82c94f74e18963b9ca9599f67c72fe388056d34",
+    "1053116a8d92412fc26e66dee97dea60d96d919335b2177bfd8d568887affe90",
+    "62d36e81e4ece107d981c280b8fa6871e28403bf4bf8530079717abfccee8655",
+    "7655cb6d5536e78184a94d166e4da9e9ee9efcdd565ab3a0c117b9a928355683",
+    "5d5bc250d722a049852f6db49ef280b2edc76daf19965f874ff7435e749d6f9d",
+    "e6d03bc74fd5f1b1c5a4b5c4fdb081deed28e54b942bba5b11b0d41db0ca488b",
+    "6564a09791bf849e16dc172fc192d7b2515f3ee67b26805e5e33beb600624c41",
+    "db58a8cef01e7b995a12e4e5ac5382389ff2403ebd337bce8ffaa9450b62770a",
+    "fdbf7791ac9cee2f138faaa0d4722f2519f9a7021df96d1c7b0c156d5a633061",
+    "0da6b31ddd0156f219c88bfaf9b34c2d815bb9227963398db0d92c07635341e2",
+    "47b995126799d3d2362b8b304a8ce57ec7768bb4687a37d5f382e7a0503725a1",
+    "b823a7eab5d8c6aa86f0c34aaab2fef171b27ee9568871665c81023f2bae5c30",
+    "5394e446dde1e78e3818131f502a79533fd25be739869f44e0f04367ef5e4c87",
+    "acd4f5d0e23419c49d7a8481538f23b5eab4f7bbbdd1b23ab7142a470c8cd472",
+    "f40d55f262658820f6a7cd3766ee0cfbdd5874c55a0b9169d0cdc7dfcc1c663c",
+    "ef5b10f452a950bfb0900ada07317570756201ed99747bdad478b01c0f8be6ea",
+    "3ee41c2add6463466f1de4c0e818dcd6fe49237406a296a5986c640dcae4e0c5",
+    "cc87566ce16997546f4b05e25b0dc259981d2bcaad8335766663b66ac39b3a60",
+    "0c3e06ac40ca698d1cf568338f2120e18f02c71fb714fd5a34f6aaba1149dabd"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -2635,17 +2656,6 @@
     ]
   },
   "linkDayKeys": [
-    "2026-09-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
-    "2026-09-08|https://www.nfpa.org/education-and-research/home-fire-safety",
-    "2026-09-08|https://www.ready.gov/home-fires",
-    "2026-09-08|https://www.ready.gov/power-outages",
-    "2026-09-08|https://www.ready.gov/safety-skills",
-    "2026-09-08|https://www.ready.gov/floods",
-    "2026-09-08|https://www.ready.gov/thunderstorms-lightning",
-    "2026-09-08|https://www.ready.gov/kids",
-    "2026-09-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
-    "2026-09-08|https://www.ready.gov/financial-preparedness",
-    "2026-09-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
     "2026-09-09|https://www.ready.gov/power-outages",
     "2026-09-09|https://www.usfa.fema.gov/prevention/home-fires/",
     "2026-09-09|https://www.nfpa.org/education-and-research/home-fire-safety",
@@ -2800,13 +2810,21 @@
     "2026-09-22|https://www.ready.gov/car",
     "2026-09-22|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
     "2026-09-22|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
-    "2026-09-22|https://www.ready.gov/kids"
+    "2026-09-22|https://www.ready.gov/kids",
+    "2026-09-23|https://www.ready.gov/power-outages",
+    "2026-09-23|https://www.usfa.fema.gov/prevention/home-fires/",
+    "2026-09-23|https://www.nfpa.org/education-and-research/home-fire-safety",
+    "2026-09-23|https://www.ready.gov/winter-weather",
+    "2026-09-23|https://www.ready.gov/floods",
+    "2026-09-23|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "2026-09-23|https://www.ready.gov/kit",
+    "2026-09-23|https://www.ready.gov/tornadoes",
+    "2026-09-23|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
+    "2026-09-23|https://www.ready.gov/car",
+    "2026-09-23|https://www.ready.gov/home-fires",
+    "2026-09-23|https://www.ready.gov/kids"
   ],
   "sceneUses": [
-    {
-      "h": "e68c30ec41a9ce3d",
-      "date": "2026-08-08"
-    },
     {
       "h": "40299da20ec960b9",
       "date": "2026-08-09"
