@@ -3,7 +3,7 @@
     "page_id": "1177568348782847",
     "page_name": "Safe Haven Household",
     "topic": "both",
-    "active_ads": 255,
+    "active_ads": 328,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -12,7 +12,7 @@
     "page_id": "1171720999367903",
     "page_name": "Family First Defense",
     "topic": "both",
-    "active_ads": 196,
+    "active_ads": 221,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -66,7 +66,7 @@
     "page_id": "985048591368725",
     "page_name": "Emily Cohen",
     "topic": "both",
-    "active_ads": 85,
+    "active_ads": 94,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -84,8 +84,8 @@
     "page_id": "1055885867606549",
     "page_name": "Stacy Peters",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 6,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
