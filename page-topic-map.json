@@ -12,7 +12,7 @@
     "page_id": "1171720999367903",
     "page_name": "Family First Defense",
     "topic": "both",
-    "active_ads": 251,
+    "active_ads": 246,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -21,7 +21,7 @@
     "page_id": "1206707192530278",
     "page_name": "Terrastrike By Quiet Protector ",
     "topic": "both",
-    "active_ads": 52,
+    "active_ads": 131,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -30,7 +30,7 @@
     "page_id": "1127031013825481",
     "page_name": "Lauren Gargulio",
     "topic": "both",
-    "active_ads": 46,
+    "active_ads": 58,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -129,7 +129,7 @@
     "page_id": "1003918682810439",
     "page_name": "Karen Keller",
     "topic": "both",
-    "active_ads": 142,
+    "active_ads": 140,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -174,8 +174,8 @@
     "page_id": "768075889726058",
     "page_name": "Jake Morrison",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 3,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
