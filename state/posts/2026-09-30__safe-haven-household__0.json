@@ -1,0 +1,22 @@
+{
+  "id": "2026-09-30__safe-haven-household__0",
+  "status": "scheduled",
+  "page_id": "1177568348782847",
+  "page_name": "Safe Haven Household",
+  "topic": "blackout",
+  "format": "fact",
+  "tier": "HIGH",
+  "scheduled_date": "2026-09-30",
+  "scheduled_time": "12:41",
+  "message": "Ever tried making dinner in the dark? It's quite the comedy show! This resource from the Red Cross has some handy tips for when the lights go out, so you can keep your cool (and maybe even your sense of humor). What’s your go-to plan when the power dips?",
+  "image_path": "",
+  "image_source": "none",
+  "source_url": "",
+  "link": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+  "post_id": "1177568348782847_122116036467446738",
+  "error_reason": "",
+  "body_hash": "f72e69ec786ff091263d4304030491a50a71a257f77da7c74f65b44f4d7f6c65",
+  "image_key": "gen",
+  "post_type": "link",
+  "scene": ""
+}
