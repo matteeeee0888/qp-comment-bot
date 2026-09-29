@@ -2314,7 +2314,28 @@
     "31e5033a82271d0ee1a38ee0b15ce39c3b338bd70d7985d807ba6ea624752a63",
     "313f0fec5bcf79ef20201b8ca2fdffa0c761432cdb6c7089f87bfe8d085d6f9b",
     "2c5cbaa7ea563145aa844d1c2d2bd1267041c07f9a70c75aaf309bba3956b55a",
-    "0910a32ddbd85921b8b9f82f80dcd1e9fa3f4a76380dcf5d9db6832aef6361a6"
+    "0910a32ddbd85921b8b9f82f80dcd1e9fa3f4a76380dcf5d9db6832aef6361a6",
+    "e1f98640404fe86ed57c970c4ad9a7f0d5004eeecefe429991646a44a1b51c6b",
+    "77c79cde4a7a856240a418a072410fc0482c14141c50d8046f4590a91289d4ad",
+    "b2c9faee1abfa2610afa040bd1b819de6723bd5e37117d3b2c23e36bfbf05ead",
+    "da03a00cf2270fe5249d9d5a6f9251738c47f94d46362e12d21dad19725b7798",
+    "de7f625adceebe3c714b784b04ae9728844764b12adc405528b8e19390996f05",
+    "072be328df8b7dfd958151b9d6bc441afe2b0494af3a1352cb09020f168c86f5",
+    "4c6de557c4811d4fa920aeb42941da09a18bfe9acc8502887010471fe172554c",
+    "a49300a44121bd363cf93ecf4cefd701e635aebb03f0f76033ce78decc564408",
+    "8211ed2a206df96ea319e4b084447806585a69b4446d3a205d49c075c6ba20c5",
+    "05aa160c8b3b50f570752ea89e3ae0ec5b2e9651b2dc5e525e0c7feeba89a533",
+    "c9c525adb2cc37bf7423d8f21a46ec373b8e48b632b0c2ef2a1605c55a9cd70f",
+    "167d86d3220d646dd0ded65884191a25f3e558bfbea40e815579b247e651d474",
+    "1bd133dcd7a4606d4a57dda136abdd23693ec44eab31a3317a78aa2e616a833a",
+    "8ce74145745dc3ea06c2057bcea6ef9a1fcf880c7dd59e0ad6f5b7749b282ede",
+    "2883c151169e5c07b5da2e7fed57fe57479c443e9aff70cdc18368224af72657",
+    "aa6976fb447d359649189bf14d5a0f6fdcd86bb88b1a681b89b87f65eb87510c",
+    "df5fbf686f8eef4856cde90fadf3a22058f6abcb882425d4e11179f8d6795a08",
+    "255272fac892127a97d997faeb1c726b964ea402c562c36f11697e802800c1ca",
+    "03a6f528ceb36b057f0fb3d2714115b3db826cfac54f7ebeab6de92c95fd2803",
+    "70e312aecec1ee5e41b4bbe74ca0418619cc311d46ae8e1e134bf8ba86c18434",
+    "638fdf3713c1300e6e5681f0d7cf464587b29cbba109f62bf1718cd714fb687e"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -2908,16 +2929,6 @@
     ]
   },
   "linkDayKeys": [
-    "2026-09-21|https://www.ready.gov/thunderstorms-lightning",
-    "2026-09-21|https://www.ready.gov/home-fires",
-    "2026-09-21|https://www.ready.gov/power-outages",
-    "2026-09-21|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
-    "2026-09-21|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
-    "2026-09-21|https://www.ready.gov/safety-skills",
-    "2026-09-21|https://www.ready.gov/financial-preparedness",
-    "2026-09-21|https://www.weather.gov/safety/flood",
-    "2026-09-21|https://www.ready.gov/hurricanes",
-    "2026-09-21|https://www.usfa.fema.gov/prevention/home-fires/",
     "2026-09-22|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
     "2026-09-22|https://www.nfpa.org/education-and-research/home-fire-safety",
     "2026-09-22|https://www.ready.gov/home-fires",
@@ -3072,13 +3083,20 @@
     "2026-10-05|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
     "2026-10-05|https://www.weather.gov/safety/flood",
     "2026-10-05|https://www.ready.gov/hurricanes",
-    "2026-10-05|https://www.usfa.fema.gov/prevention/home-fires/"
+    "2026-10-05|https://www.usfa.fema.gov/prevention/home-fires/",
+    "2026-10-06|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "2026-10-06|https://www.nfpa.org/education-and-research/home-fire-safety",
+    "2026-10-06|https://www.ready.gov/home-fires",
+    "2026-10-06|https://www.ready.gov/power-outages",
+    "2026-10-06|https://www.ready.gov/kids",
+    "2026-10-06|https://www.ready.gov/floods",
+    "2026-10-06|https://www.ready.gov/thunderstorms-lightning",
+    "2026-10-06|https://www.ready.gov/plan",
+    "2026-10-06|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
+    "2026-10-06|https://www.ready.gov/car",
+    "2026-10-06|https://www.ready.gov/financial-preparedness"
   ],
   "sceneUses": [
-    {
-      "h": "c76f7d52faff8464",
-      "date": "2026-08-21"
-    },
     {
       "h": "4ff367cc71a75477",
       "date": "2026-08-23"
