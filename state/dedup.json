@@ -2356,7 +2356,28 @@
     "01a9514578ab6e834a96db27a6784244e329dda98d116e96997b5dc37ba3274b",
     "f7238c4dff370fd48b6496dd060bf2e3920b0c758bf82b9e57e33729d85417c5",
     "955a04bbbf45bfddf4b137789f840a30a508ef6fd7efb4b5e1c7353c663346ea",
-    "63460659a5677187da14da89cd91a712315325e23e717365dba8d68f78e8dff8"
+    "63460659a5677187da14da89cd91a712315325e23e717365dba8d68f78e8dff8",
+    "d1098c3fcb18c5dcddf5eef252feafe09f410d2a096ec0ca6e892312517d2072",
+    "b05aef307e9a08e535280429c80b79dbe2b06e4e71cac45f09b42d20c4ad9d78",
+    "c293d92689eb7149978aa6118a4b58bf085b884d5520a4bef039555bc5cbf043",
+    "e06b19eafebeacf381c377f6289b94bdf7d8bb9255e5a8064d86ca138f91eaaa",
+    "2faa93f1e79a257f831a0e52dbdc07f5e3a60775c2f5140cc802f84659982630",
+    "83dc195512f41156d0beaa9aaba046fa240b4585866e421df2892df8c5fb1657",
+    "a0c34ee4d74b7b841876401176a84b0f61bc79bf5574b94db3e82e2759d51fa6",
+    "ba9e603bf0030275236645fdd7b5d8ecca707d8a84987c68e42bf2fe996a08bf",
+    "beafddec9c5163b4199d1f2b080fc0aa0e9c77bf76f5c75f4d21469fa97f41cf",
+    "08e725aada5e7ecfc9c7e15f8089f075a8d2ee0988aa24ac5c7145d698396546",
+    "0461c0f0be416b81cfd649280a3ccfa19f5d15dfc4f60e4979d595259950143b",
+    "7d8fc6a3a1f9fa1cc4dc8e08068e3a88eb2d1e09ea006f5a3f0ec3752d1122b2",
+    "e00498c300ac94c81aef64668e05ac93598d6f4a40d54ba4eea3c6f1805aa65d",
+    "44967e15d47b97c0edfcec53357ee5eeedc307e8d44316b0aa122b83098f7ce0",
+    "8612dc4477afe3212e7307ccfcf2ec1373b49e6fffd96ea67ffcc795b5963726",
+    "7b112fc88a2827304ec6ea32b398adf53aea226ef391d71c9f53bdbaa6a36731",
+    "30cbac536e4ed75b55fa88631d62f7b70814ad209648964903721b2892b3090d",
+    "359d672b332523cde121c559781e3ede6e5dfbadfaa143f7fec1499ac70982da",
+    "f5d8a6f431f33d723534e24baf68319c055ce307153514e28f69974b2217a48d",
+    "e5098a8e64fdb969e14d32699f542958d71d4de0901771d162b3ea4c4dc42a6c",
+    "7821bdaa6ba4a63535b6a22c8cb5b9212bfa9b5bfbf9203c02da65aabe39bd2f"
   ],
   "imageKeys": [],
   "recentTopicsByPage": {
@@ -2950,18 +2971,6 @@
     ]
   },
   "linkDayKeys": [
-    "2026-09-23|https://www.ready.gov/power-outages",
-    "2026-09-23|https://www.usfa.fema.gov/prevention/home-fires/",
-    "2026-09-23|https://www.nfpa.org/education-and-research/home-fire-safety",
-    "2026-09-23|https://www.ready.gov/winter-weather",
-    "2026-09-23|https://www.ready.gov/floods",
-    "2026-09-23|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
-    "2026-09-23|https://www.ready.gov/kit",
-    "2026-09-23|https://www.ready.gov/tornadoes",
-    "2026-09-23|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
-    "2026-09-23|https://www.ready.gov/car",
-    "2026-09-23|https://www.ready.gov/home-fires",
-    "2026-09-23|https://www.ready.gov/kids",
     "2026-09-24|https://www.ready.gov/hurricanes",
     "2026-09-24|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
     "2026-09-24|https://www.ready.gov/kit",
@@ -3116,13 +3125,18 @@
     "2026-10-07|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/hurricane.html",
     "2026-10-07|https://www.ready.gov/plan",
     "2026-10-07|https://www.ready.gov/home-fires",
-    "2026-10-07|https://www.ready.gov/kids"
+    "2026-10-07|https://www.ready.gov/kids",
+    "2026-10-08|https://www.ready.gov/hurricanes",
+    "2026-10-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html",
+    "2026-10-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html",
+    "2026-10-08|https://www.ready.gov/power-outages",
+    "2026-10-08|https://www.ready.gov/kit",
+    "2026-10-08|https://www.ready.gov/financial-preparedness",
+    "2026-10-08|https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/fire.html",
+    "2026-10-08|https://www.ready.gov/car",
+    "2026-10-08|https://www.ready.gov/heat"
   ],
   "sceneUses": [
-    {
-      "h": "4ff367cc71a75477",
-      "date": "2026-08-23"
-    },
     {
       "h": "3d2cad5290f3947c",
       "date": "2026-08-24"
