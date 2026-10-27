@@ -3,7 +3,7 @@
     "page_id": "1177568348782847",
     "page_name": "Safe Haven Household",
     "topic": "both",
-    "active_ads": 205,
+    "active_ads": 185,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -39,7 +39,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 81,
+    "active_ads": 5,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -120,7 +120,7 @@
     "page_id": "1050667511458583",
     "page_name": "TerraShell by QuietProtector",
     "topic": "both",
-    "active_ads": 604,
+    "active_ads": 619,
     "tier": "HIGH",
     "eligible": true,
     "source": "default"
@@ -165,8 +165,8 @@
     "page_id": "947987688392246",
     "page_name": "QuietProtector",
     "topic": "both",
-    "active_ads": 151,
-    "tier": "HIGH",
+    "active_ads": 13,
+    "tier": "MID",
     "eligible": true,
     "source": "default"
   },
