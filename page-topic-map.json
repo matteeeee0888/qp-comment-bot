@@ -39,7 +39,7 @@
     "page_id": "1188071991047656",
     "page_name": "Bruna Lorrell",
     "topic": "both",
-    "active_ads": 5,
+    "active_ads": 22,
     "tier": "MID",
     "eligible": true,
     "source": "default"
@@ -165,8 +165,8 @@
     "page_id": "947987688392246",
     "page_name": "QuietProtector",
     "topic": "both",
-    "active_ads": 13,
-    "tier": "MID",
+    "active_ads": 128,
+    "tier": "HIGH",
     "eligible": true,
     "source": "default"
   },
