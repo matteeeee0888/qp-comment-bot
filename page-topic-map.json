@@ -120,8 +120,8 @@
     "page_id": "1050667511458583",
     "page_name": "TerraShell by QuietProtector",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 1,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
@@ -165,8 +165,8 @@
     "page_id": "947987688392246",
     "page_name": "QuietProtector",
     "topic": "both",
-    "active_ads": 0,
-    "tier": "DORMANT",
+    "active_ads": 2,
+    "tier": "LOW",
     "eligible": true,
     "source": "default"
   },
